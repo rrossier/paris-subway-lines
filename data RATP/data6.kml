@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>JEANNE D'ARC - EGLISE DE LA GARE</description>
+	<Point>
+		<coordinates>2.36906796567513,48.8290687993661</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34067265379164,48.8464459741175</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35651775655058,48.8313902990204</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>OUDINE</description>
+	<Point>
+		<coordinates>2.37489165471146,48.8254540665144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>SAINT-JACQUES - GAY-LUSSAC</description>
+	<Point>
+		<coordinates>2.34236096344868,48.8438844715467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>BANQUIER</description>
+	<Point>
+		<coordinates>2.35401363042885,48.8337274559133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>RER DE SAINT-OUEN</description>
+	<Point>
+		<coordinates>2.32390798874559,48.9056086083518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>ARISTIDE BRIAND</description>
+	<Point>
+		<coordinates>2.28991836054984,48.8935302588536</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>TREZEL</description>
+	<Point>
+		<coordinates>2.29519154101644,48.8954465003984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>GENERAL LECLERC-VILLENEUVE-HOPITAL BEAUJON</description>
+	<Point>
+		<coordinates>2.30966139298698,48.9058488134855</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>GEORGES BOISSEAU</description>
+	<Point>
+		<coordinates>2.31707864128993,48.9036125166332</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>RER DE SAINT-OUEN</description>
+	<Point>
+		<coordinates>2.32287192944279,48.9054377334981</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>REPUBLIQUE-FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.31212995037905,48.9038362536881</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>GENERAL LECLERC-VILLENEUVE-HOPITAL BEAUJON</description>
+	<Point>
+		<coordinates>2.31028888257043,48.9051389782474</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>VOLTAIRE-VILLIERS</description>
+	<Point>
+		<coordinates>2.2798906757589,48.890047817589</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>LANDY-MARTRE</description>
+	<Point>
+		<coordinates>2.30506760387887,48.9049669286181</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>REPUBLIQUE-FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.31387524089385,48.9031086545345</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>MAIRIE DE CLICHY</description>
+	<Point>
+		<coordinates>2.30382856004399,48.9025760226885</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>CHANCE-MILLY</description>
+	<Point>
+		<coordinates>2.30125538016208,48.8978210906534</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>MAIRIE DE CLICHY-METRO</description>
+	<Point>
+		<coordinates>2.30651340721329,48.9037450669942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>JAURES-BARBUSSE</description>
+	<Point>
+		<coordinates>2.30538378428586,48.9006981441897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>JAURES-BARBUSSE</description>
+	<Point>
+		<coordinates>2.30564342782733,48.8996467210796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>GARE DE CLICHY-LEVALLOIS</description>
+	<Point>
+		<coordinates>2.29853008680014,48.8966249475443</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>VICTOR HUGO-SANZILLON</description>
+	<Point>
+		<coordinates>2.32100471299348,48.9038557676771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>VOLTAIRE-VILLIERS</description>
+	<Point>
+		<coordinates>2.28014935725127,48.8902905958996</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>MAIRIE DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28749260076892,48.8931697843044</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>VICTOR HUGO-SANZILLON</description>
+	<Point>
+		<coordinates>2.31964147000027,48.9038286128349</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>ANATOLE FRANCE-METRO</description>
+	<Point>
+		<coordinates>2.2853956041202,48.8911917122761</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>BARBUSSE-MARTRE</description>
+	<Point>
+		<coordinates>2.30791894797153,48.9012829568952</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>CHANCE-MILLY</description>
+	<Point>
+		<coordinates>2.30121437486135,48.8979828466072</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>GEORGES BOISSEAU</description>
+	<Point>
+		<coordinates>2.31807387056734,48.9034509133101</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>ANATOLE FRANCE-METRO</description>
+	<Point>
+		<coordinates>2.28425012736957,48.8918023365642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>TREZEL</description>
+	<Point>
+		<coordinates>2.29592825846194,48.8945929786513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>MARJOLIN</description>
+	<Point>
+		<coordinates>2.29246648142816,48.8942861649477</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>MARJOLIN</description>
+	<Point>
+		<coordinates>2.29233151350829,48.8927493092604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>GARE DE CLICHY-LEVALLOIS</description>
+	<Point>
+		<coordinates>2.2981483481148,48.8967326686027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>274 (VOLTAIRE-VILLIERS/RER DE SAINT-DENIS)</name>
+	<description>MAIRIE DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28799766870613,48.8923611488667</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PLACE CHARRAS</description>
+	<Point>
+		<coordinates>2.25045714518642,48.8952695403911</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PAIX-VERDUN</description>
+	<Point>
+		<coordinates>2.26136741397827,48.9004445870269</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PLACE MERMOZ</description>
+	<Point>
+		<coordinates>2.27394664341852,48.9027076938121</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>ALMA-BAUDIN</description>
+	<Point>
+		<coordinates>2.25307228561468,48.8964217710017</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PLACE DE BELGIQUE</description>
+	<Point>
+		<coordinates>2.26843853647296,48.903225893307</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PAIX-VERDUN</description>
+	<Point>
+		<coordinates>2.26041338729912,48.900318156327</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>STADE DE COURBEVOIE</description>
+	<Point>
+		<coordinates>2.25797502492054,48.8992111440164</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>POMPIDOU</description>
+	<Point>
+		<coordinates>2.27767488275254,48.8969308986031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PLACE DE BELGIQUE</description>
+	<Point>
+		<coordinates>2.26852012791514,48.9033787209466</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>HEROLD-MAIRIE DE COURBEVOIE</description>
+	<Point>
+		<coordinates>2.25624716629567,48.8970890192744</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>HEROLD-MAIRIE DE COURBEVOIE</description>
+	<Point>
+		<coordinates>2.2565060942382,48.8971251435016</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>ULBACH</description>
+	<Point>
+		<coordinates>2.26384675167206,48.901587502403</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>STADE DE COURBEVOIE</description>
+	<Point>
+		<coordinates>2.25751153330165,48.8992288091385</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>ALMA-BAUDIN</description>
+	<Point>
+		<coordinates>2.25188636783452,48.896456876223</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PLACE MERMOZ</description>
+	<Point>
+		<coordinates>2.27480597122212,48.9022947405102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>ULBACH</description>
+	<Point>
+		<coordinates>2.2645690290863,48.901740725726</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PONT DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28022379334454,48.8969591066695</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>275 (PONT DE LEVALLOIS-METRO/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PONT DE LEVALLOIS-METRO</description>
+	<Point>
+		<coordinates>2.28064670839568,48.8966267840707</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>MOULIN DES BRUYERES</description>
+	<Point>
+		<coordinates>2.26203960272078,48.9069157181156</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.25696976237455,48.9057800412279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>VERDUN-RUE LATERALE</description>
+	<Point>
+		<coordinates>2.25882892716503,48.902429094914</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PLACE CHARRAS</description>
+	<Point>
+		<coordinates>2.25045714518642,48.8952695403911</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>ALMA-BAUDIN</description>
+	<Point>
+		<coordinates>2.25188636783452,48.896456876223</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>STADE DE COURBEVOIE</description>
+	<Point>
+		<coordinates>2.25797502492054,48.8992111440164</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>STADE DE COURBEVOIE</description>
+	<Point>
+		<coordinates>2.25751153330165,48.8992288091385</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PAIX-VERDUN</description>
+	<Point>
+		<coordinates>2.26059009265068,48.9006597804324</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>HEROLD-MAIRIE DE COURBEVOIE</description>
+	<Point>
+		<coordinates>2.25624716629567,48.8970890192744</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PAIX-VERDUN</description>
+	<Point>
+		<coordinates>2.26041338729912,48.900318156327</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>HEROLD-MAIRIE DE COURBEVOIE</description>
+	<Point>
+		<coordinates>2.2565060942382,48.8971251435016</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>LES BRUYERES</description>
+	<Point>
+		<coordinates>2.26250515825456,48.9055140277241</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>ALMA-BAUDIN</description>
+	<Point>
+		<coordinates>2.25307228561468,48.8964217710017</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.25605781466929,48.9048447674649</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>VERDUN-RUE LATERALE</description>
+	<Point>
+		<coordinates>2.25877495667343,48.9020605882401</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.2568354547248,48.9044768240779</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>278 (LES BRUYERES/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>MOULIN DES BRUYERES</description>
+	<Point>
+		<coordinates>2.26153627308115,48.9061604857279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>ALESIA - MAINE</description>
+	<Point>
+		<coordinates>2.32633730221684,48.8283535394152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>LA TOUR MAUBOURG - SAINT-DOMINIQUE</description>
+	<Point>
+		<coordinates>2.30985004348788,48.8584770842565</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>DUROC</description>
+	<Point>
+		<coordinates>2.31607927410292,48.8471631412631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>FONTENOY - UNESCO</description>
+	<Point>
+		<coordinates>2.30962212770898,48.8516555610957</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>LOSSERAND - MAINE</description>
+	<Point>
+		<coordinates>2.32302719704553,48.8364600129791</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>ECOLE MILITAIRE</description>
+	<Point>
+		<coordinates>2.30592999979006,48.8540273370274</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>LA BOETIE - MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31649066110485,48.8740445389026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>CHATEAU - MAIRIE DU 14E</description>
+	<Point>
+		<coordinates>2.32428054635474,48.8333144993514</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>SAINT-PHILIPPE-DU-ROULE</description>
+	<Point>
+		<coordinates>2.31030576065188,48.8726862167387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>RUE CLER</description>
+	<Point>
+		<coordinates>2.30729104919598,48.8555735280196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>BRETEUIL</description>
+	<Point>
+		<coordinates>2.31140862677008,48.8467667690942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>PONT DES INVALIDES - PLACE DE FINLANDE</description>
+	<Point>
+		<coordinates>2.31014785053653,48.8620092032997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>MAINE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.31873532324905,48.8454469698222</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.322167203431,48.8442341389969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>MAIRIE DU 14E</description>
+	<Point>
+		<coordinates>2.32462110391151,48.832460713472</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>DUQUESNE - LOWENDAL</description>
+	<Point>
+		<coordinates>2.30872298033319,48.8522125720907</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.32135452132993,48.8745395888581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>PALAIS DE LA DECOUVERTE</description>
+	<Point>
+		<coordinates>2.31005085459958,48.8651457776873</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32258030175726,48.8761394847801</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>INVALIDES - LA TOUR MAUBOURG</description>
+	<Point>
+		<coordinates>2.30949664401313,48.857101926434</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>GAITE</description>
+	<Point>
+		<coordinates>2.32211437519882,48.8386169176146</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DU DEPART</description>
+	<Point>
+		<coordinates>2.32357010915878,48.8428322540624</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>PORTE D'ORLEANS</description>
+	<Point>
+		<coordinates>2.32673308130194,48.8233654259992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.308918112888,48.868965140425</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32626954884415,48.8268885473337</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>EL SALVADOR</description>
+	<Point>
+		<coordinates>2.31102533233649,48.8507301686642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.32137853424177,48.8406120593587</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (/PORTE D'ORLEANS)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES - FRANKLIN D. ROOSEVELT</description>
+	<Point>
+		<coordinates>2.30987116820066,48.8700618186387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>ECOLE MILITAIRE</description>
+	<Point>
+		<coordinates>2.30599792901782,48.8543059658654</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>GAITE</description>
+	<Point>
+		<coordinates>2.32276812668847,48.837853055777</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>LOSSERAND - MAINE</description>
+	<Point>
+		<coordinates>2.32339480420957,48.8364330935942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>MAINE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.31832663102804,48.8459322312522</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>BRETEUIL</description>
+	<Point>
+		<coordinates>2.31214377697899,48.8471713640238</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>FONTENOY - UNESCO</description>
+	<Point>
+		<coordinates>2.30683055812709,48.851169557291</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>DUQUESNE - LOWENDAL</description>
+	<Point>
+		<coordinates>2.30824587487003,48.8530033535614</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>ALESIA - MAINE</description>
+	<Point>
+		<coordinates>2.32658229546453,48.8285243267365</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>EL SALVADOR</description>
+	<Point>
+		<coordinates>2.31112047207254,48.8511076635209</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DE L'ARRIVEE</description>
+	<Point>
+		<coordinates>2.32260292498177,48.8442971060581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DU DEPART</description>
+	<Point>
+		<coordinates>2.32376078436968,48.8426615126757</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>HOPITAL DES ENFANTS MALADES</description>
+	<Point>
+		<coordinates>2.31552119256186,48.8465878404688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>PORTE D'ORLEANS</description>
+	<Point>
+		<coordinates>2.32546742516949,48.8224755273811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>CHATEAU - MAIRIE DU 14E</description>
+	<Point>
+		<coordinates>2.32458002116776,48.8334493456302</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32665059232275,48.8273829024511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.32169156252657,48.841070465613</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (ECOLE MILITAIRE/)</name>
+	<description>MAIRIE DU 14E</description>
+	<Point>
+		<coordinates>2.32516575496785,48.8320293647389</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32665059232275,48.8273829024511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>BRETEUIL</description>
+	<Point>
+		<coordinates>2.31140862677008,48.8467667690942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>ALESIA - MAINE</description>
+	<Point>
+		<coordinates>2.32633730221684,48.8283535394152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES - MATIGNON</description>
+	<Point>
+		<coordinates>2.31078440141903,48.8691812658736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>LOSSERAND - MAINE</description>
+	<Point>
+		<coordinates>2.32302719704553,48.8364600129791</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.32135452132993,48.8745395888581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.32169156252657,48.841070465613</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>DUQUESNE - LOWENDAL</description>
+	<Point>
+		<coordinates>2.30872298033319,48.8522125720907</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DE L'ARRIVEE</description>
+	<Point>
+		<coordinates>2.32260292498177,48.8442971060581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>LA TOUR MAUBOURG - SAINT-DOMINIQUE</description>
+	<Point>
+		<coordinates>2.31016319506139,48.8587108287779</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>HOPITAL DES ENFANTS MALADES</description>
+	<Point>
+		<coordinates>2.31552119256186,48.8465878404688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>PORTE D'ORLEANS</description>
+	<Point>
+		<coordinates>2.32546742516949,48.8224755273811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>PALAIS DE LA DECOUVERTE</description>
+	<Point>
+		<coordinates>2.31030960909461,48.8652806470472</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>INVALIDES - LA TOUR MAUBOURG</description>
+	<Point>
+		<coordinates>2.31077665672836,48.8576684257775</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.308918112888,48.868965140425</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>MATIGNON - SAINT-HONORE</description>
+	<Point>
+		<coordinates>2.31463810805272,48.8731185088635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>MAINE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.31873532324905,48.8454469698222</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>ECOLE MILITAIRE</description>
+	<Point>
+		<coordinates>2.30592999979006,48.8540273370274</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.322167203431,48.8442341389969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>PONT DES INVALIDES - PLACE DE FINLANDE</description>
+	<Point>
+		<coordinates>2.31014785053653,48.8620092032997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>PALAIS DE LA DECOUVERTE</description>
+	<Point>
+		<coordinates>2.31005085459958,48.8651457776873</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32258030175726,48.8761394847801</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>INVALIDES - LA TOUR MAUBOURG</description>
+	<Point>
+		<coordinates>2.30949664401313,48.857101926434</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>LA BOETIE - MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31649066110485,48.8740445389026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>GAITE</description>
+	<Point>
+		<coordinates>2.32276812668847,48.837853055777</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32258030175726,48.8761394847801</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DU DEPART</description>
+	<Point>
+		<coordinates>2.32376078436968,48.8426615126757</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>ECOLE MILITAIRE</description>
+	<Point>
+		<coordinates>2.30637905024126,48.8546835381237</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>MAINE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.31832663102804,48.8459322312522</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>PORTE D'ORLEANS</description>
+	<Point>
+		<coordinates>2.32659700073405,48.8232036357543</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>EL SALVADOR</description>
+	<Point>
+		<coordinates>2.31102533233649,48.8507301686642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>MAIRIE DU 14E</description>
+	<Point>
+		<coordinates>2.32516575496785,48.8320293647389</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.31017179414877,48.8683273304638</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>ALESIA - MAINE</description>
+	<Point>
+		<coordinates>2.32658229546453,48.8285243267365</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>HAUSSMANN - MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31439226976468,48.8744755453763</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32626954884415,48.8268885473337</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>BRETEUIL</description>
+	<Point>
+		<coordinates>2.31214377697899,48.8471713640238</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.32137853424177,48.8406120593587</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.31875209547002,48.8747818703274</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>DUQUESNE - LOWENDAL</description>
+	<Point>
+		<coordinates>2.30824587487003,48.8530033535614</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES - FRANKLIN D. ROOSEVELT</description>
+	<Point>
+		<coordinates>2.30987116820066,48.8700618186387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DU DEPART</description>
+	<Point>
+		<coordinates>2.32357010915878,48.8428322540624</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>LA TOUR MAUBOURG - SAINT-DOMINIQUE</description>
+	<Point>
+		<coordinates>2.30985004348788,48.8584770842565</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>GAITE</description>
+	<Point>
+		<coordinates>2.32211437519882,48.8386169176146</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>MAIRIE DU 14E</description>
+	<Point>
+		<coordinates>2.32462110391151,48.832460713472</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>LOSSERAND - MAINE</description>
+	<Point>
+		<coordinates>2.32339480420957,48.8364330935942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>CHATEAU - MAIRIE DU 14E</description>
+	<Point>
+		<coordinates>2.32428054635474,48.8333144993514</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>CHATEAU - MAIRIE DU 14E</description>
+	<Point>
+		<coordinates>2.32458002116776,48.8334493456302</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>EL SALVADOR</description>
+	<Point>
+		<coordinates>2.31112047207254,48.8511076635209</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>DUROC</description>
+	<Point>
+		<coordinates>2.31607927410292,48.8471631412631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>FONTENOY - UNESCO</description>
+	<Point>
+		<coordinates>2.30962212770898,48.8516555610957</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>RUE CLER</description>
+	<Point>
+		<coordinates>2.30729104919598,48.8555735280196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>FONTENOY - UNESCO</description>
+	<Point>
+		<coordinates>2.30683055812709,48.851169557291</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>SAINT-PHILIPPE-DU-ROULE</description>
+	<Point>
+		<coordinates>2.31030576065188,48.8726862167387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>28 (GARE SAINT-LAZARE/PORTE D'ORLEANS)</name>
+	<description>PONT DES INVALIDES - PLACE DE FINLANDE</description>
+	<Point>
+		<coordinates>2.31042022514028,48.8621171136861</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>289 (CLAMART CITE DE LA PLAINE/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>RUE DE SEINE</description>
+	<Point>
+		<coordinates>2.25033833879943,48.827944830787</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>289 (CLAMART CITE DE LA PLAINE/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>PORTE DE SAINT-CLOUD-METRO</description>
+	<Point>
+		<coordinates>2.25746895205978,48.8383484855368</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>289 (CLAMART CITE DE LA PLAINE/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>RUE DE SEINE</description>
+	<Point>
+		<coordinates>2.25010677416035,48.8280345379554</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>289 (CLAMART CITE DE LA PLAINE/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>LES PEUPLIERS</description>
+	<Point>
+		<coordinates>2.25483382266149,48.8344191161417</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>289 (CLAMART CITE DE LA PLAINE/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>PORTE DE SAINT-CLOUD-METRO</description>
+	<Point>
+		<coordinates>2.25750993610193,48.8382586372866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>289 (CLAMART CITE DE LA PLAINE/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>LES PEUPLIERS</description>
+	<Point>
+		<coordinates>2.25431685389026,48.8341850795514</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>289 (CLAMART CITE DE LA PLAINE/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>RUE DU POINT DU JOUR</description>
+	<Point>
+		<coordinates>2.25346198888647,48.8324318975951</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>289 (CLAMART CITE DE LA PLAINE/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>RUE DU POINT DU JOUR</description>
+	<Point>
+		<coordinates>2.25264635096778,48.8317033238422</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>VICTOIRES</description>
+	<Point>
+		<coordinates>2.3418454335538,48.8654274032635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33273165666107,48.869768297264</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>RAMBOUILLET</description>
+	<Point>
+		<coordinates>2.38130539480505,48.8444606219848</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>DUBRUNFAUT</description>
+	<Point>
+		<coordinates>2.39150043813032,48.8406097480868</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>DOCTEUR GOUJON - REUILLY</description>
+	<Point>
+		<coordinates>2.39725855998122,48.8393936654891</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.36954531695001,48.8523913607558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>LYON - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37099990628506,48.8483286168513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32439287471898,48.8744590698057</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>DAUMESNIL - FELIX EBOUE</description>
+	<Point>
+		<coordinates>2.39459047246678,48.8399072710132</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>TURENNE - SAINT-GILLES</description>
+	<Point>
+		<coordinates>2.36405989987761,48.8582705092638</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>TURBIGO - ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.3483702350648,48.8638541825684</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>BIBLIOTHEQUE NATIONALE</description>
+	<Point>
+		<coordinates>2.33816739829906,48.8664430604808</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>HOPITAL ROTHSCHILD</description>
+	<Point>
+		<coordinates>2.39723551630861,48.8430156587851</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>DUBRUNFAUT</description>
+	<Point>
+		<coordinates>2.39068352117988,48.840646067658</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37285009414426,48.8456318270086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>BASTILLE - BEAUMARCHAIS</description>
+	<Point>
+		<coordinates>2.3689742206038,48.8538654575096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32989763499652,48.8720329627605</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

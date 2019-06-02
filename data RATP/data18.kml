@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>CHAMPS-ELYSEES - CLEMENCEAU</description>
+	<Point>
+		<coordinates>2.31311465630567,48.8677797347218</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>LES SABLONS</description>
+	<Point>
+		<coordinates>2.27156120036551,48.8810473069688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.32024122356324,48.8625413284113</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>CHARLES DE GAULLE - ETOILE - CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.29621772548141,48.8732933350606</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>PORTE MAILLOT - PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.2828873931319,48.8786174634518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>RUE DE L'HOTEL DE VILLE</description>
+	<Point>
+		<coordinates>2.26818037481486,48.8821328529965</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>ANDRE MAUROIS</description>
+	<Point>
+		<coordinates>2.2796038155841,48.878382251022</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25822802765542,48.8852632153808</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.3085091882628,48.8693694728444</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>CONCORDE - COURS LA REINE</description>
+	<Point>
+		<coordinates>2.31752892358423,48.8667200393742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25892260193861,48.8855512651409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>LES SABLONS</description>
+	<Point>
+		<coordinates>2.27231032113666,48.8813173352353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>LES GRAVIERS</description>
+	<Point>
+		<coordinates>2.26545381913518,48.8829940171425</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>GENERAL LECLERC-VILLENEUVE-HOPITAL BEAUJON</description>
+	<Point>
+		<coordinates>2.31028888257043,48.9051389782474</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>REAUMUR-MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34353497171209,48.8683841668312</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>CARREFOUR DE CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33920307388938,48.8757898678731</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>BOULAY</description>
+	<Point>
+		<coordinates>2.31618324069135,48.8929356551162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>GENERAL LECLERC-VILLENEUVE-HOPITAL BEAUJON</description>
+	<Point>
+		<coordinates>2.30966139298698,48.9058488134855</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>REPUBLIQUE-FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.31363017454261,48.9024166000216</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>GENERAL LECLERC-VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.31543014351159,48.9011677360883</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>COQUILLIERE-LES HALLES</description>
+	<Point>
+		<coordinates>2.34226753734912,48.8634501635861</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>PORTE DE CLICHY</description>
+	<Point>
+		<coordinates>2.3128156834305,48.8951278789184</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>COQUILLIERE-LES HALLES</description>
+	<Point>
+		<coordinates>2.3418452401544,48.8632434707877</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>LEGENDRE</description>
+	<Point>
+		<coordinates>2.32189512103072,48.8893686177065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>GANNERON</description>
+	<Point>
+		<coordinates>2.32605259465121,48.8860528023631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>GANNERON</description>
+	<Point>
+		<coordinates>2.32657054331257,48.8856124762037</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>PROVENCE-FAUBOURG MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34285436140401,48.873471028526</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>SAINT GEORGES</description>
+	<Point>
+		<coordinates>2.33786783768062,48.8781265760474</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>VICTOR HUGO-JEAN JAURES</description>
+	<Point>
+		<coordinates>2.31090606289653,48.8978595627525</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>BOURSE</description>
+	<Point>
+		<coordinates>2.34105556060571,48.8685280693006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>LA BRUYERE</description>
+	<Point>
+		<coordinates>2.33237650582818,48.8797441863207</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>PORTE DE CLICHY</description>
+	<Point>
+		<coordinates>2.31237972758315,48.8946874183053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>LOUVRE-ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.34262184165519,48.8647533179836</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>BROCHANT-CARDINET</description>
+	<Point>
+		<coordinates>2.31694677218066,48.8922437756323</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>LA FOURCHE</description>
+	<Point>
+		<coordinates>2.32515274182534,48.8878321820611</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>LEGENDRE</description>
+	<Point>
+		<coordinates>2.32256293552161,48.8893417403088</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>GENERAL LECLERC-VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.31533492229174,48.9006914019412</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>BLANCHE</description>
+	<Point>
+		<coordinates>2.33293488877066,48.8832312610774</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>SAINT GEORGES-CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33694129644038,48.8764369683023</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>PIGALLE-CHAPTAL</description>
+	<Point>
+		<coordinates>2.33487004781783,48.8808137461526</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>PROVENCE-DROUOT</description>
+	<Point>
+		<coordinates>2.34059275500012,48.8744956662297</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>REAUMUR-MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34363023018423,48.8675393508762</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>REPUBLIQUE-FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.31212995037905,48.9038362536881</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>VICTOR HUGO-JEAN JAURES</description>
+	<Point>
+		<coordinates>2.31091982171463,48.8976079261248</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>RUE DES MOINES</description>
+	<Point>
+		<coordinates>2.32061367594885,48.8904469083312</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>LA FOURCHE</description>
+	<Point>
+		<coordinates>2.32478480995816,48.8876973360729</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>BLANCHE-CALAIS</description>
+	<Point>
+		<coordinates>2.33154507918621,48.8818291927226</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>RICHELIEU-DROUOT-MAIRIE DU 9EME</description>
+	<Point>
+		<coordinates>2.33999314973475,48.87233872715</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>SAINT GEORGES</description>
+	<Point>
+		<coordinates>2.33713204569853,48.8786208776106</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>LOUVRE-RIVOLI</description>
+	<Point>
+		<coordinates>2.34115038014717,48.8613022189703</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>RICHELIEU-4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33884864126677,48.8699750811066</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>BLANCHE</description>
+	<Point>
+		<coordinates>2.33203552474116,48.8829885696519</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>PLACE DE CLICHY-CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.32888744927424,48.8844173604888</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>CURTON</description>
+	<Point>
+		<coordinates>2.31286832251667,48.8991271649574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>GRANDS BOULEVARDS</description>
+	<Point>
+		<coordinates>2.34282681283582,48.8706849606959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>CARREFOUR DE CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33980260620594,48.8763201066956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>CURTON</description>
+	<Point>
+		<coordinates>2.31284118697716,48.8988575457559</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>BOULAY</description>
+	<Point>
+		<coordinates>2.31584252174488,48.8928816714029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>HOTEL DE VILLE DE PARIS-04</description>
+	<Point>
+		<coordinates>2.35148772540521,48.8567538000509</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34909051498589,48.8564664645516</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>BROCHANT-CARDINET</description>
+	<Point>
+		<coordinates>2.31773734557169,48.8920731514248</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34693901965623,48.859010100138</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>LOUVRE-ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.34331666427126,48.8655082237815</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>PONT NEUF-QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.3428118468672,48.8581655468956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>LOUVRE-RIVOLI</description>
+	<Point>
+		<coordinates>2.34018320439243,48.8602237583759</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>74 (BERGES DE SEINE/HOTEL DE VILLE DE PARIS-04)</name>
+	<description>RIVOLI-PONT NEUF</description>
+	<Point>
+		<coordinates>2.34469169660975,48.8596933050586</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>TURBIGO - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36118986125609,48.8667102801451</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>PORTE BRUNET</description>
+	<Point>
+		<coordinates>2.39497949549072,48.8836127972836</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>PORTE DE PANTIN</description>
+	<Point>
+		<coordinates>2.39643138591227,48.8901008533719</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>RHIN ET DANUBE</description>
+	<Point>
+		<coordinates>2.39304250898516,48.8818252582512</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>CENTRE GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.35280998972847,48.8604564511262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>D'HAUTPOUL</description>
+	<Point>
+		<coordinates>2.3876067113296,48.8831308295137</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>ALIBERT</description>
+	<Point>
+		<coordinates>2.36984325923183,48.8713996201508</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>HOPITAL SAINT-LOUIS</description>
+	<Point>
+		<coordinates>2.369925677091,48.872469088847</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>MATHURIN MOREAU - SIMON BOLIVAR</description>
+	<Point>
+		<coordinates>2.37355386640839,48.8783726922978</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>COLONEL FABIEN</description>
+	<Point>
+		<coordinates>2.37106009528762,48.8779959602881</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35722527933714,48.8657763250017</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>PORTE CHAUMONT</description>
+	<Point>
+		<coordinates>2.39485983705294,48.8863000361878</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>PORTE DE PANTIN - MARSEILLAISE</description>
+	<Point>
+		<coordinates>2.3978476987878,48.889165473683</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>PORTE CHAUMONT</description>
+	<Point>
+		<coordinates>2.39424617634918,48.8859318552431</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>SECRETAN - BUTTES CHAUMONT</description>
+	<Point>
+		<coordinates>2.3777509205385,48.8787577926118</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>SECRETAN - BUTTES CHAUMONT</description>
+	<Point>
+		<coordinates>2.3777373718204,48.878856657202</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>GRENIER SAINT-LAZARE - QUARTIER DE L'HORLOGE</description>
+	<Point>
+		<coordinates>2.35424107213917,48.8630985498798</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>MARSEILLAISE - CHEMINETS</description>
+	<Point>
+		<coordinates>2.39806238315861,48.8862894580207</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>GRANGE AUX BELLES - JULIETTE DODU</description>
+	<Point>
+		<coordinates>2.36891932555322,48.8754890955407</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>PORTE DE PANTIN</description>
+	<Point>
+		<coordinates>2.39493108672474,48.8890950231745</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>JULES FERRY</description>
+	<Point>
+		<coordinates>2.36766194541057,48.8688837431334</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>JULES FERRY</description>
+	<Point>
+		<coordinates>2.36748496793072,48.8690994844052</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>ARMAND CARREL - MAIRIE DU 19E</description>
+	<Point>
+		<coordinates>2.38263230392524,48.8825306822166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>D'HAUTPOUL</description>
+	<Point>
+		<coordinates>2.38847879931469,48.8830855216528</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.3427982244337,48.8581475726872</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>GONCOURT</description>
+	<Point>
+		<coordinates>2.37041448951574,48.8698716162429</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>ARMAND CARREL - MAIRIE DU 19E</description>
+	<Point>
+		<coordinates>2.38210048893579,48.8821084829745</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>ARCHIVES - HAUDRIETTES</description>
+	<Point>
+		<coordinates>2.35887190947328,48.8617137413039</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34693901965623,48.859010100138</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>TURBIGO - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36144849232003,48.8662788345682</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>JEAN MENANS - BUTTES CHAUMONT</description>
+	<Point>
+		<coordinates>2.37940087709092,48.8802580939609</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>ALIBERT</description>
+	<Point>
+		<coordinates>2.36585131692754,48.8711939366748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.35084783792926,48.8577424919245</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>AVENUE RICHERAND</description>
+	<Point>
+		<coordinates>2.36619250215668,48.8722453710837</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>MATHURIN MOREAU - SIMON BOLIVAR</description>
+	<Point>
+		<coordinates>2.37450767375486,48.8783723979274</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36361547476228,48.8682106562407</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>PONT NEUF</description>
+	<Point>
+		<coordinates>2.34262123598523,48.8589025239864</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.3483278354662,48.8566732488708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>ARCHIVES - RAMBUTEAU</description>
+	<Point>
+		<coordinates>2.35650099779142,48.8596110955415</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36441908991059,48.8679228805239</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>PORTE BRUNET</description>
+	<Point>
+		<coordinates>2.3946659007964,48.8834601657232</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>SQUARE DU TEMPLE - MAIRIE DU 3EME - CARREAU DU TEMPLE</description>
+	<Point>
+		<coordinates>2.3605620186857,48.8640501433448</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>COLONEL FABIEN</description>
+	<Point>
+		<coordinates>2.37071960892021,48.8782387128548</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>SAMBRE ET MEUSE</description>
+	<Point>
+		<coordinates>2.3703909585922,48.8756864158541</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>RHIN ET DANUBE</description>
+	<Point>
+		<coordinates>2.3928793740454,48.8821848244701</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>LA VERRERIE</description>
+	<Point>
+		<coordinates>2.35456618919981,48.8576880849587</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.34990765750363,48.856214732361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>MARSEILLAISE - CHEMINETS</description>
+	<Point>
+		<coordinates>2.39822582278637,48.886208489556</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>JEAN MENANS - BUTTES CHAUMONT</description>
+	<Point>
+		<coordinates>2.37974171173506,48.8804736671716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>PORTE DE PANTIN - MARSEILLAISE</description>
+	<Point>
+		<coordinates>2.39801146387592,48.8893541214305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>75 (PORTE DE PANTIN/PONT NEUF)</name>
+	<description>HOPITAL SAINT-LOUIS</description>
+	<Point>
+		<coordinates>2.36984435518392,48.8731431597571</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>PYRENEES - BAGNOLET</description>
+	<Point>
+		<coordinates>2.40180309653511,48.8588132558034</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>BASTILLE - RUE SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.36852448299076,48.8533712663884</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>LEDRU ROLLIN - FAUBOURG SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.37557786050971,48.8514818381033</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.34116379341917,48.8585430840511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>EGLISE SAINT-GERVAIS</description>
+	<Point>
+		<coordinates>2.35517846666798,48.8558365833933</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>LEDRU ROLLIN - FAUBOURG SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.37632685818048,48.8514366573733</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>LOUVRE - RIVOLI</description>
+	<Point>
+		<coordinates>2.34072806936527,48.8605652651281</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>FAIDHERBE</description>
+	<Point>
+		<coordinates>2.38267555330461,48.8541306440151</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>CHARONNE - PHILIPPE AUGUSTE</description>
+	<Point>
+		<coordinates>2.39048110246618,48.8556912273772</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>SAINT-PAUL</description>
+	<Point>
+		<coordinates>2.36133436911715,48.8552063770058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>PELLEPORT - BAGNOLET</description>
+	<Point>
+		<coordinates>2.40594811547645,48.8620823541498</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.3524685258237,48.8572659623211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>CHARONNE - PHILIPPE AUGUSTE</description>
+	<Point>
+		<coordinates>2.38940476308867,48.8553232183467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>BASTILLE - FAUBOURG SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.37074407279163,48.8528314153859</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>CHARONNE - BAGNOLET</description>
+	<Point>
+		<coordinates>2.39338278399259,48.8562920537939</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>BASTILLE - FAUBOURG SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.37071700272756,48.8530920593444</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>RIVOLI - PONT NEUF</description>
+	<Point>
+		<coordinates>2.3443103281714,48.8598191520027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>RUE DE JOUY</description>
+	<Point>
+		<coordinates>2.35758903737318,48.8554497362942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>CHARONNE - BAGNOLET</description>
+	<Point>
+		<coordinates>2.39214277277724,48.8557354104283</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>PYRENEES - BAGNOLET</description>
+	<Point>
+		<coordinates>2.40229407210507,48.8593162841464</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>RUE VIEILLE DU TEMPLE - MAIRIE DU 4E</description>
+	<Point>
+		<coordinates>2.35622739293317,48.8563666796943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>BIRAGUE</description>
+	<Point>
+		<coordinates>2.36492916833974,48.853686717045</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>CHARONNE - KELLER</description>
+	<Point>
+		<coordinates>2.37688638721536,48.8529553542869</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>SAINT-PAUL</description>
+	<Point>
+		<coordinates>2.36148401823829,48.8548468488603</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>FAIDHERBE</description>
+	<Point>
+		<coordinates>2.38286609123811,48.8539777844968</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>LA BOULE BLANCHE</description>
+	<Point>
+		<coordinates>2.37401179920598,48.8516171438056</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.34990765750363,48.856214732361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>CHARONNE - KELLER</description>
+	<Point>
+		<coordinates>2.37884771658551,48.8531703845217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>LA BOULE BLANCHE</description>
+	<Point>
+		<coordinates>2.37356261818556,48.8519588054151</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>LA REUNION</description>
+	<Point>
+		<coordinates>2.39875005053806,48.8571162476451</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.3483278354662,48.8566732488708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>BIRAGUE</description>
+	<Point>
+		<coordinates>2.36533784570965,48.8538663704642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34888663533768,48.8583448569232</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>BASTILLE - RUE SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.36819745473037,48.8530927405963</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>CHARONNE - VOLTAIRE</description>
+	<Point>
+		<coordinates>2.3848006488354,48.854633111878</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>LA REUNION</description>
+	<Point>
+		<coordinates>2.39958170555056,48.8577988600182</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>76 (LOUISE MICHEL/LOUVRE - RIVOLI)</name>
+	<description>CHARONNE - VOLTAIRE</description>
+	<Point>
+		<coordinates>2.38594474430353,48.8546865743564</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>BOSQUET - SAINT-DOMINIQUE</description>
+	<Point>
+		<coordinates>2.30348880564498,48.8591225450652</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>PASQUIER - ANJOU</description>
+	<Point>
+		<coordinates>2.32311218349988,48.874315127852</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>CAMBRONNE - LECOURBE</description>
+	<Point>
+		<coordinates>2.30198823134995,48.8424593295155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>VAUGIRARD - FAVORITES</description>
+	<Point>
+		<coordinates>2.30162260735084,48.839520292681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.32285215234896,48.8784941856651</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>CAMBRONNE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30420884159089,48.840671445361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>ABBE GROULT</description>
+	<Point>
+		<coordinates>2.29610735675149,48.8406868966388</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>CAMBRONNE</description>
+	<Point>
+		<coordinates>2.3007858386886,48.8483637649393</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32401111656258,48.8754925673253</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>LA MOTTE PICQUET - GRENELLE</description>
+	<Point>
+		<coordinates>2.29814365413702,48.8487673637384</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>LA BOETIE - MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31649066110485,48.8740445389026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>BOSQUET - GRENELLE</description>
+	<Point>
+		<coordinates>2.30429405841399,48.8565613545635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>ALMA - MARCEAU</description>
+	<Point>
+		<coordinates>2.30300796634386,48.8653506708887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>ALMA - MARCEAU</description>
+	<Point>
+		<coordinates>2.30321240850517,48.8651889568129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>MONTAIGNE - FRANCOIS 1ER</description>
+	<Point>
+		<coordinates>2.30667131540035,48.8671761022905</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES - MATIGNON</description>
+	<Point>
+		<coordinates>2.31078440141903,48.8691812658736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>DURANTON</description>
+	<Point>
+		<coordinates>2.28917926010811,48.8380868963554</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>CLICHY - CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.33061803250566,48.8851813836286</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>MAIRIE DU 15E</description>
+	<Point>
+		<coordinates>2.29902032274973,48.8418292858551</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>PLACE DE CLICHY</description>
+	<Point>
+		<coordinates>2.32639396094233,48.8828533805159</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.32135452132993,48.8745395888581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>VAUGIRARD - CROIX-NIVERT</description>
+	<Point>
+		<coordinates>2.29104793337369,48.8342858886419</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>CONVENTION - LECOURBE</description>
+	<Point>
+		<coordinates>2.2912342682532,48.8390943156495</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>PECLET</description>
+	<Point>
+		<coordinates>2.29813385878847,48.8436984051542</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>BUCAREST</description>
+	<Point>
+		<coordinates>2.32508615935976,48.8811906135314</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>ECOLE MILITAIRE</description>
+	<Point>
+		<coordinates>2.3053443479797,48.8540541439277</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>MAIRIE DU 18E - JULES JOFFRIN</description>
+	<Point>
+		<coordinates>2.34465558406472,48.8929732361915</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>MATIGNON - SAINT-HONORE</description>
+	<Point>
+		<coordinates>2.31463810805272,48.8731185088635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>SQUARE CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.33553745679506,48.8895044027311</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.30906832633539,48.8683090998329</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.32287945638296,48.8783054562201</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>DAMREMONT - CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.33334336952832,48.8876350136978</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>CUSTINE - RAMEY</description>
+	<Point>
+		<coordinates>2.34575893602747,48.8890098159794</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>CUSTINE - MONT-CENIS</description>
+	<Point>
+		<coordinates>2.34333311281618,48.8896121063235</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES - FRANKLIN D. ROOSEVELT</description>
+	<Point>
+		<coordinates>2.30985744009604,48.8702595368377</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>SAINT-PHILIPPE-DU-ROULE</description>
+	<Point>
+		<coordinates>2.31030576065188,48.8726862167387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>BOSQUET - RAPP</description>
+	<Point>
+		<coordinates>2.30200218780147,48.8619980839827</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>MIOLLIS</description>
+	<Point>
+		<coordinates>2.30197280583009,48.8451196329554</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>MAIRIE DU 15E</description>
+	<Point>
+		<coordinates>2.29978281814985,48.8418475033137</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>HAMEAU</description>
+	<Point>
+		<coordinates>2.28907295884549,48.83526475346</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>JOFFRE - SUFFREN</description>
+	<Point>
+		<coordinates>2.30038910461433,48.8509160884295</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32357505050883,48.8757351750015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>CONVENTION - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.2968996736692,48.8373527823114</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>80 (MAIRIE DU 18E - JULES JOFFRIN/PORTE DE VERSAILLES)</name>
+	<description>PLACE DE CLICHY</description>
+	<Point>
+		<coordinates>2.32657111562514,48.8828354220456</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

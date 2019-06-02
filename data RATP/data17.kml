@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.33477545600724,48.8642141706639</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>VAVIN</description>
+	<Point>
+		<coordinates>2.32952068763364,48.8416644092699</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32626954884415,48.8268885473337</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PORTE D'ORLEANS</description>
+	<Point>
+		<coordinates>2.32537190643489,48.8235270760424</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>POPINCOURT</description>
+	<Point>
+		<coordinates>2.3790960740725,48.8571517355629</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>PONT ROYAL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.32849640382692,48.85985498883</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.33361776082357,48.8615988113689</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>RIVOLI - PONT NEUF</description>
+	<Point>
+		<coordinates>2.3443103281714,48.8598191520027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>ESPLANADE DES INVALIDES</description>
+	<Point>
+		<coordinates>2.31408607195898,48.8584240589212</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>AUGUSTE METIVIER</description>
+	<Point>
+		<coordinates>2.38787331738641,48.8630979937189</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>SAINT-MAUR - SERVAN</description>
+	<Point>
+		<coordinates>2.38435476119429,48.8585518105596</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BASTILLE - RUE SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.36852448299076,48.8533712663884</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32322562655708,48.8578862405382</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BEAUMARCHAIS</description>
+	<Point>
+		<coordinates>2.36845860908823,48.8570651230591</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>PALAIS ROYAL - MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.33578353779215,48.8625784835999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>GRENELLE - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32284478861475,48.8559628849027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32646764782779,48.8561699790956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>COMMANDANT LAMY</description>
+	<Point>
+		<coordinates>2.37528138434964,48.855759962083</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>SAINT-PIERRE DU GROS CAILLOU</description>
+	<Point>
+		<coordinates>2.30636355189311,48.8578381241791</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>RICHARD LENOIR</description>
+	<Point>
+		<coordinates>2.37116960326172,48.8579361624248</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BREGUET - SABIN</description>
+	<Point>
+		<coordinates>2.37172567011167,48.8543679902544</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>EGLISE SAINT-GERVAIS</description>
+	<Point>
+		<coordinates>2.35517846666798,48.8558365833933</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BOURGOGNE</description>
+	<Point>
+		<coordinates>2.319656605264,48.8592608418423</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>RUE DE JOUY</description>
+	<Point>
+		<coordinates>2.35758903737318,48.8554497362942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.34990765750363,48.856214732361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>QUAI FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.33382220094328,48.8598013368243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BIRAGUE</description>
+	<Point>
+		<coordinates>2.36533784570965,48.8538663704642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>CHAMP DE MARS</description>
+	<Point>
+		<coordinates>2.29602784343328,48.8550758528508</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>MARTIN NADAUD</description>
+	<Point>
+		<coordinates>2.39528534864951,48.8646763928766</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>INVALIDES - LA TOUR-MAUBOURG</description>
+	<Point>
+		<coordinates>2.30960508363494,48.8580815811165</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>PONT DES ARTS</description>
+	<Point>
+		<coordinates>2.3384396805066,48.8589475761152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>CHAMP DE MARS</description>
+	<Point>
+		<coordinates>2.29655917385634,48.8548693243082</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BOSQUET - GRENELLE</description>
+	<Point>
+		<coordinates>2.30388516084655,48.8570195997681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>POPINCOURT</description>
+	<Point>
+		<coordinates>2.37463005252715,48.85912146628</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>RAPP - LA BOURDONNAIS</description>
+	<Point>
+		<coordinates>2.29958083530017,48.8574856625225</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.3687282754583,48.8525533538262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34888663533768,48.8583448569232</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>MUSEE D'ORSAY</description>
+	<Point>
+		<coordinates>2.32571748906891,48.8609332407767</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BOURGOGNE</description>
+	<Point>
+		<coordinates>2.31720547292422,48.8576786686877</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>ROQUETTE - PERE LACHAISE</description>
+	<Point>
+		<coordinates>2.38638533050871,48.8597103670221</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>LOUVRE - RIVOLI</description>
+	<Point>
+		<coordinates>2.34125931333976,48.8608168957338</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>MURIERS</description>
+	<Point>
+		<coordinates>2.39162003900342,48.8637883713953</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BOSQUET - SAINT-DOMINIQUE</description>
+	<Point>
+		<coordinates>2.30384311914447,48.8588530224791</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>PONT ROYAL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.32901413434145,48.8590102090045</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BIRAGUE</description>
+	<Point>
+		<coordinates>2.36492916833974,48.853686717045</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32313021496388,48.8581378771023</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>SAINT MAUR - SERVAN</description>
+	<Point>
+		<coordinates>2.38453204215558,48.8587854132349</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>ROQUETTE - PERE LACHAISE</description>
+	<Point>
+		<coordinates>2.38881059488406,48.8604552970005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>VOLTAIRE - LEON BLUM</description>
+	<Point>
+		<coordinates>2.38179352287085,48.8578967139456</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>ESPLANADE DES INVALIDES</description>
+	<Point>
+		<coordinates>2.31378575227685,48.8598979361372</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>SAINT-PAUL</description>
+	<Point>
+		<coordinates>2.36148401823829,48.8548468488603</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>PONT DU CARROUSEL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.33157484502486,48.8588935221897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>PASTEUR - WAGNER</description>
+	<Point>
+		<coordinates>2.36828050850129,48.8553305943155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.34116379341917,48.8585430840511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>GAMBETTA</description>
+	<Point>
+		<coordinates>2.39777831941581,48.8647650261674</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.3483278354662,48.8566732488708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>FOLIE REGNAULT - CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.38529748903153,48.861688039793</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>CHEMIN VERT - PARMENTIER</description>
+	<Point>
+		<coordinates>2.37810421024548,48.8602167897415</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>MARTIN NADAUD</description>
+	<Point>
+		<coordinates>2.39460470490908,48.8650991291092</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32486041415063,48.8564843829457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>LA TOUR-MAUBOURG - SAINT-DOMINIQUE</description>
+	<Point>
+		<coordinates>2.31039414574816,48.8598702574614</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>RAPP - LA BOURDONNAIS</description>
+	<Point>
+		<coordinates>2.29949942734389,48.8570542401518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>PONT ROYAL</description>
+	<Point>
+		<coordinates>2.33068929459629,48.8605112105473</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.3524685258237,48.8572659623211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>MURIERS</description>
+	<Point>
+		<coordinates>2.39168841308917,48.8640399868608</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>SAINT-PIERRE DU GROS CAILLOU</description>
+	<Point>
+		<coordinates>2.30649879683568,48.8594558945387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>CHAMP DE MARS - LA BOURDONNAIS</description>
+	<Point>
+		<coordinates>2.30144724886897,48.8568661055412</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>GAMBETTA</description>
+	<Point>
+		<coordinates>2.39786031546527,48.8649896688615</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>VOLTAIRE - LEON BLUM</description>
+	<Point>
+		<coordinates>2.38075845997302,48.8580049455794</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>BASTILLE - RUE SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.36819745473037,48.8530927405963</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>SAINT-PAUL</description>
+	<Point>
+		<coordinates>2.36133436911715,48.8552063770058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>RUE VIEILLE DU TEMPLE - MAIRIE DU 4E</description>
+	<Point>
+		<coordinates>2.35622739293317,48.8563666796943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>69 (CHAMP DE MARS/GAMBETTA)</name>
+	<description>AUGUSTE METIVIER</description>
+	<Point>
+		<coordinates>2.38779112234912,48.8626216969919</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PONT NEUF - QUAI DES GRANDS AUGUSTINS</description>
+	<Point>
+		<coordinates>2.3392159559309,48.8561614637908</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PONT DE GRENELLE - MAURICE BOURDET</description>
+	<Point>
+		<coordinates>2.27892640641748,48.8507097868346</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>SAINT-ANDRE DES ARTS</description>
+	<Point>
+		<coordinates>2.33864385171547,48.8537438491443</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>BAC - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32378613451627,48.8499144346259</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.33104444025582,48.8521888649571</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>MAIRIE DU 15E</description>
+	<Point>
+		<coordinates>2.29884331187623,48.84182922889</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>VOLONTAIRES - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30836122607289,48.8415173546303</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>EGLISE SAINT-SULPICE</description>
+	<Point>
+		<coordinates>2.33786752179733,48.8514700277748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>BONAPARTE - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.33337325449843,48.8525214997513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>FELIX FAURE</description>
+	<Point>
+		<coordinates>2.29373576663019,48.8435710537353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PONT NEUF - QUAI DES GRANDS AUGUSTINS</description>
+	<Point>
+		<coordinates>2.34014208339617,48.8555952363193</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>FELIX FAURE</description>
+	<Point>
+		<coordinates>2.29370885011209,48.8431935676157</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>VAUGIRARD - FAVORITES</description>
+	<Point>
+		<coordinates>2.30162260735084,48.839520292681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PONT DE GRENELLE - MAURICE BOURDET</description>
+	<Point>
+		<coordinates>2.27904860022498,48.8510423832666</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>SAINT-GERMAIN - ODEON</description>
+	<Point>
+		<coordinates>2.33842591934507,48.8527372562542</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.27971367026085,48.8530648868358</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>MAZARINE</description>
+	<Point>
+		<coordinates>2.33796289095446,48.8542381650088</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PASTEUR - LYCEE BUFFON</description>
+	<Point>
+		<coordinates>2.31270397100551,48.8432169736026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34693901965623,48.859010100138</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32600567724252,48.8510560745742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>VIOLET</description>
+	<Point>
+		<coordinates>2.2913113613095,48.8442891452133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>RAYNOUARD - RANELAGH</description>
+	<Point>
+		<coordinates>2.27630876208216,48.8531620553225</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>MAIRIE DU 15E</description>
+	<Point>
+		<coordinates>2.29899294448978,48.8420270029574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.35155602934799,48.8574907610728</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PECLET</description>
+	<Point>
+		<coordinates>2.29813385878847,48.8436984051542</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.3303907809718,48.8518113554953</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34909051498589,48.8564664645516</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>VANEAU - SAINT-ROMAIN</description>
+	<Point>
+		<coordinates>2.32085858807614,48.848655819511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32569251451743,48.8507594579288</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>VOLONTAIRES - LECOURBE</description>
+	<Point>
+		<coordinates>2.30690286900593,48.843961601227</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.3427982244337,48.8581475726872</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>CHARLES MICHELS</description>
+	<Point>
+		<coordinates>2.28523550879134,48.8470098631113</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>HOPITAL DES ENFANTS MALADES</description>
+	<Point>
+		<coordinates>2.31552119256186,48.8465878404688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PONT DE GRENELLE - PLACE FERNAND FOREST</description>
+	<Point>
+		<coordinates>2.28305527821796,48.8483660033397</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>CAMBRONNE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30446772576992,48.8403839153027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PLACE DU DOCTEUR HAYEM - RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.27581906723751,48.8526585058418</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>CHARLES MICHELS</description>
+	<Point>
+		<coordinates>2.28625757825569,48.8462463670274</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>DUROC</description>
+	<Point>
+		<coordinates>2.31607927410292,48.8471631412631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>VANEAU - SAINT-ROMAIN</description>
+	<Point>
+		<coordinates>2.31966046495669,48.8478827240797</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>CAMBRONNE - LECOURBE</description>
+	<Point>
+		<coordinates>2.30198823134995,48.8424593295155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>BAC - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32309161610598,48.8498514416938</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.34278471608139,48.8591991012055</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>VIOLET</description>
+	<Point>
+		<coordinates>2.29106635374239,48.8441812001453</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>SEVRES - LECOURBE</description>
+	<Point>
+		<coordinates>2.31161384903167,48.8448255108473</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>SEINE - BUCI</description>
+	<Point>
+		<coordinates>2.33672353366025,48.852728273391</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>SEVRES - LECOURBE</description>
+	<Point>
+		<coordinates>2.30997979386176,48.8448521103785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PECLET</description>
+	<Point>
+		<coordinates>2.29821623534646,48.8427996790689</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>PONT DE GRENELLE - PLACE FERNAND FOREST</description>
+	<Point>
+		<coordinates>2.28256496622484,48.8484286916593</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>70 (RADIO FRANCE/HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT)</name>
+	<description>RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.27904611920536,48.8532532991401</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>ALMA-MARCEAU</description>
+	<Point>
+		<coordinates>2.30023004320367,48.8638848977978</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PONT D'IENA</description>
+	<Point>
+		<coordinates>2.29185474847727,48.8613205942041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>VERSAILLES-CHARDON LAGACHE</description>
+	<Point>
+		<coordinates>2.26264184954804,48.8389899566235</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>RADIO FRANCE-PONT DE GRENELLE</description>
+	<Point>
+		<coordinates>2.27802736662207,48.8508980801826</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PONT MIRABEAU</description>
+	<Point>
+		<coordinates>2.27232683238383,48.8463743995147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PALAIS ROYAL-MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.33581077788392,48.8626953199883</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PONT NEUF-QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.3428118468672,48.8581655468956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PYRAMIDES-TUILERIES</description>
+	<Point>
+		<coordinates>2.33169688443869,48.8639983697811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>RADIO FRANCE-PONT DE GRENELLE</description>
+	<Point>
+		<coordinates>2.27940153205412,48.852076114513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>DEGAS</description>
+	<Point>
+		<coordinates>2.27493826605129,48.8489641948401</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>HOTEL DE VILLE</description>
+	<Point>
+		<coordinates>2.35071143801948,48.8569875635013</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>CONCORDE</description>
+	<Point>
+		<coordinates>2.32142496938681,48.8669273299415</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>COURS LA REINE-CHEVAUX DE MARLY</description>
+	<Point>
+		<coordinates>2.31743417915186,48.8651112852874</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>MUSEE D'ART MODERNE-PALAIS DE TOKYO</description>
+	<Point>
+		<coordinates>2.29587170222222,48.8630026999417</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>MUSEE D'ART MODERNE-PALAIS DE TOKYO</description>
+	<Point>
+		<coordinates>2.29666135041851,48.8635332273646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PALAIS DE LA DECOUVERTE</description>
+	<Point>
+		<coordinates>2.30922000335032,48.864938875525</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PONT DE SOLFERINO-QUAI DES TUILERIES</description>
+	<Point>
+		<coordinates>2.32588071333891,48.8619847819873</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>GRAND PALAIS</description>
+	<Point>
+		<coordinates>2.31289799634519,48.8649936084542</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PALAIS DE LA DECOUVERTE</description>
+	<Point>
+		<coordinates>2.30934286517253,48.8644535861571</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>VICTORIEN SARDOU</description>
+	<Point>
+		<coordinates>2.26925396289563,48.842813625194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PONT DE BIR HAKEIM</description>
+	<Point>
+		<coordinates>2.28632931290506,48.8564022424869</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>LE NOTRE</description>
+	<Point>
+		<coordinates>2.28895561325937,48.8589467781278</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>DEGAS</description>
+	<Point>
+		<coordinates>2.27537418434859,48.8488475847389</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PONT MIRABEAU</description>
+	<Point>
+		<coordinates>2.27410923637579,48.8475886712203</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PORTE DE SAINT CLOUD-MURAT</description>
+	<Point>
+		<coordinates>2.25824661185974,48.8373064455101</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PONT DES ARTS</description>
+	<Point>
+		<coordinates>2.3384396805066,48.8589475761152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>VICTORIEN SARDOU</description>
+	<Point>
+		<coordinates>2.26888609301305,48.8429841777419</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>GRAND PALAIS</description>
+	<Point>
+		<coordinates>2.31288460210717,48.8645082875286</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>LOUVRE-RIVOLI</description>
+	<Point>
+		<coordinates>2.34030584782396,48.86114047042</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.28160674435916,48.8530567988768</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>LA TOURELLE</description>
+	<Point>
+		<coordinates>2.25120551116524,48.8385867882781</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>WILHEM</description>
+	<Point>
+		<coordinates>2.26991964211536,48.8439913701833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>WILHEM</description>
+	<Point>
+		<coordinates>2.27113071121964,48.84463915064</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>LAMBALLE-ANKARA</description>
+	<Point>
+		<coordinates>2.28291297914713,48.8542077964538</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>LAMBALLE-ANKARA</description>
+	<Point>
+		<coordinates>2.28370267637594,48.8544328404097</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34693901965623,48.859010100138</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>LA TOURELLE</description>
+	<Point>
+		<coordinates>2.2506876924889,48.8388470524246</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>VERSAILLES-EXELMANS</description>
+	<Point>
+		<coordinates>2.26568869037489,48.8411847906617</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PORTE DE SAINT CLOUD-MURAT</description>
+	<Point>
+		<coordinates>2.25776880538807,48.8381419719496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>CASTIGLIONE</description>
+	<Point>
+		<coordinates>2.3269424892309,48.8655169192727</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>RIVOLI-PONT NEUF</description>
+	<Point>
+		<coordinates>2.34450101387798,48.8597652160947</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PONT ROYAL</description>
+	<Point>
+		<coordinates>2.33068929459629,48.8605112105473</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>ALMA-MARCEAU</description>
+	<Point>
+		<coordinates>2.30355318349214,48.8648565209254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PONT DE BIR HAKEIM</description>
+	<Point>
+		<coordinates>2.28585254005223,48.8564739371872</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34909051498589,48.8564664645516</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PONT D'IENA</description>
+	<Point>
+		<coordinates>2.29272642923128,48.8614197846093</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.28126609057346,48.8532184135217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>VERSAILLES-CHARDON LAGACHE</description>
+	<Point>
+		<coordinates>2.26204202618016,48.8395018703574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PORTE DE SAINT CLOUD</description>
+	<Point>
+		<coordinates>2.25745533675769,48.8383484764129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>CONCORDE-QUAI DES TUILERIES</description>
+	<Point>
+		<coordinates>2.32085385155373,48.8636378753839</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>VERSAILLES-EXELMANS</description>
+	<Point>
+		<coordinates>2.26553942320646,48.8408162113051</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>QUAI FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.33382220094328,48.8598013368243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>72 (PARC DE SAINT CLOUD/HOTEL DE VILLE)</name>
+	<description>PORTE DE SAINT CLOUD</description>
+	<Point>
+		<coordinates>2.25599911877499,48.8379520384216</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.31991465227557,48.861498743671</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>PONT DE NEUILLY - RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.25374155649072,48.8871115236026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.30859080975226,48.8695851886529</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>MARCHE DE NEUILLY-SUR-SEINE</description>
+	<Point>
+		<coordinates>2.27436937535825,48.8801321213503</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>CHARLES DE GAULLE - ETOILE - GRANDE ARMEE</description>
+	<Point>
+		<coordinates>2.29372356213671,48.8743439650481</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>RUE DE L'HOTEL DE VILLE</description>
+	<Point>
+		<coordinates>2.26730720435571,48.8829142341464</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>PORTE MAILLOT</description>
+	<Point>
+		<coordinates>2.28408810210572,48.8770272567175</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>CONCORDE - COURS LA REINE</description>
+	<Point>
+		<coordinates>2.31718845200299,48.8664683364338</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>CONCORDE</description>
+	<Point>
+		<coordinates>2.3209617570429,48.867044103144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>CHARLES DE GAULLE - ETOILE - CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.29638108467493,48.8734641501244</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>PONT DE NEUILLY - RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.25157461275717,48.8871549216247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>GEORGE V</description>
+	<Point>
+		<coordinates>2.30031946351164,48.872216199194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>ARGENTINE</description>
+	<Point>
+		<coordinates>2.28895385819218,48.875456552398</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>ARGENTINE</description>
+	<Point>
+		<coordinates>2.28888534724192,48.8758699401804</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>CHARLES DE GAULLE - ETOILE - GRANDE ARMEE</description>
+	<Point>
+		<coordinates>2.29341042826353,48.8740652437732</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>GEORGE V</description>
+	<Point>
+		<coordinates>2.30136900596423,48.8715244961005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.2816354993719,48.877044111793</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>LA BOETIE - CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.30572931525142,48.8705011741054</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>LA BOETIE - CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.3055387476538,48.8702315035426</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>CHAMPS-ELYSEES - CLEMENCEAU</description>
+	<Point>
+		<coordinates>2.31346873982463,48.8680314517555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>MUSEE D'ORSAY</description>
+	<Point>
+		<coordinates>2.32396039078493,48.8607712844271</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>MARCHE DE NEUILLY-SUR-SEINE</description>
+	<Point>
+		<coordinates>2.2747367646488,48.8805637032133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>LES GRAVIERS</description>
+	<Point>
+		<coordinates>2.26556217660865,48.8834704061674</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>MONTROSIER</description>
+	<Point>
+		<coordinates>2.27912603520832,48.8791639116687</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>73 (LA GARENNE-COLOMBES - CHARLEBOURG/MUSEE D'ORSAY)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32156336486674,48.8597644033169</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

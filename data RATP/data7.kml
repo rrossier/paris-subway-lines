@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>PLACE DES VOSGES</description>
+	<Point>
+		<coordinates>2.36464449602761,48.8562122550592</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.3687282754583,48.8525533538262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>MAIRIE DU 12E</description>
+	<Point>
+		<coordinates>2.38714434406923,48.8416452208882</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33121927526077,48.8711972159693</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>FABRE D'EGLANTINE</description>
+	<Point>
+		<coordinates>2.39619005553589,48.8456675006137</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>MAIRIE DU II</description>
+	<Point>
+		<coordinates>2.34052418248939,48.867386691631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>PICPUS - REUILLY</description>
+	<Point>
+		<coordinates>2.39917872140261,48.8396982593811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>GRENIER SAINT-LAZARE - QUARTIER DE L'HORLOGE</description>
+	<Point>
+		<coordinates>2.35335552072655,48.8626672782801</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>PICPUS - REUILLY</description>
+	<Point>
+		<coordinates>2.3995324588242,48.8394733858988</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>ARCHIVES - RAMBUTEAU</description>
+	<Point>
+		<coordinates>2.35647390590065,48.860015533357</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>PETITS CHAMPS - DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.33360369921072,48.867854022962</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>PICPUS</description>
+	<Point>
+		<coordinates>2.4029706368408,48.8450348255334</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>ETIENNE MARCEL - MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34534628864436,48.8647441766808</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>RUE VIEILLE DU TEMPLE</description>
+	<Point>
+		<coordinates>2.36031508700178,48.8601496627496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>TOURNELLES - SAINT-GILLES</description>
+	<Point>
+		<coordinates>2.36745106852378,48.8576765278605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>ETIENNE MARCEL - MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34451533328919,48.8647532176063</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32766306586281,48.8731562183553</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>SEBASTOPOL - ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.35121704789362,48.8631618544276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32997935975017,48.8721767648906</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.3275676241997,48.8735336776754</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>RICHELIEU - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33816744504303,48.8690943291197</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>ARCHIVES - HAUDRIETTES</description>
+	<Point>
+		<coordinates>2.35839490981442,48.8611026838368</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>GRENIER SAINT-LAZARE - QUARTIER DE L'HORLOGE</description>
+	<Point>
+		<coordinates>2.35349177706426,48.8627930832222</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>PASTEUR - WAGNER</description>
+	<Point>
+		<coordinates>2.36828050850129,48.8553305943155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>CENTRE GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.35357293609808,48.860977618426</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>RAMBOUILLET</description>
+	<Point>
+		<coordinates>2.38096497202205,48.8444607474304</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>PAYENNE</description>
+	<Point>
+		<coordinates>2.36190725237071,48.8570037472121</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>CHARLES BOSSUT</description>
+	<Point>
+		<coordinates>2.3842181363168,48.8430484669454</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>DAUMESNIL - DIDEROT</description>
+	<Point>
+		<coordinates>2.37810663088099,48.8459986277407</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>CHARLES BOSSUT</description>
+	<Point>
+		<coordinates>2.38413633960849,48.8429406487748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>DOCTEUR GOUJON - REUILLY</description>
+	<Point>
+		<coordinates>2.39663246961435,48.8395917056785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33166886027487,48.8712421745196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>PASTEUR - WAGNER</description>
+	<Point>
+		<coordinates>2.36849884708028,48.8560315575912</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.3331812150688,48.8700109715429</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>TURBIGO - ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.34831578347029,48.8640249478469</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>SEBASTOPOL - ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.3506313883023,48.8634674926955</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>VICTOIRES</description>
+	<Point>
+		<coordinates>2.33955689748938,48.8661105093122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>MAIRIE DU 12E</description>
+	<Point>
+		<coordinates>2.38654534352103,48.8417623084146</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>LOUVRE - ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.34346647234725,48.8651846707753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>BOURSE</description>
+	<Point>
+		<coordinates>2.34105556060571,48.8685280693006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>RUE VIEILLE DU TEMPLE</description>
+	<Point>
+		<coordinates>2.3584075412465,48.858676081083</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>BASTILLE - BEAUMARCHAIS</description>
+	<Point>
+		<coordinates>2.36863379044463,48.8539554222221</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>DAUMESNIL - DIDEROT</description>
+	<Point>
+		<coordinates>2.37354462263386,48.8457035174841</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>DAUMESNIL - FELIX EBOUE</description>
+	<Point>
+		<coordinates>2.39453588060581,48.8397904590449</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>HOPITAL ROTHSCHILD</description>
+	<Point>
+		<coordinates>2.39712630400693,48.8427730502927</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>FABRE D'EGLANTINE</description>
+	<Point>
+		<coordinates>2.39589020226213,48.8454249857051</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>PICPUS</description>
+	<Point>
+		<coordinates>2.40302468346809,48.8447022573976</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>29 (PORTE DE MONTEMPOIVRE/GARE SAINT-LAZARE)</name>
+	<description>DAUMESNIL - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37312435888949,48.848408883349</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (/ISSY - VAL DE SEINE)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27257219959926,48.8243279741266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (/ISSY - VAL DE SEINE)</name>
+	<description>MARCEAU</description>
+	<Point>
+		<coordinates>2.27145213766442,48.8274101272484</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (/ISSY - VAL DE SEINE)</name>
+	<description>PRESIDENT ROBERT SCHUMAN</description>
+	<Point>
+		<coordinates>2.26747556676172,48.8287020834586</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (/ISSY - VAL DE SEINE)</name>
+	<description>ISSY - VAL DE SEINE</description>
+	<Point>
+		<coordinates>2.26420731221081,48.8295449607499</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (/ISSY - VAL DE SEINE)</name>
+	<description>GALLIENI-CAMILLE DESMOULINS</description>
+	<Point>
+		<coordinates>2.2662745203423,48.8309842316307</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (ZONE INDUSTRIELLE (PASTEUR)/ISSY - VAL DE SEINE)</name>
+	<description>MARCEAU</description>
+	<Point>
+		<coordinates>2.27145213766442,48.8274101272484</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (ZONE INDUSTRIELLE (PASTEUR)/ISSY - VAL DE SEINE)</name>
+	<description>PRESIDENT ROBERT SCHUMAN</description>
+	<Point>
+		<coordinates>2.26811674409384,48.8276688786605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (ZONE INDUSTRIELLE (PASTEUR)/ISSY - VAL DE SEINE)</name>
+	<description>ISSY - VAL DE SEINE</description>
+	<Point>
+		<coordinates>2.26420731221081,48.8295449607499</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (ZONE INDUSTRIELLE (PASTEUR)/ISSY - VAL DE SEINE)</name>
+	<description>PRESIDENT ROBERT SCHUMAN</description>
+	<Point>
+		<coordinates>2.26747556676172,48.8287020834586</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (ZONE INDUSTRIELLE (PASTEUR)/ISSY - VAL DE SEINE)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27306033940525,48.8258471536465</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (ZONE INDUSTRIELLE (PASTEUR)/ISSY - VAL DE SEINE)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27257219959926,48.8243279741266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (ZONE INDUSTRIELLE (PASTEUR)/ISSY - VAL DE SEINE)</name>
+	<description>MARCEAU</description>
+	<Point>
+		<coordinates>2.27128906263245,48.8271943334316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>290 (ZONE INDUSTRIELLE (PASTEUR)/ISSY - VAL DE SEINE)</name>
+	<description>GALLIENI-CAMILLE DESMOULINS</description>
+	<Point>
+		<coordinates>2.2662745203423,48.8309842316307</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32417416030192,48.8232932709545</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (/PORTE D'ORLEANS-METRO)</name>
+	<description>JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.31830757263722,48.8235441366693</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (/PORTE D'ORLEANS-METRO)</name>
+	<description>DEPINOY</description>
+	<Point>
+		<coordinates>2.3138301440222,48.8219255576659</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS - ERNEST REYER</description>
+	<Point>
+		<coordinates>2.32313968721637,48.823329103496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (CITE DE LA PLAINE/)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32477329135613,48.8223316537372</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (CITE DE LA PLAINE/)</name>
+	<description>JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.31837557091843,48.8237059255722</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (VELIZY 2/)</name>
+	<description>JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.31837557091843,48.8237059255722</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (VELIZY 2/)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32477329135613,48.8223316537372</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (VELIZY 2/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32477329135613,48.8223316537372</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (VELIZY 2/PORTE D'ORLEANS-METRO)</name>
+	<description>JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.31837557091843,48.8237059255722</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (VELIZY 2/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS - ERNEST REYER</description>
+	<Point>
+		<coordinates>2.32313968721637,48.823329103496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (VELIZY 2/PORTE D'ORLEANS-METRO)</name>
+	<description>JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.31830757263722,48.8235441366693</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (VELIZY 2/PORTE D'ORLEANS-METRO)</name>
+	<description>DEPINOY</description>
+	<Point>
+		<coordinates>2.3138301440222,48.8219255576659</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>295 (VELIZY 2/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32417416030192,48.8232932709545</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>297 (PLACE CHARLES STEBER/)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32485487641459,48.8226731941086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>297 (PLACE CHARLES STEBER/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32485487641459,48.8226731941086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>299 (PLACE LUCIEN BOILLEAU/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32662455654274,48.8215768679688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>CHARLES DE GAULLE - ETOILE - KLEBER</description>
+	<Point>
+		<coordinates>2.2943106104005,48.8729151958307</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35688864723811,48.8761567449862</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>CHARLES DE GAULLE - ETOILE - WAGRAM</description>
+	<Point>
+		<coordinates>2.29557614658412,48.8748209544679</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>PLACE DE CLICHY</description>
+	<Point>
+		<coordinates>2.3275248196453,48.883824099788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>COURCELLES</description>
+	<Point>
+		<coordinates>2.30351665967004,48.8791193892619</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>TURIN - BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.32452698715465,48.8831587619127</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>PIGALLE</description>
+	<Point>
+		<coordinates>2.33743182883292,48.8825842579015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>KLEBER - PAUL VALERY</description>
+	<Point>
+		<coordinates>2.29176583105732,48.8695170417094</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>BLANCHE</description>
+	<Point>
+		<coordinates>2.33154486343192,48.8837884112127</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>MONCEAU</description>
+	<Point>
+		<coordinates>2.3088574130775,48.8802981131877</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>PLACE DE CLICHY - CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.33015478482803,48.8845163022278</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>ROCHECHOUART - MARTYRS</description>
+	<Point>
+		<coordinates>2.34015716907374,48.8817753705681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>LA FAYETTE - MAGENTA - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35442298514715,48.877684964117</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>TROCADERO</description>
+	<Point>
+		<coordinates>2.28820158625044,48.8641142242506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>ROCHECHOUART - CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34612594715257,48.8833927793145</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>ANVERS - SACRE COEUR</description>
+	<Point>
+		<coordinates>2.34405457230729,48.8830154515311</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>VILLIERS</description>
+	<Point>
+		<coordinates>2.3168555609455,48.881584928046</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>PLACE DE CLICHY</description>
+	<Point>
+		<coordinates>2.32697985775,48.8831769730803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>CHARLES DE GAULLE - ETOILE - WAGRAM</description>
+	<Point>
+		<coordinates>2.29591678304829,48.8748030985233</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>TURIN - BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.32454073104918,48.8826824396547</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>BARBES - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34881048374798,48.8833476130351</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>BARBES - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34988698964506,48.8831947207417</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>MONCEAU</description>
+	<Point>
+		<coordinates>2.30828505717083,48.8803878480265</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>ROCHECHOUART - MARTYRS</description>
+	<Point>
+		<coordinates>2.340238959386,48.8822966288448</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>ANVERS - SACRE COEUR</description>
+	<Point>
+		<coordinates>2.34413627846742,48.8825930465188</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>BLANCHE</description>
+	<Point>
+		<coordinates>2.33356170198766,48.8836986184134</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>LA FAYETTE - MAGENTA - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35472279767486,48.877828716993</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>ROME - BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.32053451694317,48.8823404297252</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>KLEBER - BOISSIERE</description>
+	<Point>
+		<coordinates>2.29024236310257,48.8669101189381</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>CHARLES DE GAULLE - ETOILE - KLEBER</description>
+	<Point>
+		<coordinates>2.29459681859652,48.8727984635386</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>TERNES</description>
+	<Point>
+		<coordinates>2.29937501423861,48.8782104302623</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>KLEBER - BOISSIERE</description>
+	<Point>
+		<coordinates>2.28956157823811,48.8665233918521</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>COURCELLES</description>
+	<Point>
+		<coordinates>2.30269906878106,48.8791640913361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>MALESHERBES - COURCELLES</description>
+	<Point>
+		<coordinates>2.31299961018491,48.8807394038566</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>ROME - BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.3211887038658,48.8820259661093</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>TROCADERO</description>
+	<Point>
+		<coordinates>2.28790158420976,48.8644466333558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>MALESHERBES - COURCELLES</description>
+	<Point>
+		<coordinates>2.31136439225824,48.8808289323974</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>PIGALLE</description>
+	<Point>
+		<coordinates>2.33792239173687,48.8820809704755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>MAGENTA - MAUBEUGE - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35158985615748,48.8813161938439</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>ROCHECHOUART - CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34607136367888,48.8829524086942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>TROCADERO.</description>
+	<Point>
+		<coordinates>2.28790158420976,48.8644466333558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>KLEBER - PAUL VALERY</description>
+	<Point>
+		<coordinates>2.29207926531599,48.869409312878</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>MAGENTA - MAUBEUGE - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35119468009102,48.8812982662247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.357597149028,48.876129664261</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>VILLIERS</description>
+	<Point>
+		<coordinates>2.31726450296836,48.8812165200301</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>30 (TROCADERO/GARE DE L'EST)</name>
+	<description>TERNES</description>
+	<Point>
+		<coordinates>2.29877540670201,48.8783090981877</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>CAIL - DEMARQUAY</description>
+	<Point>
+		<coordinates>2.3590168705476,48.8825553091048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35795375547617,48.8820162638075</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35900430329138,48.8850807240785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>CHAMPIONNET</description>
+	<Point>
+		<coordinates>2.35291573328433,48.8948777147415</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>CAIL - DEMARQUAY</description>
+	<Point>
+		<coordinates>2.35863527972611,48.8824655057457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>DOUDEAUVILLE</description>
+	<Point>
+		<coordinates>2.35589834565249,48.8882267749062</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>MARCADET - POISSONNIERS</description>
+	<Point>
+		<coordinates>2.35181074365487,48.8915076681901</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PORTE DES POISSONNIERS</description>
+	<Point>
+		<coordinates>2.35283492506218,48.8981130956875</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PORTE DES POISSONNIERS</description>
+	<Point>
+		<coordinates>2.352289541203,48.897618873589</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PONT HAINGUERLOT</description>
+	<Point>
+		<coordinates>2.35914812585986,48.9029471686273</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>MARCADET - POISSONNIERS</description>
+	<Point>
+		<coordinates>2.35159268522091,48.8915436433283</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35934437238951,48.8836247303014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>DOUDEAUVILLE</description>
+	<Point>
+		<coordinates>2.35604848629693,48.8888558552404</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.3581581136544,48.8819083811668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PORTE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.3583010151304,48.8982470628528</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>GARE DU NORD.</description>
+	<Point>
+		<coordinates>2.35793960866706,48.8807131147561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PONT HAINGUERLOT</description>
+	<Point>
+		<coordinates>2.35816659789712,48.9029383577447</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PORTE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35741515098663,48.8986426494887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PROUDHON</description>
+	<Point>
+		<coordinates>2.35794966956173,48.90591311947</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>SAINT-BRUNO</description>
+	<Point>
+		<coordinates>2.35657899213236,48.8861506212559</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PROUDHON</description>
+	<Point>
+		<coordinates>2.35889036965701,48.905957887823</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>CHAMPIONNET</description>
+	<Point>
+		<coordinates>2.35265671216379,48.8947159797486</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>PONT MARCADET</description>
+	<Point>
+		<coordinates>2.35495871902285,48.8903748573538</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>302 (6 ROUTES-TRAMWAY/GARE DU NORD)</name>
+	<description>SAINT-BRUNO</description>
+	<Point>
+		<coordinates>2.35632001310968,48.8860158547137</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35766518318204,48.8758959830565</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>LA FAYETTE - MAGENTA - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35442298514715,48.877684964117</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>MAGENTA - MAUBEUGE - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35158985615748,48.8813161938439</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>LA FAYETTE - MAGENTA - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35472279767486,48.877828716993</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>JOUFFROY D'ABBANS - TOCQUEVILLE</description>
+	<Point>
+		<coordinates>2.30901789892462,48.885861252487</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>MOINES - DAVY</description>
+	<Point>
+		<coordinates>2.32267120659783,48.8920379084405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>JOUFFROY D'ABBANS - VILLIERS</description>
+	<Point>
+		<coordinates>2.30378645888536,48.88333448711</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>JOUFFROY D'ABBANS - MALESHERBES</description>
+	<Point>
+		<coordinates>2.30756006537517,48.885267741603</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>WAGRAM - PRONY</description>
+	<Point>
+		<coordinates>2.30234209878825,48.8831633152253</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>PONT CARDINET</description>
+	<Point>
+		<coordinates>2.31354177383797,48.8870665250873</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>CHARLES DE GAULLE - ETOILE</description>
+	<Point>
+		<coordinates>2.29610792366369,48.874308863029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>DAMREMONT - ORDENER</description>
+	<Point>
+		<coordinates>2.33702297236833,48.893521682783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>CHATEAU ROUGE</description>
+	<Point>
+		<coordinates>2.34975181739527,48.8877512561882</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>MAGENTA - MAUBEUGE - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35119468009102,48.8812982662247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>PARC MARTIN LUTHER KING</description>
+	<Point>
+		<coordinates>2.31599415091599,48.8887296204132</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>WAGRAM - PRONY</description>
+	<Point>
+		<coordinates>2.302383076755,48.883019531389</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>BARBES - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.3492876064135,48.8840935062505</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>PARC MARTIN LUTHER KING</description>
+	<Point>
+		<coordinates>2.31604848124585,48.8891789898803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>MARCADET - POISSONNIERS</description>
+	<Point>
+		<coordinates>2.34939828848271,48.8911933871802</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>GUY MOQUET</description>
+	<Point>
+		<coordinates>2.32660993722696,48.8928651448305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>JOUFFROY D'ABBANS - VILLIERS</description>
+	<Point>
+		<coordinates>2.30520325744764,48.884017906421</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>PONT CARDINET</description>
+	<Point>
+		<coordinates>2.31422297146652,48.8875339934816</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>WAGRAM - COURCELLES</description>
+	<Point>
+		<coordinates>2.30025854121934,48.8812214414537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>VAUVENARGUES</description>
+	<Point>
+		<coordinates>2.3338063177995,48.8938361837798</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>JOUFFROY D'ABBANS - MALESHERBES</description>
+	<Point>
+		<coordinates>2.30657908327881,48.8849169913989</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>CHATEAU ROUGE</description>
+	<Point>
+		<coordinates>2.34937024429452,48.8878321804279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>BROCHANT - CARDINET</description>
+	<Point>
+		<coordinates>2.31826921236186,48.8912014812594</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>DAMREMONT - ORDENER</description>
+	<Point>
+		<coordinates>2.33703660296187,48.8933329523982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>BROCHANT - CARDINET</description>
+	<Point>
+		<coordinates>2.31801023100019,48.8912733371609</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>DUHESME - LE RUISSEAU</description>
+	<Point>
+		<coordinates>2.34051215801165,48.8928206396488</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>MAIRIE DU 18E - JULES JOFFRIN</description>
+	<Point>
+		<coordinates>2.34528241891009,48.8921373889097</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>TERNES</description>
+	<Point>
+		<coordinates>2.2984626184777,48.877500141761</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>BARBES - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34951927730772,48.8841204443262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>WAGRAM - COURCELLES</description>
+	<Point>
+		<coordinates>2.30051754791291,48.8810777255129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>GUY MOQUET</description>
+	<Point>
+		<coordinates>2.32902232336571,48.8932338096012</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>JOUFFROY D'ABBANS - TOCQUEVILLE</description>
+	<Point>
+		<coordinates>2.3098763736455,48.8860052482688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>MARCADET - POISSONNIERS</description>
+	<Point>
+		<coordinates>2.34965720655023,48.8910405784645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>VAUVENARGUES</description>
+	<Point>
+		<coordinates>2.3318981123612,48.8940428179713</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>MAIRIE DU 18E - JULES JOFFRIN</description>
+	<Point>
+		<coordinates>2.34510527840462,48.8924160030099</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>CHARLES DE GAULLE - ETOILE - WAGRAM</description>
+	<Point>
+		<coordinates>2.29591678304829,48.8748030985233</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>DUHESME - LE RUISSEAU</description>
+	<Point>
+		<coordinates>2.33972165550423,48.8931441966034</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

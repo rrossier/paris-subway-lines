@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>GARDINOUX</description>
+	<Point>
+		<coordinates>2.37563228989561,48.9066366914425</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/)</name>
+	<description>VALENCIENNES</description>
+	<Point>
+		<coordinates>2.35653501276338,48.8778284375409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35934437238951,48.8836247303014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35930944095005,48.8976087943551</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35799416115411,48.8808299396041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/GARE DE L'EST)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35880508724833,48.8975819252058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/GARE DE L'EST)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35799416115411,48.8808299396041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/GARE DE L'EST)</name>
+	<description>VALENCIENNES</description>
+	<Point>
+		<coordinates>2.35653501276338,48.8778284375409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/GARE DE L'EST)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.357597149028,48.876129664261</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/GARE DE L'EST)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.3563313089129,48.8796798481428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/GARE DE L'EST)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35900430329138,48.8850807240785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/GARE DE L'EST)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35713542492424,48.8801290798217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/GARE DE L'EST)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35934437238951,48.8836247303014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>350 (ROISSYPOLE - GARE - RER/GARE DE L'EST)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35930944095005,48.8976087943551</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>351 (ROISSYPOLE/)</name>
+	<description>NATION</description>
+	<Point>
+		<coordinates>2.3986302080558,48.8479221322537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>351 (ROISSYPOLE/NATION)</name>
+	<description>NATION</description>
+	<Point>
+		<coordinates>2.3962618016211,48.8488849913171</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>351 (ROISSYPOLE/NATION)</name>
+	<description>NATION</description>
+	<Point>
+		<coordinates>2.3986302080558,48.8479221322537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34909051498589,48.8564664645516</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>MOUTON - DUVERNET</description>
+	<Point>
+		<coordinates>2.32929092981564,48.8304748543413</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34027772460869,48.8460415469266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>AUGUSTE COMTE</description>
+	<Point>
+		<coordinates>2.33892952864147,48.8435520308104</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>DENFERT-ROCHEREAU - DAGUERRE</description>
+	<Point>
+		<coordinates>2.3308562312149,48.832272471957</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>OBSERVATOIRE - PORT ROYAL</description>
+	<Point>
+		<coordinates>2.33676451777891,48.8392559958238</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34255222975036,48.8500678652945</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>VAL DE GRACE</description>
+	<Point>
+		<coordinates>2.33805803662143,48.8419522588905</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>CITE - PALAIS DE JUSTICE</description>
+	<Point>
+		<coordinates>2.34610752886951,48.855343293887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>DENFERT-ROCHEREAU - ARAGO</description>
+	<Point>
+		<coordinates>2.33381019626679,48.8354542037477</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32665059232275,48.8273829024511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34383264753499,48.8523506194006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>HOPITAL SAINT-VINCENT DE PAUL</description>
+	<Point>
+		<coordinates>2.33553918471577,48.8372517572036</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (/CHATELET)</name>
+	<description>PORTE D'ORLEANS</description>
+	<Point>
+		<coordinates>2.32659700073405,48.8232036357543</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>MAIRIE DU 10E</description>
+	<Point>
+		<coordinates>2.35740496003199,48.8724359150373</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>HOPITAL SAINT-VINCENT DE PAUL</description>
+	<Point>
+		<coordinates>2.33514434471197,48.8373596017445</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>ALESIA - MAINE</description>
+	<Point>
+		<coordinates>2.3279025879169,48.8293153495368</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>CENTRE GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.35280998972847,48.8604564511262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>PORTE D'ORLEANS</description>
+	<Point>
+		<coordinates>2.32673308130194,48.8233654259992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.3563313089129,48.8796798481428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>REAUMUR - ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35392864625042,48.8658217688776</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34210279698523,48.8497892725147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.3487230057696,48.8575180298427</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35736553753736,48.876174640029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34339685812339,48.8525034295558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>DENFERT-ROCHEREAU - ARAGO</description>
+	<Point>
+		<coordinates>2.33351066256066,48.8356429340142</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34020967433719,48.8466796616697</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>OBSERVATOIRE - PORT ROYAL</description>
+	<Point>
+		<coordinates>2.33642411272793,48.8402805752508</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>GRENIER SAINT-LAZARE - QUARTIER DE L'HORLOGE</description>
+	<Point>
+		<coordinates>2.35424107213917,48.8630985498798</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>PORTE SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.3552919364653,48.8688053720845</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>MOUTON - DUVERNET</description>
+	<Point>
+		<coordinates>2.32988974800787,48.8316342956597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.35091586653437,48.8574638739412</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>AUGUSTE COMTE</description>
+	<Point>
+		<coordinates>2.33887508048973,48.8441452082646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32626954884415,48.8268885473337</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35641330173388,48.8803179305751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>DENFERT-ROCHEREAU</description>
+	<Point>
+		<coordinates>2.33189064042753,48.8345284110055</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>CITE - PALAIS DE JUSTICE</description>
+	<Point>
+		<coordinates>2.34576705378764,48.8554601554539</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>MAGENTA - SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.35830482167847,48.8740624628229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/)</name>
+	<description>VAL DE GRACE</description>
+	<Point>
+		<coordinates>2.33774486394975,48.842078086143</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32626954884415,48.8268885473337</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34210279698523,48.8497892725147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>PORTE SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.3552919364653,48.8688053720845</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32665059232275,48.8273829024511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35641330173388,48.8803179305751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>AUGUSTE COMTE</description>
+	<Point>
+		<coordinates>2.33887508048973,48.8441452082646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34339685812339,48.8525034295558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>CITE - PALAIS DE JUSTICE</description>
+	<Point>
+		<coordinates>2.34576705378764,48.8554601554539</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>DENFERT-ROCHEREAU - ARAGO</description>
+	<Point>
+		<coordinates>2.33351066256066,48.8356429340142</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>OBSERVATOIRE - PORT ROYAL</description>
+	<Point>
+		<coordinates>2.33642411272793,48.8402805752508</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>MOUTON - DUVERNET</description>
+	<Point>
+		<coordinates>2.32988974800787,48.8316342956597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>GRENIER SAINT-LAZARE - QUARTIER DE L'HORLOGE</description>
+	<Point>
+		<coordinates>2.35424107213917,48.8630985498798</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>MOUTON - DUVERNET</description>
+	<Point>
+		<coordinates>2.32929092981564,48.8304748543413</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34255222975036,48.8500678652945</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>PORTE D'ORLEANS</description>
+	<Point>
+		<coordinates>2.32659700073405,48.8232036357543</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35736553753736,48.876174640029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>LES HALLES - CENTRE GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.3495273524964,48.8606725322957</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>ALESIA - MAINE</description>
+	<Point>
+		<coordinates>2.3279025879169,48.8293153495368</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.3563313089129,48.8796798481428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>CENTRE GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.35280998972847,48.8604564511262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.3480965489812,48.8578955603681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>STRASBOURG - SAINT-DENIS</description>
+	<Point>
+		<coordinates>2.35386133961613,48.8683382381217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>OBSERVATOIRE - PORT ROYAL</description>
+	<Point>
+		<coordinates>2.33676451777891,48.8392559958238</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35771947808414,48.875374710696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>DENFERT-ROCHEREAU - ARAGO</description>
+	<Point>
+		<coordinates>2.33381019626679,48.8354542037477</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>REAUMUR - SEBASTOPOL</description>
+	<Point>
+		<coordinates>2.3524574269996,48.86586690255</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>VAL DE GRACE</description>
+	<Point>
+		<coordinates>2.33805803662143,48.8419522588905</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>DENFERT-ROCHEREAU - DAGUERRE</description>
+	<Point>
+		<coordinates>2.3308562312149,48.832272471957</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>VAL DE GRACE</description>
+	<Point>
+		<coordinates>2.33774486394975,48.842078086143</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>TURBIGO - ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.35151702219137,48.8642313172613</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>VALENCIENNES</description>
+	<Point>
+		<coordinates>2.35653501276338,48.8778284375409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>DENFERT-ROCHEREAU</description>
+	<Point>
+		<coordinates>2.33189064042753,48.8345284110055</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.3581581136544,48.8819083811668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>PORTE D'ORLEANS</description>
+	<Point>
+		<coordinates>2.32659700073405,48.8232036357543</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>CHATEAU D'EAU</description>
+	<Point>
+		<coordinates>2.35608337089443,48.8723372707305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.3487230057696,48.8575180298427</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34020967433719,48.8466796616697</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>MAGENTA - SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.35830482167847,48.8740624628229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34383264753499,48.8523506194006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34027772460869,48.8460415469266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>MAIRIE DU 10E</description>
+	<Point>
+		<coordinates>2.35740496003199,48.8724359150373</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>HOPITAL SAINT-VINCENT DE PAUL</description>
+	<Point>
+		<coordinates>2.33553918471577,48.8372517572036</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>CITE - PALAIS DE JUSTICE</description>
+	<Point>
+		<coordinates>2.34610752886951,48.855343293887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>HOPITAL SAINT-VINCENT DE PAUL</description>
+	<Point>
+		<coordinates>2.33514434471197,48.8373596017445</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.35091586653437,48.8574638739412</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>REAUMUR - ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35392864625042,48.8658217688776</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>38 (PORTE D'ORLEANS/GARE DU NORD)</name>
+	<description>AUGUSTE COMTE</description>
+	<Point>
+		<coordinates>2.33892952864147,48.8435520308104</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>BAC - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32378613451627,48.8499144346259</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>HOPITAL DES ENFANTS MALADES</description>
+	<Point>
+		<coordinates>2.31552119256186,48.8465878404688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>VANEAU - SAINT-ROMAIN</description>
+	<Point>
+		<coordinates>2.32085858807614,48.848655819511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32569251451743,48.8507594579288</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>MAIRIE DU 15E</description>
+	<Point>
+		<coordinates>2.29978281814985,48.8418475033137</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>CONVENTION - LECOURBE</description>
+	<Point>
+		<coordinates>2.2912342682532,48.8390943156495</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>FRERES VOISIN</description>
+	<Point>
+		<coordinates>2.27315241533286,48.8284446339774</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>PONT DU CARROUSEL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.33363161382981,48.8582824580217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>REAUMUR - SEBASTOPOL</description>
+	<Point>
+		<coordinates>2.34969223576715,48.8666311491772</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>SAINTE-ANNE - PETITS CHAMPS</description>
+	<Point>
+		<coordinates>2.33489802552181,48.8648612641485</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>POISSONNIERE - BONNE NOUVELLE</description>
+	<Point>
+		<coordinates>2.34724094664523,48.870801507724</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>RICHELIEU - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33876689433614,48.8697953354569</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>VAUGIRARD - CROIX-NIVERT</description>
+	<Point>
+		<coordinates>2.29104793337369,48.8342858886419</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32600567724252,48.8510560745742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>CAMBRONNE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30446772576992,48.8403839153027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>MAIRIE DU 10E</description>
+	<Point>
+		<coordinates>2.35740496003199,48.8724359150373</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>HAMEAU</description>
+	<Point>
+		<coordinates>2.28930394019242,48.8357681516206</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>FRERES VOISIN</description>
+	<Point>
+		<coordinates>2.27315241533286,48.8284446339774</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.33478909604399,48.8638367010403</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>DURANTON</description>
+	<Point>
+		<coordinates>2.28848460419495,48.838383203612</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>MAGENTA - SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.35830482167847,48.8740624628229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.3581581136544,48.8819083811668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>CONVENTION - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.2968996736692,48.8373527823114</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.33444869668747,48.861050602522</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>GRANDS BOULEVARDS</description>
+	<Point>
+		<coordinates>2.34350809284154,48.8714308750394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>SENTIER</description>
+	<Point>
+		<coordinates>2.34672260093404,48.8672964866644</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>VAUGIRARD - FAVORITES</description>
+	<Point>
+		<coordinates>2.30162260735084,48.839520292681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35771947808414,48.875374710696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35736553753736,48.876174640029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.3352113713585,48.8640074692363</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>SEVRES - LECOURBE</description>
+	<Point>
+		<coordinates>2.31161384903167,48.8448255108473</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>VOLONTAIRES - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30836122607289,48.8415173546303</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>DUROC</description>
+	<Point>
+		<coordinates>2.31607927410292,48.8471631412631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>SEVRES - LECOURBE</description>
+	<Point>
+		<coordinates>2.30997979386176,48.8448521103785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>BIBLIOTHEQUE NATIONALE</description>
+	<Point>
+		<coordinates>2.33777235399404,48.8678001536222</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>JACOB</description>
+	<Point>
+		<coordinates>2.33447620294811,48.85612549785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>LYCEE LOUIS ARMAND</description>
+	<Point>
+		<coordinates>2.2844284206956,48.8372220764595</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>SEVERINE</description>
+	<Point>
+		<coordinates>2.27839073845115,48.8307122224592</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>LOUIS ARMAND</description>
+	<Point>
+		<coordinates>2.27842969353607,48.832374950918</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>VANEAU - SAINT-ROMAIN</description>
+	<Point>
+		<coordinates>2.31966046495669,48.8478827240797</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>COLONEL PIERRE AVIA</description>
+	<Point>
+		<coordinates>2.27545133577518,48.8298119701637</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.3563313089129,48.8796798481428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>PORTE SAINT-DENIS</description>
+	<Point>
+		<coordinates>2.35368460277333,48.8694886425496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>RICHELIEU - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33816744504303,48.8690943291197</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>PONT DU CARROUSEL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.33288250520762,48.8580307850858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.3303907809718,48.8518113554953</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.33345431505503,48.8614460205192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>BOURSE</description>
+	<Point>
+		<coordinates>2.34105556060571,48.8685280693006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>SAINT-GERMAIN-DES-PRES</description>
+	<Point>
+		<coordinates>2.3325424259503,48.8532674289685</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.3567129730728,48.8800302896812</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>RICHELIEU - DROUOT</description>
+	<Point>
+		<coordinates>2.33958438874349,48.8715838009194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>HOPITAL DE VAUGIRARD</description>
+	<Point>
+		<coordinates>2.2934564857753,48.8356708880709</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>ABBE GROULT</description>
+	<Point>
+		<coordinates>2.29610735675149,48.8406868966388</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.33104444025582,48.8521888649571</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>CHATEAU D'EAU</description>
+	<Point>
+		<coordinates>2.35608337089443,48.8723372707305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>JACOB</description>
+	<Point>
+		<coordinates>2.33128914202698,48.8560085442319</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>ABBE GROULT</description>
+	<Point>
+		<coordinates>2.29879141890708,48.8383600162866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>VOLONTAIRES - LECOURBE</description>
+	<Point>
+		<coordinates>2.30690286900593,48.843961601227</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>BAC - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32309161610598,48.8498514416938</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>REAUMUR - MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34324884510933,48.8680426623462</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>BALARD - LECOURBE</description>
+	<Point>
+		<coordinates>2.28069884840389,48.8363575557981</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>DESNOUETTES - VASCO DE GAMA</description>
+	<Point>
+		<coordinates>2.28670359854466,48.8357131504988</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>DESNOUETTES</description>
+	<Point>
+		<coordinates>2.28439023119541,48.8346156597994</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>BALARD</description>
+	<Point>
+		<coordinates>2.2776906107664,48.8358078462616</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>STRASBOURG - SAINT-DENIS</description>
+	<Point>
+		<coordinates>2.35386133961613,48.8683382381217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>CAMBRONNE - LECOURBE</description>
+	<Point>
+		<coordinates>2.30198823134995,48.8424593295155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>MAISON DE RETRAITE</description>
+	<Point>
+		<coordinates>2.27492208875179,48.8284275984303</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>VALENCIENNES</description>
+	<Point>
+		<coordinates>2.35653501276338,48.8778284375409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>SAINT-GERMAIN-DES-PRES</description>
+	<Point>
+		<coordinates>2.3335093442476,48.8539145600392</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>39 (FRERES VOISIN/GARE DU NORD)</name>
+	<description>PASTEUR - LYCEE BUFFON</description>
+	<Point>
+		<coordinates>2.31270397100551,48.8432169736026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>394 (BOURG-LA-REINE RER/ISSY - VAL DE SEINE RER-TRAMWAY)</name>
+	<description>CORENTIN CELTON-METRO</description>
+	<Point>
+		<coordinates>2.27797255583618,48.8273596269342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>394 (BOURG-LA-REINE RER/ISSY - VAL DE SEINE RER-TRAMWAY)</name>
+	<description>ISSY - VAL DE SEINE RER-TRAMWAY</description>
+	<Point>
+		<coordinates>2.26352762021953,48.8288704690929</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>394 (BOURG-LA-REINE RER/ISSY - VAL DE SEINE RER-TRAMWAY)</name>
+	<description>CORENTIN CELTON-METRO</description>
+	<Point>
+		<coordinates>2.2785038676412,48.8269824090753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>394 (BOURG-LA-REINE RER/ISSY - VAL DE SEINE RER-TRAMWAY)</name>
+	<description>ROSIER ROUGE</description>
+	<Point>
+		<coordinates>2.28174900296792,48.8219328968604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>394 (BOURG-LA-REINE RER/ISSY - VAL DE SEINE RER-TRAMWAY)</name>
+	<description>ROSIER ROUGE</description>
+	<Point>
+		<coordinates>2.28195342651738,48.8216903244533</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CHATEAUDUN - LAMARTINE</description>
+	<Point>
+		<coordinates>2.34138316818164,48.8766885411751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>MADELEINE</description>
+	<Point>
+		<coordinates>2.32574286245434,48.8693544094998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CAPUCINES - CAUMARTIN</description>
+	<Point>
+		<coordinates>2.32933931490412,48.8702624236475</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CAPUCINES - CAUMARTIN</description>
+	<Point>
+		<coordinates>2.32969355572288,48.8700916873101</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>MAGENTA - MAUBEUGE</description>
+	<Point>
+		<coordinates>2.35157596138759,48.8803455719162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>DUPLEIX</description>
+	<Point>
+		<coordinates>2.29164570686609,48.8512006604008</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35813074794904,48.881629781251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CONVENTION - BOUCICAUT</description>
+	<Point>
+		<coordinates>2.28647761158102,48.8440445190946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>LEBLANC - DELBARRE</description>
+	<Point>
+		<coordinates>2.27545519820523,48.8379996762253</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>RAPP - LA BOURDONNAIS</description>
+	<Point>
+		<coordinates>2.29958083530017,48.8574856625225</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.3581581136544,48.8819083811668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.30935435982437,48.8684080279789</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.30894542336848,48.868848311451</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CHAMPS-ELYSEES - CLEMENCEAU</description>
+	<Point>
+		<coordinates>2.31311465630567,48.8677797347218</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>HOPITAL EUROPEEN GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.27204901174016,48.8398942357326</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>IENA</description>
+	<Point>
+		<coordinates>2.29491684223221,48.8646380678565</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32359332630885,48.8580840065779</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.32017338758452,48.8617144785673</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SABLONS - CORTAMBERT</description>
+	<Point>
+		<coordinates>2.28115937433565,48.8637426338524</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SAINT-GERMAIN - ODEON</description>
+	<Point>
+		<coordinates>2.34019633272195,48.851541892752</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>VAN GOGH</description>
+	<Point>
+		<coordinates>2.37160965931978,48.8437178494399</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>ALMA - MARCEAU</description>
+	<Point>
+		<coordinates>2.29909849702868,48.8651337860561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>CUVIER</description>
+	<Point>
+		<coordinates>2.36088115109532,48.8469379920002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SAINT-GERMAIN - CARDINAL LEMOINE</description>
+	<Point>
+		<coordinates>2.3548902085384,48.8492488162089</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>PONT D'AUSTERLITZ - QUAI DE LA RAPEE</description>
+	<Point>
+		<coordinates>2.36865582724035,48.8453633814555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SAINT-GERMAIN-DES-PRES</description>
+	<Point>
+		<coordinates>2.3335229894965,48.8535550623128</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>CUVIER</description>
+	<Point>
+		<coordinates>2.36033648056543,48.8470099988487</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>CLUNY</description>
+	<Point>
+		<coordinates>2.34324676117028,48.8500139074815</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>CLUNY</description>
+	<Point>
+		<coordinates>2.34415931409194,48.8509305807805</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>VARENNE - RASPAIL</description>
+	<Point>
+		<coordinates>2.32637283771051,48.8536444983189</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.3315620359878,48.8514968558042</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>EGLISE SAINT-SULPICE</description>
+	<Point>
+		<coordinates>2.33786752179733,48.8514700277748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>JEAN NICOT - EGLISE AMERICAINE</description>
+	<Point>
+		<coordinates>2.30591144372667,48.8621968993011</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>GARE DE LYON</description>
+	<Point>
+		<coordinates>2.37370645059022,48.8434565876959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>POMPE - MAIRIE DU XVI</description>
+	<Point>
+		<coordinates>2.27818980478099,48.8637232238133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>BOSQUET - RAPP</description>
+	<Point>
+		<coordinates>2.3028329989252,48.8621511126294</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>DANTE</description>
+	<Point>
+		<coordinates>2.34644714050674,48.8503642151266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>ALBERT DE MUN</description>
+	<Point>
+		<coordinates>2.29051737893282,48.8640702183622</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>GARE DE LYON.</description>
+	<Point>
+		<coordinates>2.3730802771735,48.843735391121</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>VICTOR HUGO - HENRI MARTIN</description>
+	<Point>
+		<coordinates>2.27316291025904,48.8640351838626</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32517372809032,48.8562597292633</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SAINT-GERMAIN - ODEON</description>
+	<Point>
+		<coordinates>2.33948817011471,48.8518564695515</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>OCTAVE FEUILLET</description>
+	<Point>
+		<coordinates>2.26974471214864,48.8633143051234</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>INSTITUT DU MONDE ARABE</description>
+	<Point>
+		<coordinates>2.35523054442394,48.8489072407766</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.36379395304486,48.844286061979</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>MAUBERT - MUTUALITE</description>
+	<Point>
+		<coordinates>2.34970176982207,48.8495999834938</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>INVALIDES</description>
+	<Point>
+		<coordinates>2.31443834484032,48.8626571944597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>OCTAVE FEUILLET</description>
+	<Point>
+		<coordinates>2.26940477713488,48.8628467677783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>TROCADERO</description>
+	<Point>
+		<coordinates>2.28801154291787,48.8634131300254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>PORTE DE LA MUETTE</description>
+	<Point>
+		<coordinates>2.26781090166344,48.8629447106283</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.31991465227557,48.861498743671</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>UNIVERSITE PARIS VI</description>
+	<Point>
+		<coordinates>2.35785886246407,48.848978714936</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>MONGE - MUTUALITE</description>
+	<Point>
+		<coordinates>2.35001465155211,48.8482248645469</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>COLLEGE DE FRANCE</description>
+	<Point>
+		<coordinates>2.346133715821,48.8491958661568</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>JEAN NICOT - EGLISE AMERICAINE</description>
+	<Point>
+		<coordinates>2.30573416667739,48.862520398626</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>ALBERT DE MUN</description>
+	<Point>
+		<coordinates>2.29100802155898,48.8637918010259</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>GEORGES MANDEL - TROCADERO</description>
+	<Point>
+		<coordinates>2.28581904309723,48.8627830864685</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>VICTOR HUGO - HENRI MARTIN</description>
+	<Point>
+		<coordinates>2.27359835247041,48.8644128872945</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>ALMA - MARCEAU</description>
+	<Point>
+		<coordinates>2.29961637426923,48.8648193927442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SEINE - BUCI</description>
+	<Point>
+		<coordinates>2.33672353366025,48.852728273391</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32313021496388,48.8581378771023</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32547333158954,48.8564215330989</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32156336486674,48.8597644033169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36533223576052,48.8435037944305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>GARE DE LYON</description>
+	<Point>
+		<coordinates>2.37407410647561,48.8434654621099</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32748998264017,48.8517302658206</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>INVALIDES</description>
+	<Point>
+		<coordinates>2.31424752953183,48.8629088046315</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>IENA</description>
+	<Point>
+		<coordinates>2.29493020771073,48.864952630708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>GEORGES MANDEL - TROCADERO</description>
+	<Point>
+		<coordinates>2.28581865979457,48.8631695439989</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SABLONS - CORTAMBERT</description>
+	<Point>
+		<coordinates>2.28241314711882,48.8632219492899</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>PONT DES INVALIDES - PLACE DE FINLANDE</description>
+	<Point>
+		<coordinates>2.31118282855417,48.8625217156457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>SAINT-GUILLAUME</description>
+	<Point>
+		<coordinates>2.32950515342862,48.854507538601</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>POMPE - MAIRIE DU XVI</description>
+	<Point>
+		<coordinates>2.2770585972768,48.8642259509746</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>GAMBETTA - MAIRIE DU 20E</description>
+	<Point>
+		<coordinates>2.39915498111754,48.8654473591979</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>ORTEAUX</description>
+	<Point>
+		<coordinates>2.4048239125366,48.8565287736703</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>AVENUE DE SAINT-MANDE</description>
+	<Point>
+		<coordinates>2.40592572900004,48.845176958406</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>RAMUS</description>
+	<Point>
+		<coordinates>2.40030817663578,48.8615731912924</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>DAUMESNIL - FELIX EBOUE</description>
+	<Point>
+		<coordinates>2.39433089387902,48.8391075029165</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>PONT DE TOLBIAC</description>
+	<Point>
+		<coordinates>2.37925258391839,48.8317709167928</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>PICPUS - REUILLY</description>
+	<Point>
+		<coordinates>2.3995324588242,48.8394733858988</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>PARC DE CHOISY</description>
+	<Point>
+		<coordinates>2.35912968102101,48.8269679326179</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>OLYMPIADES</description>
+	<Point>
+		<coordinates>2.36736515695904,48.8270020848632</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>DOCTEUR GOUJON - REUILLY</description>
+	<Point>
+		<coordinates>2.39725855998122,48.8393936654891</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>BIBLIOTHEQUE CHEVALERET</description>
+	<Point>
+		<coordinates>2.37493540108754,48.8294625425275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>CHOISY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.36111669991498,48.8261406869496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>HOPITAL TROUSSEAU</description>
+	<Point>
+		<coordinates>2.40510467115954,48.8420947060216</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>DIJON - LACHAMBEAUDIE</description>
+	<Point>
+		<coordinates>2.38588590193883,48.8355072341037</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36431577439684,48.8265803976316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>PYRENEES - BAGNOLET</description>
+	<Point>
+		<coordinates>2.40238897754533,48.8589657230036</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>PARC DE BERCY</description>
+	<Point>
+		<coordinates>2.38299815692743,48.8338546613866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35627276326934,48.8315251526494</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>CHARENTON - WATTIGNIES</description>
+	<Point>
+		<coordinates>2.39058454198639,48.8370780491102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37173520493732,48.8277378861805</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (/GAMBETTA - MAIRIE DU 20E)</name>
+	<description>LOUIS BRAILLE</description>
+	<Point>
+		<coordinates>2.40383516131813,48.8396058710654</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>GAMBETTA</description>
+	<Point>
+		<coordinates>2.39961824068257,48.8655280039263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>DAUMESNIL - FELIX EBOUE</description>
+	<Point>
+		<coordinates>2.39392240909721,48.8390897229028</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>RAMUS</description>
+	<Point>
+		<coordinates>2.39994071382664,48.861834019791</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35627276326934,48.8315251526494</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>CHOISY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.36108956239558,48.8263294331124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>PYRENEES - BAGNOLET</description>
+	<Point>
+		<coordinates>2.40229336201648,48.8587500771783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>PARC DE BERCY</description>
+	<Point>
+		<coordinates>2.38474185927408,48.8350493288453</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>PARC DE CHOISY</description>
+	<Point>
+		<coordinates>2.35941556666971,48.8270307932721</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>CHARENTON - WATTIGNIES</description>
+	<Point>
+		<coordinates>2.39044855812272,48.8372398863165</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>LOUIS BRAILLE</description>
+	<Point>
+		<coordinates>2.40359025227338,48.8397408211504</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>GAMBETTA - MAIRIE DU 20E</description>
+	<Point>
+		<coordinates>2.39791504647949,48.865196350599</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>MARAICHERS</description>
+	<Point>
+		<coordinates>2.40592147465723,48.8522501185547</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>HOPITAL TROUSSEAU</description>
+	<Point>
+		<coordinates>2.4049279407979,48.8423105075794</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>PONT DE TOLBIAC</description>
+	<Point>
+		<coordinates>2.37904857565516,48.8320136541569</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>AVENUE DE SAINT-MANDE</description>
+	<Point>
+		<coordinates>2.40559871739333,48.8450243586924</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>BIBLIOTHEQUE CHEVALERET</description>
+	<Point>
+		<coordinates>2.37565736108571,48.8301004334506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>PICPUS - REUILLY</description>
+	<Point>
+		<coordinates>2.39917872140261,48.8396982593811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>DIJON - LACHAMBEAUDIE</description>
+	<Point>
+		<coordinates>2.38609040797808,48.8358127283478</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>OLYMPIADES</description>
+	<Point>
+		<coordinates>2.36717465686944,48.827127959969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36492844895846,48.8268139356788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>ORTEAUX</description>
+	<Point>
+		<coordinates>2.40476871855374,48.8559805711976</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37041468096808,48.8275674961309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>64 (PLACE D'ITALIE/)</name>
+	<description>DOCTEUR GOUJON - REUILLY</description>
+	<Point>
+		<coordinates>2.39663246961435,48.8395917056785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARE DE LYON - VAN GOGH</description>
+	<Point>
+		<coordinates>2.37200508597161,48.8445266119185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARE DE LYON</description>
+	<Point>
+		<coordinates>2.37370645059022,48.8434565876959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.36954531695001,48.8523913607558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>LYON - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37294738740379,48.8484988114547</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>BASTILLE - BEAUMARCHAIS</description>
+	<Point>
+		<coordinates>2.36863379044463,48.8539554222221</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>PASTEUR - WAGNER</description>
+	<Point>
+		<coordinates>2.36849884708028,48.8560315575912</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>JEAN-PIERRE TIMBAUD</description>
+	<Point>
+		<coordinates>2.36542551275034,48.8648220068507</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>SAINT-CLAUDE</description>
+	<Point>
+		<coordinates>2.36761573905714,48.8597705544328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35713542492424,48.8801290798217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>ORDENER - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35993336587879,48.8905357839257</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>ORDENER - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35971499390036,48.88982583752</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>JACQUES BONSERGENT</description>
+	<Point>
+		<coordinates>2.36036083563537,48.8711142420655</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>LES ROSES</description>
+	<Point>
+		<coordinates>2.3597434838776,48.8926657806878</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37197892900817,48.8461353848952</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>BOUCRY</description>
+	<Point>
+		<coordinates>2.35952640710221,48.8949845086857</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>EMILE BERTIN</description>
+	<Point>
+		<coordinates>2.36354914559141,48.8985965186657</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>LA HAIE COQ</description>
+	<Point>
+		<coordinates>2.37269944988342,48.9041661538958</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>PORTE D'AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.36920612298577,48.8986850078999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37302712419482,48.8456407614732</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>SKANDERBEG</description>
+	<Point>
+		<coordinates>2.37048785553384,48.899313756007</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARDINOUX</description>
+	<Point>
+		<coordinates>2.3757957485288,48.9064479103254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARE DE LYON</description>
+	<Point>
+		<coordinates>2.37389714715153,48.8435464044594</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>SKANDERBEG</description>
+	<Point>
+		<coordinates>2.37007939396775,48.9000687869888</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.3563313089129,48.8796798481428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>MAGENTA - SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.35830482167847,48.8740624628229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARE DE LYON.</description>
+	<Point>
+		<coordinates>2.3730802771735,48.843735391121</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.3687282754583,48.8525533538262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35880508724833,48.8975819252058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>REPUBLIQUE - MAGENTA</description>
+	<Point>
+		<coordinates>2.36188590686549,48.869415330502</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>STRASBOURG - MAGENTA</description>
+	<Point>
+		<coordinates>2.35863158070965,48.8734962042672</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36361547476228,48.8682106562407</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>VALENCIENNES</description>
+	<Point>
+		<coordinates>2.35653501276338,48.8778284375409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>JACQUES BONSERGENT</description>
+	<Point>
+		<coordinates>2.3610282796006,48.8708355035755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>OBERKAMPF - FILLES DU CALVAIRE</description>
+	<Point>
+		<coordinates>2.36696361280605,48.8627006111999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35799416115411,48.8808299396041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>BASTILLE - BEAUMARCHAIS</description>
+	<Point>
+		<coordinates>2.3689742206038,48.8538654575096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>DEPARTEMENT - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35957762558616,48.8873184348975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>REPUBLIQUE - TEMPLE</description>
+	<Point>
+		<coordinates>2.36489500636672,48.8662511226742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>CAIL - DEMARQUAY</description>
+	<Point>
+		<coordinates>2.3590168705476,48.8825553091048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35736553753736,48.876174640029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>EMILE BERTIN</description>
+	<Point>
+		<coordinates>2.36458500302743,48.8983895817949</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>LA HAIE COQ</description>
+	<Point>
+		<coordinates>2.37384503907808,48.904803890592</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35934437238951,48.8836247303014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>SAINT-GILLES - CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.36817270230987,48.8572629210688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>DEPARTEMENT - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35971373595153,48.8869229721122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>CAIL - DEMARQUAY</description>
+	<Point>
+		<coordinates>2.35863527972611,48.8824655057457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>LES ROSES</description>
+	<Point>
+		<coordinates>2.3594710310148,48.8929893698015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>SAINT-GILLES - CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.36794107257167,48.8571191821</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>PORTE D'AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.3693968254445,48.8984692656328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35930951362585,48.8977795498341</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARDINOUX</description>
+	<Point>
+		<coordinates>2.37563228989561,48.9066366914425</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>LYON - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37099990628506,48.8483286168513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>BOUCRY</description>
+	<Point>
+		<coordinates>2.35917196520383,48.8948497671085</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36362842132757,48.8668805250598</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>PARC DU MILLENAIRE</description>
+	<Point>
+		<coordinates>2.37009419309724,48.9019111398846</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35900430329138,48.8850807240785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>PASTEUR - WAGNER</description>
+	<Point>
+		<coordinates>2.36828050850129,48.8553305943155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>PARC DU MILLENAIRE</description>
+	<Point>
+		<coordinates>2.37040756255254,48.9016504272139</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35771947808414,48.875374710696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>JEAN-PIERRE TIMBAUD</description>
+	<Point>
+		<coordinates>2.36568441944382,48.8649747306834</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>OBERKAMPF - FILLES DU CALVAIRE</description>
+	<Point>
+		<coordinates>2.36686762960512,48.861595185746</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (MAIRIE D'AUBERVILLIERS/GARE DE LYON)</name>
+	<description>SAINT-CLAUDE</description>
+	<Point>
+		<coordinates>2.3672888575037,48.8598065869448</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>REPUBLIQUE - MAGENTA</description>
+	<Point>
+		<coordinates>2.36188590686549,48.869415330502</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>CAIL - DEMARQUAY</description>
+	<Point>
+		<coordinates>2.3590168705476,48.8825553091048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>BOUCRY</description>
+	<Point>
+		<coordinates>2.35952640710221,48.8949845086857</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37197892900817,48.8461353848952</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>SAINT-CLAUDE</description>
+	<Point>
+		<coordinates>2.3672888575037,48.8598065869448</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>LYON - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37294738740379,48.8484988114547</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35900430329138,48.8850807240785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>BASTILLE - BEAUMARCHAIS</description>
+	<Point>
+		<coordinates>2.36863379044463,48.8539554222221</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>PORTE DE LA CHAPELLE-METRO.</description>
+	<Point>
+		<coordinates>2.35880502370999,48.8974291439638</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35934437238951,48.8836247303014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>JEAN-PIERRE TIMBAUD</description>
+	<Point>
+		<coordinates>2.36542551275034,48.8648220068507</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.3687282754583,48.8525533538262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>OBERKAMPF - FILLES DU CALVAIRE</description>
+	<Point>
+		<coordinates>2.36686762960512,48.861595185746</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35944562272521,48.8973121936954</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>LES ROSES</description>
+	<Point>
+		<coordinates>2.3597434838776,48.8926657806878</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35771947808414,48.875374710696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>DEPARTEMENT - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35971373595153,48.8869229721122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37302712419482,48.8456407614732</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>OBERKAMPF - FILLES DU CALVAIRE</description>
+	<Point>
+		<coordinates>2.36696361280605,48.8627006111999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35736553753736,48.876174640029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>PASTEUR - WAGNER</description>
+	<Point>
+		<coordinates>2.36828050850129,48.8553305943155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>CAIL - DEMARQUAY</description>
+	<Point>
+		<coordinates>2.35863527972611,48.8824655057457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>GARE DE LYON - VAN GOGH</description>
+	<Point>
+		<coordinates>2.37200508597161,48.8445266119185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>GARE DE LYON</description>
+	<Point>
+		<coordinates>2.37370645059022,48.8434565876959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>MAGENTA - SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.35830482167847,48.8740624628229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>GARE DE LYON</description>
+	<Point>
+		<coordinates>2.37389714715153,48.8435464044594</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>BOUCRY</description>
+	<Point>
+		<coordinates>2.35917196520383,48.8948497671085</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>VALENCIENNES</description>
+	<Point>
+		<coordinates>2.35653501276338,48.8778284375409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>SAINT-GILLES - CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.36817270230987,48.8572629210688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>STRASBOURG - MAGENTA</description>
+	<Point>
+		<coordinates>2.35863158070965,48.8734962042672</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>JEAN-PIERRE TIMBAUD</description>
+	<Point>
+		<coordinates>2.36568441944382,48.8649747306834</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>PASTEUR - WAGNER</description>
+	<Point>
+		<coordinates>2.36849884708028,48.8560315575912</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.36954531695001,48.8523913607558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>BASTILLE - BEAUMARCHAIS</description>
+	<Point>
+		<coordinates>2.3689742206038,48.8538654575096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.3563313089129,48.8796798481428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>SAINT-CLAUDE</description>
+	<Point>
+		<coordinates>2.36761573905714,48.8597705544328</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

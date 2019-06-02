@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>MONGE</description>
+	<Point>
+		<coordinates>2.35231456070853,48.8430028507671</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>REAUMUR - SEBASTOPOL</description>
+	<Point>
+		<coordinates>2.3524574269996,48.86586690255</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CARDINAL LEMOINE</description>
+	<Point>
+		<coordinates>2.35156653182831,48.8461935127992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CHATEAU D'EAU</description>
+	<Point>
+		<coordinates>2.35608337089443,48.8723372707305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>PORTE SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.3552919364653,48.8688053720845</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35157767235623,48.8372239451082</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CITE - PARVIS NOTRE-DAME</description>
+	<Point>
+		<coordinates>2.34707423304478,48.8537614272564</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>ITALIE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.35740069966208,48.8264110034936</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CITE - PALAIS DE JUSTICE</description>
+	<Point>
+		<coordinates>2.34610752886951,48.855343293887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35629995071786,48.8314172969149</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>TURBIGO - ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.35151702219137,48.8642313172613</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>MOUZAIA</description>
+	<Point>
+		<coordinates>2.39907691832792,48.87995293093</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>RICHELIEU - DROUOT</description>
+	<Point>
+		<coordinates>2.33958438874349,48.8715838009194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>ARMAND CARREL - MAIRIE DU 19E</description>
+	<Point>
+		<coordinates>2.38263230392524,48.8825306822166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PLACE DES FETES</description>
+	<Point>
+		<coordinates>2.39301048984644,48.8773945507647</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PHILIPPE DE GIRARD</description>
+	<Point>
+		<coordinates>2.36205641753198,48.8841095073408</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PLACE DES FETES</description>
+	<Point>
+		<coordinates>2.39382633659724,48.8758483525684</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>LES MARRONNIERS</description>
+	<Point>
+		<coordinates>2.4035756098055,48.8815412570251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>RUE DE MEAUX</description>
+	<Point>
+		<coordinates>2.37466079376004,48.8828569917114</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>CAIL - DEMARQUAY</description>
+	<Point>
+		<coordinates>2.35863527972611,48.8824655057457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>JAURES</description>
+	<Point>
+		<coordinates>2.37094058819329,48.8828041779135</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>LA FAYETTE - POISSONNIERE</description>
+	<Point>
+		<coordinates>2.34889103186167,48.8779372765597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>CAIL - DEMARQUAY</description>
+	<Point>
+		<coordinates>2.3590168705476,48.8825553091048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35713542492424,48.8801290798217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>GRANDS BOULEVARDS</description>
+	<Point>
+		<coordinates>2.34350809284154,48.8714308750394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>MANIN</description>
+	<Point>
+		<coordinates>2.38580729845899,48.8824485457563</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>STALINGRAD</description>
+	<Point>
+		<coordinates>2.36877421462018,48.8833260304908</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>MANIN</description>
+	<Point>
+		<coordinates>2.38610711543818,48.8824753849637</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PRE-SAINT-GERVAIS - ALLES</description>
+	<Point>
+		<coordinates>2.39885810828621,48.87928798648</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.33478909604399,48.8638367010403</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>JAURES</description>
+	<Point>
+		<coordinates>2.37145864488075,48.8831545327259</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>CHATEAU LANDON</description>
+	<Point>
+		<coordinates>2.36508165537898,48.8840549159506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35894955972957,48.8845235260152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>CADET</description>
+	<Point>
+		<coordinates>2.34322246797451,48.8755920138639</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35799416115411,48.8808299396041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PETITES ECURIES</description>
+	<Point>
+		<coordinates>2.3476775145415,48.8738122219013</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>POISSONNIERE - BONNE NOUVELLE</description>
+	<Point>
+		<coordinates>2.34724094664523,48.870801507724</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>LOUVRE - ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.34338479347615,48.8656520181725</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>ARMAND CARREL - MAIRIE DU 19E</description>
+	<Point>
+		<coordinates>2.38210048893579,48.8821084829745</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>BIBLIOTHEQUE NATIONALE</description>
+	<Point>
+		<coordinates>2.33777235399404,48.8678001536222</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>RUE DES BOIS</description>
+	<Point>
+		<coordinates>2.39963386349391,48.8785146774869</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>LA FAYETTE - MAGENTA</description>
+	<Point>
+		<coordinates>2.35522725621596,48.878718382142</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>STALINGRAD</description>
+	<Point>
+		<coordinates>2.36727581940803,48.8843419748136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>LOUISE THULIEZ</description>
+	<Point>
+		<coordinates>2.39685391026194,48.8782734438594</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>HOPITAL ROBERT DEBRE</description>
+	<Point>
+		<coordinates>2.40128491179524,48.8803921408881</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>RUE DE MEAUX</description>
+	<Point>
+		<coordinates>2.37481058655369,48.8827131487269</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>GARE DU NORD - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.35539118221145,48.8799046765241</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PARADIS</description>
+	<Point>
+		<coordinates>2.3480185425011,48.8757983848319</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>BOTZARIS</description>
+	<Point>
+		<coordinates>2.38966060065508,48.8793732717157</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>CHAPELLE - CAILLIE</description>
+	<Point>
+		<coordinates>2.36405987177553,48.8845674222838</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>HOPITAL ROBERT DEBRE</description>
+	<Point>
+		<coordinates>2.40159793849959,48.8800864053479</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>LES MARRONNIERS</description>
+	<Point>
+		<coordinates>2.40358912144751,48.8814513769674</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>BOTZARIS</description>
+	<Point>
+		<coordinates>2.38952415861036,48.8791935862659</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PALAIS ROYAL - MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.33845337631043,48.8621920288177</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>COQUILLIERE</description>
+	<Point>
+		<coordinates>2.34000632013136,48.863791757809</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>GRANDS BOULEVARDS</description>
+	<Point>
+		<coordinates>2.34282681283582,48.8706849606959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>SQUARE MONTHOLON</description>
+	<Point>
+		<coordinates>2.34699679688907,48.8765444178076</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>MAGENTA - MAUBEUGE</description>
+	<Point>
+		<coordinates>2.35157596138759,48.8803455719162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>REAUMUR - MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34346687619565,48.8685549299802</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35934437238951,48.8836247303014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PROVENCE - FAUBOURG MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34289524673744,48.8735788743066</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>RICHELIEU - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33876689433614,48.8697953354569</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PORTE DU PRE-SAINT-GERVAIS</description>
+	<Point>
+		<coordinates>2.40102407644621,48.8788195089562</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>48 (PALAIS ROYAL - MUSEE DU LOUVRE/PORTE DES LILAS)</name>
+	<description>PLACE FRANZ LISZT</description>
+	<Point>
+		<coordinates>2.35225656304893,48.8778739894115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>ALBERT MARQUET</description>
+	<Point>
+		<coordinates>2.40430790665732,48.8577333812202</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>ALBERT MARQUET</description>
+	<Point>
+		<coordinates>2.40479843979906,48.8578858903372</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>ORTEAUX - VITRUVE</description>
+	<Point>
+		<coordinates>2.40291747723397,48.8568264252825</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>COUR DES NOUES</description>
+	<Point>
+		<coordinates>2.40179617565685,48.8641967122962</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>PELLEPORT - BAGNOLET</description>
+	<Point>
+		<coordinates>2.40594811547645,48.8620823541498</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>PLAINE</description>
+	<Point>
+		<coordinates>2.40218730476965,48.8501940811164</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>VIGNOLES</description>
+	<Point>
+		<coordinates>2.40016296802081,48.8541586410716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>PLACE DE LA REUNION</description>
+	<Point>
+		<coordinates>2.40203053947999,48.8555237322485</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>INDRE</description>
+	<Point>
+		<coordinates>2.40421946868746,48.8630809390265</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>PLACE DES GRES</description>
+	<Point>
+		<coordinates>2.40572564970567,48.8586582794326</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>HOPITAL TENON</description>
+	<Point>
+		<coordinates>2.40000072393548,48.8663995777309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>EGLISE ST-GERMAIN DE CHARONNE</description>
+	<Point>
+		<coordinates>2.4032618359015,48.859854996665</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>INDRE</description>
+	<Point>
+		<coordinates>2.40451910160811,48.8630448206585</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>GAMBETTA - MAIRIE DU 20E</description>
+	<Point>
+		<coordinates>2.39900533784633,48.8656181968984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>BUZENVAL</description>
+	<Point>
+		<coordinates>2.40103266804641,48.8525763856566</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>PELLEPORT</description>
+	<Point>
+		<coordinates>2.40367676099058,48.8647708708174</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>SQUARE SARAH BERNHARDT</description>
+	<Point>
+		<coordinates>2.40418758792541,48.848934725467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>501 (PYRENEES - DOCTEUR NETTER/GAMBETTA)</name>
+	<description>GAMBETTA</description>
+	<Point>
+		<coordinates>2.39844610618497,48.8650163315313</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>512 (FRONT POPULAIRE-GARDINOUX/MAIRIE D'AUVERVILLIERS)</name>
+	<description>FRONT POPULAIRE-PROUDHON</description>
+	<Point>
+		<coordinates>2.364452975328,48.9065498951012</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PLACE DE RUNGIS</description>
+	<Point>
+		<coordinates>2.34630609313712,48.8225027295523</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PLACE DE L'ABBE GEORGES HENOCQUE.</description>
+	<Point>
+		<coordinates>2.35388805214082,48.8242095694835</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>BOUSSINGAULT</description>
+	<Point>
+		<coordinates>2.34289000437146,48.8253610193507</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>DOCTEUR LAURENT</description>
+	<Point>
+		<coordinates>2.35715503592356,48.8247303527247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32665059232275,48.8273829024511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PLACE JULES HENAFFE</description>
+	<Point>
+		<coordinates>2.33130643752831,48.8239499409796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PLACE DE L'ABBE GEORGES HENOCQUE</description>
+	<Point>
+		<coordinates>2.35365662369833,48.8241107372494</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34087546798806,48.8257206040342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>RUNGIS</description>
+	<Point>
+		<coordinates>2.34743594220788,48.8231317757057</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>BARRAULT</description>
+	<Point>
+		<coordinates>2.34674203782583,48.8246237863041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>LA SIBELLE.</description>
+	<Point>
+		<coordinates>2.33834361553243,48.8247140361854</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>LA SIBELLE</description>
+	<Point>
+		<coordinates>2.33864306978828,48.82457023043</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PEUPLIERS</description>
+	<Point>
+		<coordinates>2.35436375286538,48.8220704352382</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PARC MONTSOURIS</description>
+	<Point>
+		<coordinates>2.33650603724546,48.8243275692251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>MOULIN DE LA POINTE</description>
+	<Point>
+		<coordinates>2.3565824492125,48.8223307384062</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PERE CORENTIN</description>
+	<Point>
+		<coordinates>2.32957755634468,48.8254148313555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>BOBILLOT</description>
+	<Point>
+		<coordinates>2.34822556962081,48.8239405960778</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>VERGNIAUD - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34493189470985,48.8260709300399</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>LA TOMBE ISSOIRE</description>
+	<Point>
+		<coordinates>2.33148297777121,48.8276348887811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34210061481147,48.8264395727887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>THOMAS FRANCINE</description>
+	<Point>
+		<coordinates>2.33856144721718,48.8264576396123</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>DOUANIER ROUSSEAU</description>
+	<Point>
+		<coordinates>2.33140148316351,48.8260350833062</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>ALESIA - GENERAL LECLERC.</description>
+	<Point>
+		<coordinates>2.32757618407827,48.8276705858927</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PLACE JULES HENAFFE.</description>
+	<Point>
+		<coordinates>2.33170120175256,48.8236713422548</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>GLACIERE - TOLBIAC.</description>
+	<Point>
+		<coordinates>2.34105247921553,48.8264755614656</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>VERGNIAUD</description>
+	<Point>
+		<coordinates>2.34480904697757,48.82374313324</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>KUSS</description>
+	<Point>
+		<coordinates>2.35135573041376,48.8221337434278</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PARC MONTSOURIS.</description>
+	<Point>
+		<coordinates>2.33650603905576,48.824201741882</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PAUL FORT</description>
+	<Point>
+		<coordinates>2.32812133752964,48.8239587269275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>513 (PLACE DE L'ABBE GEORGES HENOCQUE./)</name>
+	<description>PRISSE D'AVENNES</description>
+	<Point>
+		<coordinates>2.32863839232888,48.8250642483416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>LYCEE AUGUSTE RENOIR</description>
+	<Point>
+		<coordinates>2.32785116950661,48.8877066046173</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>PONT CARDINET</description>
+	<Point>
+		<coordinates>2.31354177383797,48.8870665250873</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>LANTIEZ</description>
+	<Point>
+		<coordinates>2.32412873447809,48.8952734557361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>LEGENDRE</description>
+	<Point>
+		<coordinates>2.31719454438991,48.885934806876</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>PLACE DE LEVIS</description>
+	<Point>
+		<coordinates>2.31403370215615,48.8841278007968</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>JACQUES CARTIER</description>
+	<Point>
+		<coordinates>2.32967640970853,48.8941954791269</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>GUY MOQUET</description>
+	<Point>
+		<coordinates>2.32819099797637,48.8927304680146</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>GANNERON - DAMES</description>
+	<Point>
+		<coordinates>2.32714275694843,48.8863854268127</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>HOPITAL BRETONNEAU</description>
+	<Point>
+		<coordinates>2.33068539731917,48.8912836967181</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>PORTE POUCHET</description>
+	<Point>
+		<coordinates>2.32363749715997,48.897358417382</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>TOCQUEVILLE</description>
+	<Point>
+		<coordinates>2.31115777391354,48.8852416219807</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>FREDERIC BRUNET</description>
+	<Point>
+		<coordinates>2.32603625560184,48.8985809167545</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>COLLEGE MALLARME</description>
+	<Point>
+		<coordinates>2.32309329852077,48.8935747649099</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>COYSEVOX</description>
+	<Point>
+		<coordinates>2.32994926772057,48.892362114798</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>LA CONDAMINE</description>
+	<Point>
+		<coordinates>2.31985244067963,48.8845242305351</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>FIRMIN GEMIER</description>
+	<Point>
+		<coordinates>2.33061672415794,48.8953998135956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>BROCHANT</description>
+	<Point>
+		<coordinates>2.32079064448899,48.8911029972058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>MAIRIE DU 17E</description>
+	<Point>
+		<coordinates>2.32188296350744,48.8844076757332</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>LEGENDRE.</description>
+	<Point>
+		<coordinates>2.31576377358259,48.8855750687081</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>LOBLIGEOIS</description>
+	<Point>
+		<coordinates>2.31893884350656,48.8861058448129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>HOPITAL BICHAT.</description>
+	<Point>
+		<coordinates>2.3287488409792,48.8986440510014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>DAVY</description>
+	<Point>
+		<coordinates>2.32498844292139,48.8910405928134</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>HOPITAL BICHAT</description>
+	<Point>
+		<coordinates>2.32891238585673,48.8988238050194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>NOLLET</description>
+	<Point>
+		<coordinates>2.3217323408302,48.8868162312535</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>GUY MOQUET</description>
+	<Point>
+		<coordinates>2.3269915028267,48.8931887162462</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>VILLA SAINT-MICHEL</description>
+	<Point>
+		<coordinates>2.32815071217618,48.8892973620696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>MARCHE DES BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.3183789790352,48.8891883689051</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>TRUFFAUT</description>
+	<Point>
+		<coordinates>2.3214737965823,48.8855400126129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>518 (HOPITAL BICHAT./)</name>
+	<description>PORTE DE SAINT-OUEN - HOPITAL BICHAT</description>
+	<Point>
+		<coordinates>2.32878984305243,48.8979790065751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>PORTE D'AUBERVILLIERS - OBERLE</description>
+	<Point>
+		<coordinates>2.37164677471281,48.8996998733804</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>PORTE D'AUBERVILLIERS T3B</description>
+	<Point>
+		<coordinates>2.37014647340109,48.8983702027604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>DUCHESNE - BOLLAERT</description>
+	<Point>
+		<coordinates>2.37400462918658,48.8991599426972</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>EMILE BERTIN</description>
+	<Point>
+		<coordinates>2.36354914559141,48.8985965186657</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>MAROC</description>
+	<Point>
+		<coordinates>2.36682766410479,48.8870562273543</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>CHARLES HERMITE</description>
+	<Point>
+		<coordinates>2.36852519949016,48.899736681537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>PORTE D'AUBERVILLIERS.</description>
+	<Point>
+		<coordinates>2.36878355153902,48.8986761332877</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>CURIAL - CRIMEE</description>
+	<Point>
+		<coordinates>2.37322361600168,48.8933544869026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>PORTE DE LA CHAPELLE.</description>
+	<Point>
+		<coordinates>2.35985498964255,48.8983276625052</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>MATHIS</description>
+	<Point>
+		<coordinates>2.37233637979234,48.8914314967442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.36051681985415,48.8847568983177</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>PORTE D'AUBERVILLIERS - OBERLE.</description>
+	<Point>
+		<coordinates>2.37142864816672,48.8996639876414</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>CURIAL - ARCHEREAU</description>
+	<Point>
+		<coordinates>2.37149013127904,48.8895624083453</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>ABEILLE</description>
+	<Point>
+		<coordinates>2.36240560876157,48.9016433968266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>CHARLES HERMITE - NEY</description>
+	<Point>
+		<coordinates>2.36487154794537,48.8989377303317</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>MACDONALD</description>
+	<Point>
+		<coordinates>2.37273669196733,48.8988278033111</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>PAJOL - RIQUET</description>
+	<Point>
+		<coordinates>2.36370825054499,48.8898429924862</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>EVANGILE - AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37139837114358,48.8950895450934</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>RIQUET.</description>
+	<Point>
+		<coordinates>2.36766051258194,48.8896712931395</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>PAJOL</description>
+	<Point>
+		<coordinates>2.36250840941358,48.8888097255335</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>RADIGUET</description>
+	<Point>
+		<coordinates>2.36939331944976,48.8928163512537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>EVANGILE - AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37051326658134,48.8964288800854</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>PAJOL - DEPARTEMENT</description>
+	<Point>
+		<coordinates>2.36134906230894,48.8868327806058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>CHAPELLE - CAILLIE</description>
+	<Point>
+		<coordinates>2.36405987177553,48.8845674222838</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>PORTE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35951437511021,48.8987051858493</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>RIQUET</description>
+	<Point>
+		<coordinates>2.36813764875945,48.8898868630247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>519 (PORTE D'AUBERVILLIERS - OBERLE./)</name>
+	<description>CRIMEE - AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37122119602384,48.8951165571641</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>VICTOR HUGO-PAUL VALERY</description>
+	<Point>
+		<coordinates>2.28924392911602,48.8711966836458</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>LYCEE JANSON DE SAILLY</description>
+	<Point>
+		<coordinates>2.27889631647983,48.8653502873105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>MICHEL ANGE-AUTEUIL</description>
+	<Point>
+		<coordinates>2.26409854554229,48.8487603049279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>LA TOURELLE</description>
+	<Point>
+		<coordinates>2.25090988146366,48.8444194929964</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>PORTE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.25810929776787,48.8469949251861</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>LA FONTAINE-RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.27395403461004,48.8520194190982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>PORTE MOLITOR</description>
+	<Point>
+		<coordinates>2.2560957392037,48.8458162059479</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>POMPE-MAIRIE DU 16E</description>
+	<Point>
+		<coordinates>2.27829785071768,48.8645411289505</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>GARE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26060026429179,48.8477065674189</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>CHARLES DE GAULLE-ETOILE-FRIEDLAND</description>
+	<Point>
+		<coordinates>2.29670772195079,48.8739136271735</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>LA MUETTE-BOULAINVILLIERS</description>
+	<Point>
+		<coordinates>2.27485856502321,48.8586166810877</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>LYCEE JANSON DE SAILLY</description>
+	<Point>
+		<coordinates>2.27959064888072,48.8657191075736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>PLACE JEAN MONNET</description>
+	<Point>
+		<coordinates>2.28047437888876,48.8673013078901</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>EGLISE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26981916091538,48.8479637943107</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>PERRICHONT</description>
+	<Point>
+		<coordinates>2.27149225103894,48.8494656413294</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>LES VIGNES-BOULAINVILLIERS</description>
+	<Point>
+		<coordinates>2.27456192058908,48.8561270071854</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>PLACE JEAN MONNET</description>
+	<Point>
+		<coordinates>2.28156349724916,48.8679668861969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>BUGEAUD</description>
+	<Point>
+		<coordinates>2.28243325567487,48.8699714674332</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>NICOLO-JEAN RICHEPIN</description>
+	<Point>
+		<coordinates>2.27560384271693,48.8618615238265</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>VICTOR HUGO-POINCARE</description>
+	<Point>
+		<coordinates>2.2860572424173,48.8698652317124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>RANELAGH</description>
+	<Point>
+		<coordinates>2.27062636078058,48.8556485363998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>ASSOMPTION-RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.27546421148983,48.8532964320858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>LA MUETTE-BOULAINVILLIERS</description>
+	<Point>
+		<coordinates>2.27411042635666,48.8577984312666</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>CHARLES DE GAULLE-ETOILE-VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.29324772535664,48.8731305035625</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>PORTE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.25786328742515,48.8475789492845</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>LEOPOLD II</description>
+	<Point>
+		<coordinates>2.27184444355698,48.8509577573836</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>VICTOR HUGO-POINCARE</description>
+	<Point>
+		<coordinates>2.2843814960249,48.8699094365533</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>RODIN</description>
+	<Point>
+		<coordinates>2.27045203462043,48.8535274003647</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>VICTOR HUGO-PAUL VALERY</description>
+	<Point>
+		<coordinates>2.28905306038714,48.8713404038212</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>MOZART-LA FONTAINE</description>
+	<Point>
+		<coordinates>2.26578689725512,48.8489680423833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>PORTE MOLITOR</description>
+	<Point>
+		<coordinates>2.25541544325699,48.8454562396826</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

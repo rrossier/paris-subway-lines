@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>194 (LYCEE POLYVALENT/PORTE D'ORLEANS-METRO)</name>
+	<description>DEPINOY</description>
+	<Point>
+		<coordinates>2.3138301440222,48.8219255576659</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (LYCEE POLYVALENT/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32458286311161,48.8218103479906</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>197 (MASSY - OPERA-THEATRE/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32485487641459,48.8226731941086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>GARE DE LYON</description>
+	<Point>
+		<coordinates>2.37563934962257,48.8425572270061</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>PASTEUR - WAGNER</description>
+	<Point>
+		<coordinates>2.36849884708028,48.8560315575912</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>SAINT-CLAUDE</description>
+	<Point>
+		<coordinates>2.36761573905714,48.8597705544328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32989763499652,48.8720329627605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>PASTEUR - WAGNER</description>
+	<Point>
+		<coordinates>2.36828050850129,48.8553305943155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>SENTIER</description>
+	<Point>
+		<coordinates>2.34672260093404,48.8672964866644</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33308578613842,48.8708018534586</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>REAUMUR - ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35392864625042,48.8658217688776</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33121927526077,48.8711972159693</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>BASTILLE - BEAUMARCHAIS</description>
+	<Point>
+		<coordinates>2.3689742206038,48.8538654575096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>RICHELIEU - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33816744504303,48.8690943291197</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>REAUMUR - SEBASTOPOL</description>
+	<Point>
+		<coordinates>2.34992381128469,48.8665861879736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32748590568957,48.8733808867405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>LYON - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37099990628506,48.8483286168513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32997935975017,48.8721767648906</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>REAUMUR - MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34324884510933,48.8680426623462</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>SAINT-CLAUDE</description>
+	<Point>
+		<coordinates>2.3672888575037,48.8598065869448</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.36954531695001,48.8523913607558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>GARE DE LYON</description>
+	<Point>
+		<coordinates>2.372889766548,48.8439151988239</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.3687282754583,48.8525533538262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>GARE DE LYON.</description>
+	<Point>
+		<coordinates>2.37587073496726,48.8424313266778</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36362842132757,48.8668805250598</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>LANCRY - SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.36127223889229,48.8680943161499</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35674826509123,48.8651742503315</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>PORTE SAINT-DENIS</description>
+	<Point>
+		<coordinates>2.35368460277333,48.8694886425496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32608217464387,48.875268097098</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>SQUARE DU TEMPLE - MAIRIE DU 3EME - CARREAU DU TEMPLE</description>
+	<Point>
+		<coordinates>2.36008565032835,48.8649669479077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>JEAN-PIERRE TIMBAUD</description>
+	<Point>
+		<coordinates>2.36542551275034,48.8648220068507</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>TURBIGO - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36144849232003,48.8662788345682</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>BASTILLE - BEAUMARCHAIS</description>
+	<Point>
+		<coordinates>2.36863379044463,48.8539554222221</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>SAINT-GILLES - CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.36794107257167,48.8571191821</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.3275676241997,48.8735336776754</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32557808185598,48.8751242520218</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>POISSONNIERE - BONNE NOUVELLE</description>
+	<Point>
+		<coordinates>2.34724094664523,48.870801507724</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.3331812150688,48.8700109715429</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>JEAN-PIERRE TIMBAUD</description>
+	<Point>
+		<coordinates>2.36568441944382,48.8649747306834</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>OBERKAMPF - FILLES DU CALVAIRE</description>
+	<Point>
+		<coordinates>2.36686762960512,48.861595185746</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37197892900817,48.8461353848952</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>LYON - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37294738740379,48.8484988114547</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36503179120436,48.8672936245265</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>GARE DE LYON - VAN GOGH</description>
+	<Point>
+		<coordinates>2.37200508597161,48.8445266119185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>SAINT-GILLES - CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.36817270230987,48.8572629210688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>RICHELIEU - DROUOT</description>
+	<Point>
+		<coordinates>2.33928467261479,48.8719073500043</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37302712419482,48.8456407614732</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>OBERKAMPF - FILLES DU CALVAIRE</description>
+	<Point>
+		<coordinates>2.36696361280605,48.8627006111999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>PORTE SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.35888835801926,48.868490216203</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>REPUBLIQUE - TEMPLE</description>
+	<Point>
+		<coordinates>2.36489500636672,48.8662511226742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>BOURSE</description>
+	<Point>
+		<coordinates>2.34105556060571,48.8685280693006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>CHOISEUL</description>
+	<Point>
+		<coordinates>2.33626012794562,48.8713681238051</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>20 (GARE DE LYON./GARE SAINT-LAZARE)</name>
+	<description>GRANDS BOULEVARDS</description>
+	<Point>
+		<coordinates>2.34350809284154,48.8714308750394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.33497981312311,48.8636299950726</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34087546798806,48.8257206040342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.34093224622319,48.8585880285211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>GLACIERE - ARAGO</description>
+	<Point>
+		<coordinates>2.34476979551334,48.8346720959445</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>GLACIERE - NORDMANN</description>
+	<Point>
+		<coordinates>2.34447009116461,48.8333149873128</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>SAINT-JACQUES - GAY-LUSSAC</description>
+	<Point>
+		<coordinates>2.34236096344868,48.8438844715467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>CITE UNIVERSITAIRE</description>
+	<Point>
+		<coordinates>2.34075267998433,48.8215683033166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>AMIRAL MOUCHEZ - CHARBONNEL</description>
+	<Point>
+		<coordinates>2.34192328513218,48.8223142409205</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34383264753499,48.8523506194006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>DAVIEL</description>
+	<Point>
+		<coordinates>2.34318985487548,48.8287583354338</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32382023759825,48.875986847072</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>RIVOLI - PONT NEUF</description>
+	<Point>
+		<coordinates>2.3441060234833,48.8598910632054</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>BERTHOLLET - VAUQUELIN</description>
+	<Point>
+		<coordinates>2.34579181351378,48.8403971101331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>GLACIERE - NORDMANN</description>
+	<Point>
+		<coordinates>2.34474235666265,48.8332161068695</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>GLACIERE - ARAGO</description>
+	<Point>
+		<coordinates>2.34519196670745,48.8354989267582</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>FEUILLANTINES</description>
+	<Point>
+		<coordinates>2.34350450070161,48.8416375335835</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>BERTHOLLET - VAUQUELIN</description>
+	<Point>
+		<coordinates>2.34562839578506,48.8402263582619</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.3275676241997,48.8735336776754</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32989763499652,48.8720329627605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34612148211365,48.8572935662628</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34210279698523,48.8497892725147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>SAINT-JACQUES - GAY-LUSSAC</description>
+	<Point>
+		<coordinates>2.34207500810259,48.8438485333668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33240470720012,48.8695975249987</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>GLACIERE - AUGUSTE BLANQUI</description>
+	<Point>
+		<coordinates>2.34412936149726,48.8304479591065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.33423045149997,48.8662812531322</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>DAVIEL</description>
+	<Point>
+		<coordinates>2.34204638856492,48.8288482633161</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33166886027487,48.8712421745196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>PARC MONTSOURIS</description>
+	<Point>
+		<coordinates>2.34150148000712,48.8240129273581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>FEUILLANTINES</description>
+	<Point>
+		<coordinates>2.34315048635035,48.841691476893</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>CITE - PALAIS DE JUSTICE</description>
+	<Point>
+		<coordinates>2.34610752886951,48.855343293887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>SAINT-HONORE - VALOIS</description>
+	<Point>
+		<coordinates>2.33790851513183,48.8623178565447</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34067265379164,48.8464459741175</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32748590568957,48.8733808867405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>PALAIS ROYAL - MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.33578353779215,48.8625784835999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.3336310238009,48.8667306044441</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32997935975017,48.8721767648906</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>CITE - PALAIS DE JUSTICE</description>
+	<Point>
+		<coordinates>2.34576705378764,48.8554601554539</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>LOUVRE - RIVOLI</description>
+	<Point>
+		<coordinates>2.34008784671046,48.8600350251318</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34255222975036,48.8500678652945</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34339685812339,48.8525034295558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34200534844915,48.8266462926025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>PARC MONTSOURIS</description>
+	<Point>
+		<coordinates>2.33980004440844,48.8241747539635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>PORT ROYAL - BERTHOLLET</description>
+	<Point>
+		<coordinates>2.34561439903036,48.8378626307941</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.3317506449691,48.8708557232513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>GLACIERE - AUGUSTE BLANQUI</description>
+	<Point>
+		<coordinates>2.34415672428678,48.8314725461017</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>PORT ROYAL - BERTHOLLET</description>
+	<Point>
+		<coordinates>2.34527393473245,48.8373144123737</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>PETITS CHAMPS - DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.33360369921072,48.867854022962</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.3410675441917,48.8462392494472</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34693901965623,48.859010100138</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>LOUVRE - RIVOLI</description>
+	<Point>
+		<coordinates>2.34158621256987,48.8607000480572</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>21 (STADE CHARLETY - PORTE DE GENTILLY/GARE SAINT-LAZARE)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33273165666107,48.869768297264</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>DAREAU - SAINT-JACQUES</description>
+	<Point>
+		<coordinates>2.33898361034447,48.8320119905077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>DENFERT-ROCHEREAU-METRO-RER</description>
+	<Point>
+		<coordinates>2.33304797959381,48.8330095533097</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>CITE UNIVERSITAIRE</description>
+	<Point>
+		<coordinates>2.34075267998433,48.8215683033166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34087546798806,48.8257206040342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>PARC MONTSOURIS</description>
+	<Point>
+		<coordinates>2.33980004440844,48.8241747539635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (DENFERT-ROCHEREAU-METRO-RER/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>DENFERT-ROCHEREAU-METRO-RER</description>
+	<Point>
+		<coordinates>2.33310244816676,48.8328477783335</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (DENFERT-ROCHEREAU-METRO-RER/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>DENFERT-ROCHEREAU-METRO-RER</description>
+	<Point>
+		<coordinates>2.33304797959381,48.8330095533097</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (DENFERT-ROCHEREAU-METRO-RER/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>CITE UNIVERSITAIRE</description>
+	<Point>
+		<coordinates>2.34075267998433,48.8215683033166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (DENFERT-ROCHEREAU-METRO-RER/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>DAREAU - SAINT-JACQUES</description>
+	<Point>
+		<coordinates>2.33898361034447,48.8320119905077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (DENFERT-ROCHEREAU-METRO-RER/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>PARC MONTSOURIS</description>
+	<Point>
+		<coordinates>2.33594794366029,48.8249926515903</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (DENFERT-ROCHEREAU-METRO-RER/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>ALESIA - RENE COTY</description>
+	<Point>
+		<coordinates>2.33500861444806,48.8276439950955</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (DENFERT-ROCHEREAU-METRO-RER/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34087546798806,48.8257206040342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (DENFERT-ROCHEREAU-METRO-RER/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>MONTSOURIS - TOMBE ISSOIRE</description>
+	<Point>
+		<coordinates>2.33055798646443,48.8225298486245</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (DENFERT-ROCHEREAU-METRO-RER/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>PARC MONTSOURIS</description>
+	<Point>
+		<coordinates>2.33980004440844,48.8241747539635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>216 (DENFERT-ROCHEREAU-METRO-RER/MARCHE INTERNATIONAL DE RUNGIS)</name>
+	<description>DAREAU-RENE COTY</description>
+	<Point>
+		<coordinates>2.33397388835501,48.8304301373103</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>CHARLES DE GAULLE-ETOILE-KLEBER</description>
+	<Point>
+		<coordinates>2.29411989145028,48.8728881649974</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>HAUSSMANN-COURCELLES</description>
+	<Point>
+		<coordinates>2.30836973461796,48.875148285217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32989763499652,48.8720329627605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>HAVRE-HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32788106030677,48.8731382610777</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>HAUSSMANN-MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31350630813523,48.8752392925777</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.31875223016937,48.8744044036858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>HAVRE-CAUMARTIN</description>
+	<Point>
+		<coordinates>2.32775834484125,48.8736595153468</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>VERSAILLES-CHARDON LAGACHE</description>
+	<Point>
+		<coordinates>2.26204202618016,48.8395018703574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>PERRICHONT</description>
+	<Point>
+		<coordinates>2.27160088968986,48.8497083634192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>PONT MIRABEAU</description>
+	<Point>
+		<coordinates>2.27288359608123,48.8476239650675</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>PLACE POSSOZ</description>
+	<Point>
+		<coordinates>2.27822173442542,48.8596070111434</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>TROCADERO</description>
+	<Point>
+		<coordinates>2.28776555989112,48.8642398672313</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>FRIEDLAND-HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30564499223685,48.8747341778163</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>KLEBER-BOISSIERE</description>
+	<Point>
+		<coordinates>2.28949336538272,48.8666312128661</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>BALZAC</description>
+	<Point>
+		<coordinates>2.30185757483154,48.8743017224136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>VICTORIEN SARDOU</description>
+	<Point>
+		<coordinates>2.26925396289563,48.842813625194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>GEORGE SAND-LA FONTAINE</description>
+	<Point>
+		<coordinates>2.26846851713769,48.8498324203019</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>ASSOMPTION-RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.27546421148983,48.8532964320858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>LES VIGNES-BOULAINVILLIERS</description>
+	<Point>
+		<coordinates>2.27456192058908,48.8561270071854</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>HAUSSMANN-COURCELLES</description>
+	<Point>
+		<coordinates>2.30977324968579,48.8748789982014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>PLACE DU DOCTEUR HAYEM-RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.27629604069101,48.8523981144183</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>JASMIN</description>
+	<Point>
+		<coordinates>2.26793459228629,48.8519351805997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>VERSAILLES-CHARDON LAGACHE</description>
+	<Point>
+		<coordinates>2.26264184954804,48.8389899566235</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>EGLISE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26950595087577,48.8479636165489</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>PORTE DE SAINT-CLOUD</description>
+	<Point>
+		<coordinates>2.25634060598821,48.8372422524823</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>LA MUETTE-BOULAINVILLIERS</description>
+	<Point>
+		<coordinates>2.27411042635666,48.8577984312666</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.31903823682383,48.8747279906108</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>SCHEFFER</description>
+	<Point>
+		<coordinates>2.28360037625995,48.861164376643</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>CHARLES DE GAULLE-ETOILE-FRIEDLAND</description>
+	<Point>
+		<coordinates>2.29673513981184,48.8736979411034</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>LA TOUR</description>
+	<Point>
+		<coordinates>2.28018284538909,48.8598775892248</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>CHARLES DE GAULLE-ETOILE-KLEBER</description>
+	<Point>
+		<coordinates>2.29452874866957,48.8727355279383</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>THEOPHILE GAUTIER-RUE GROS</description>
+	<Point>
+		<coordinates>2.27467703949333,48.8510221916815</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>KLEBER-PAUL VALERY</description>
+	<Point>
+		<coordinates>2.29157517343747,48.8694360827038</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33256805862983,48.8710444920865</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>LA MUETTE-BOULAINVILLIERS</description>
+	<Point>
+		<coordinates>2.27504932924131,48.8585538689099</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>KLEBER-BOISSIERE</description>
+	<Point>
+		<coordinates>2.28992939946155,48.8665145511652</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>VERSAILLES-EXELMANS</description>
+	<Point>
+		<coordinates>2.26553942320646,48.8408162113051</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>PLACE POSSOZ</description>
+	<Point>
+		<coordinates>2.27748674515175,48.8591392990481</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>RANELAGH</description>
+	<Point>
+		<coordinates>2.27062636078058,48.8556485363998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>TROCADERO</description>
+	<Point>
+		<coordinates>2.28820158625044,48.8641142242506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>CHARLES DE GAULLE-ETOILE-FRIEDLAND</description>
+	<Point>
+		<coordinates>2.29670772195079,48.8739136271735</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>BALZAC</description>
+	<Point>
+		<coordinates>2.30188460361274,48.8746252733507</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>SCHEFFER</description>
+	<Point>
+		<coordinates>2.28396821589527,48.8611016299353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>WILHEM</description>
+	<Point>
+		<coordinates>2.27113071121964,48.84463915064</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33202293964758,48.8726621872532</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>PASQUIER-ANJOU</description>
+	<Point>
+		<coordinates>2.32433845390745,48.8741445082969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32507394330594,48.8751871126395</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>JOUVENET</description>
+	<Point>
+		<coordinates>2.26463771363382,48.8429996379284</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>PORTE DE SAINT CLOUD-MURAT</description>
+	<Point>
+		<coordinates>2.25824661185974,48.8373064455101</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>KLEBER-PAUL VALERY</description>
+	<Point>
+		<coordinates>2.29198400308044,48.8692924412853</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>FRIEDLAND-HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30387368480145,48.8748505296866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>PORTE DE SAINT CLOUD-MURAT</description>
+	<Point>
+		<coordinates>2.25816345577619,48.8382680607403</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>HAUSSMANN-MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31357453573568,48.8750146237124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>CHARDON LAGACHE-MOLITOR</description>
+	<Point>
+		<coordinates>2.26617413975409,48.8446362953161</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>LA TOUR</description>
+	<Point>
+		<coordinates>2.28026434398557,48.8600843386864</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>22 (PORTE DE SAINT-CLOUD/OPERA)</name>
+	<description>EGLISE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.27049958968933,48.8483236775576</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (MOURINOUX/PONT DE LEVALLOIS-METRO)</name>
+	<description>POMPIDOU</description>
+	<Point>
+		<coordinates>2.27767488275254,48.8969308986031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (MOURINOUX/PONT DE LEVALLOIS-METRO)</name>
+	<description>PONT DE LEVALLOIS-METRO</description>
+	<Point>
+		<coordinates>2.27993697204218,48.8974802230354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (MOURINOUX/PONT DE LEVALLOIS-METRO)</name>
+	<description>RUE DE LA STATION</description>
+	<Point>
+		<coordinates>2.2857892463587,48.9065329035525</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (MOURINOUX/PONT DE LEVALLOIS-METRO)</name>
+	<description>QUAI DE CLICHY</description>
+	<Point>
+		<coordinates>2.28741540361074,48.9025792784415</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (MOURINOUX/PONT DE LEVALLOIS-METRO)</name>
+	<description>PICASSO</description>
+	<Point>
+		<coordinates>2.28015265914849,48.8996641983109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (MOURINOUX/PONT DE LEVALLOIS-METRO)</name>
+	<description>RUE DE LA STATION</description>
+	<Point>
+		<coordinates>2.28632114526412,48.9063264293912</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (MOURINOUX/PONT DE LEVALLOIS-METRO)</name>
+	<description>CAVE-QUAI MICHELET</description>
+	<Point>
+		<coordinates>2.28479969844609,48.900924529424</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (MOURINOUX/PONT DE LEVALLOIS-METRO)</name>
+	<description>QUAI DE CLICHY</description>
+	<Point>
+		<coordinates>2.28813781562385,48.9026784362948</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (MOURINOUX/PONT DE LEVALLOIS-METRO)</name>
+	<description>PICASSO</description>
+	<Point>
+		<coordinates>2.28053467323808,48.8993588186055</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (SAINT-GRATIEN RER/PONT DE LEVALLOIS-METRO)</name>
+	<description>PONT DE LEVALLOIS-METRO</description>
+	<Point>
+		<coordinates>2.27993697204218,48.8974802230354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (SAINT-GRATIEN RER/PONT DE LEVALLOIS-METRO)</name>
+	<description>RUE DE LA STATION</description>
+	<Point>
+		<coordinates>2.28632114526412,48.9063264293912</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (SAINT-GRATIEN RER/PONT DE LEVALLOIS-METRO)</name>
+	<description>CAVE-QUAI MICHELET</description>
+	<Point>
+		<coordinates>2.28479969844609,48.900924529424</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (SAINT-GRATIEN RER/PONT DE LEVALLOIS-METRO)</name>
+	<description>RUE DE LA STATION</description>
+	<Point>
+		<coordinates>2.2857892463587,48.9065329035525</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (SAINT-GRATIEN RER/PONT DE LEVALLOIS-METRO)</name>
+	<description>POMPIDOU</description>
+	<Point>
+		<coordinates>2.27767488275254,48.8969308986031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (SAINT-GRATIEN RER/PONT DE LEVALLOIS-METRO)</name>
+	<description>QUAI DE CLICHY</description>
+	<Point>
+		<coordinates>2.28813781562385,48.9026784362948</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (SAINT-GRATIEN RER/PONT DE LEVALLOIS-METRO)</name>
+	<description>PICASSO</description>
+	<Point>
+		<coordinates>2.28015265914849,48.8996641983109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (SAINT-GRATIEN RER/PONT DE LEVALLOIS-METRO)</name>
+	<description>QUAI DE CLICHY</description>
+	<Point>
+		<coordinates>2.28741540361074,48.9025792784415</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>238 (SAINT-GRATIEN RER/PONT DE LEVALLOIS-METRO)</name>
+	<description>PICASSO</description>
+	<Point>
+		<coordinates>2.28053467323808,48.8993588186055</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>239 (MEDIATHEQUE/PORTE D'AUBERVILLIERS)</name>
+	<description>FRONT POPULAIRE-PROUDHON</description>
+	<Point>
+		<coordinates>2.36424849560699,48.9065858898337</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>239 (MEDIATHEQUE/PORTE D'AUBERVILLIERS)</name>
+	<description>SKANDERBEG</description>
+	<Point>
+		<coordinates>2.37007939396775,48.9000687869888</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>239 (MEDIATHEQUE/PORTE D'AUBERVILLIERS)</name>
+	<description>PARC DU MILLENAIRE</description>
+	<Point>
+		<coordinates>2.37009419309724,48.9019111398846</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>239 (MEDIATHEQUE/PORTE D'AUBERVILLIERS)</name>
+	<description>PORTE D'AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37091074184196,48.8997989417306</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

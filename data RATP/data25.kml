@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>LES SABLONS</description>
+	<Point>
+		<coordinates>2.27231032113666,48.8813173352353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25822802765542,48.8852632153808</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>SAINT DOMINIQUE</description>
+	<Point>
+		<coordinates>2.2650108152761,48.8879726719741</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>MAURICE BARRES</description>
+	<Point>
+		<coordinates>2.25980271118243,48.880240378858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>HOTEL DE VILLE</description>
+	<Point>
+		<coordinates>2.26917223966075,48.8843352977939</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>SAINTE CROIX</description>
+	<Point>
+		<coordinates>2.28028084967504,48.8822560863208</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>BELOEUIL-BORGHESE</description>
+	<Point>
+		<coordinates>2.27200239110492,48.8877879733421</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>CHATEAU</description>
+	<Point>
+		<coordinates>2.26385261014908,48.8878281690162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>BENJAMIN CONSTANT</description>
+	<Point>
+		<coordinates>2.26346267558024,48.8936875735344</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>SAINT DOMINIQUE</description>
+	<Point>
+		<coordinates>2.26507904457035,48.8879098028633</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>LAFFITTE-NORDLING</description>
+	<Point>
+		<coordinates>2.27682357229628,48.8788751736438</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>ILE DE LA JATTE-BD.GEORGES SEURAT</description>
+	<Point>
+		<coordinates>2.26761863015369,48.8945438540736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25892260193861,48.8855512651409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>LAFFITTE-ANCELE</description>
+	<Point>
+		<coordinates>2.26596181382507,48.880235235366</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>JARDIN D'ACCLIMATATION</description>
+	<Point>
+		<coordinates>2.27058188262655,48.8796537374795</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>PLACE DE BAGATELLE</description>
+	<Point>
+		<coordinates>2.25091004911735,48.8770437842452</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>HOTEL DE VILLE DE NEUILLY-SUR-SEINE</description>
+	<Point>
+		<coordinates>2.26936308187566,48.8842904704948</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>DELABORDERE</description>
+	<Point>
+		<coordinates>2.2539481375983,48.8772886036425</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>PAUL DEROULEDE</description>
+	<Point>
+		<coordinates>2.27551474272474,48.8794946243857</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>ECOLE MADELEINE MICHELIS</description>
+	<Point>
+		<coordinates>2.28015493145138,48.8852308012532</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>ILE DE LA JATTE</description>
+	<Point>
+		<coordinates>2.266855297577,48.8945793543451</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>PARC</description>
+	<Point>
+		<coordinates>2.26489458688994,48.8931312470398</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>TENNIS SAINT JAMES</description>
+	<Point>
+		<coordinates>2.25514928065161,48.8845691174745</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>ILE DE LA JATTE</description>
+	<Point>
+		<coordinates>2.26695083002554,48.8944895391482</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>VICTOR HUGO-CHEZY</description>
+	<Point>
+		<coordinates>2.27479228113278,48.89103384541</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>COMMANDANT CHARCOT</description>
+	<Point>
+		<coordinates>2.25690401369209,48.8778478450165</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>CENTRE HOSPITALIER</description>
+	<Point>
+		<coordinates>2.26161367369753,48.8904959669675</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>LYCEE SAINT JAMES</description>
+	<Point>
+		<coordinates>2.25486786096922,48.8815761711077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>VILLIERS</description>
+	<Point>
+		<coordinates>2.27266034384401,48.8956790739286</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>CARREAU DE NEUILLY</description>
+	<Point>
+		<coordinates>2.26812517247277,48.882654081331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>FOYER MARGUERITE-DUPONT-FAUVILLE</description>
+	<Point>
+		<coordinates>2.26197354940807,48.88669460828</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>EGLISE SAINT PIERRE</description>
+	<Point>
+		<coordinates>2.27180326649596,48.8835908311952</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>COLLEGE ANDRE MAUROIS</description>
+	<Point>
+		<coordinates>2.26121942148346,48.8898216768217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>HOPITAL AMERICAIN</description>
+	<Point>
+		<coordinates>2.27359046565895,48.8930283625582</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>PLACE DU MARCHE</description>
+	<Point>
+		<coordinates>2.27395978597204,48.8807879745618</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>ECOLE EDITH GORCE FRANKLIN</description>
+	<Point>
+		<coordinates>2.2718134907756,48.8970806064459</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>SQUARE DANIEL ROPS</description>
+	<Point>
+		<coordinates>2.27682889132762,48.8860020625243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>RUE DU PONT</description>
+	<Point>
+		<coordinates>2.25808726297417,48.8882019417109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>CHEZY-BINEAU</description>
+	<Point>
+		<coordinates>2.27231431045261,48.88901040325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>RUE DU CENTRE</description>
+	<Point>
+		<coordinates>2.25299110780401,48.879283106731</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>LES SABLONS-LOUIS PHILIPPE</description>
+	<Point>
+		<coordinates>2.27138294788991,48.8819189721815</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>ECOLE JACQUES DULUD</description>
+	<Point>
+		<coordinates>2.26165536444644,48.8806010590358</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>CENTRE DES IMPOTS</description>
+	<Point>
+		<coordinates>2.2704396717543,48.8948420448105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>CHARTRES</description>
+	<Point>
+		<coordinates>2.27698269525254,48.8826499027866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>ORLYBUS (ORLY SUD/DENFERT-ROCHEREAU-METRO-RER)</name>
+	<description>DENFERT-ROCHEREAU-METRO-RER</description>
+	<Point>
+		<coordinates>2.33103303175326,48.8337554360272</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>ORLYBUS (ORLY SUD/DENFERT-ROCHEREAU-METRO-RER)</name>
+	<description>DAREAU - SAINT-JACQUES</description>
+	<Point>
+		<coordinates>2.33898361034447,48.8320119905077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>ORLYBUS (ORLY SUD/DENFERT-ROCHEREAU-METRO-RER)</name>
+	<description>MONTSOURIS - TOMBE ISSOIRE</description>
+	<Point>
+		<coordinates>2.33055798646443,48.8225298486245</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>ORLYBUS (ORLY SUD/DENFERT-ROCHEREAU-METRO-RER)</name>
+	<description>PARC MONTSOURIS</description>
+	<Point>
+		<coordinates>2.33594794366029,48.8249926515903</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>ORLYBUS (ORLY SUD/DENFERT-ROCHEREAU-METRO-RER)</name>
+	<description>ALESIA - RENE COTY</description>
+	<Point>
+		<coordinates>2.33500861444806,48.8276439950955</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>ORLYBUS (ORLY SUD/DENFERT-ROCHEREAU-METRO-RER)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34087546798806,48.8257206040342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE MAILLOT - MALAKOFF</description>
+	<Point>
+		<coordinates>2.28246733674617,48.8763974124257</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.27111160160776,48.8382669697336</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE SAINT-CLOUD - MICHEL ANGE</description>
+	<Point>
+		<coordinates>2.25665154526299,48.8386624999359</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>RAFFET</description>
+	<Point>
+		<coordinates>2.2619409848589,48.8528302882178</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DAUPHINE - MARECHAL DE LATTRE DE TASSIGNY</description>
+	<Point>
+		<coordinates>2.27448982158262,48.8706865345898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE MAILLOT - PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.28400458620605,48.878743789729</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>GENERAL KOENING - PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.2852830076474,48.8811529408258</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE MAILLOT - PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.2828873931319,48.8786174634518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE PASSY</description>
+	<Point>
+		<coordinates>2.26412797154563,48.856867015874</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DAUPHINE - MARECHAL DE LATTRE DE TASSIGNY</description>
+	<Point>
+		<coordinates>2.27521174299581,48.8708037480127</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>VERSAILLES - CHARDON LAGACHE</description>
+	<Point>
+		<coordinates>2.26247868409403,48.838837065656</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE SAINT-CLOUD - MURAT</description>
+	<Point>
+		<coordinates>2.25786405711511,48.8381779857827</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE MAILLOT - PERSHING</description>
+	<Point>
+		<coordinates>2.28294064436973,48.8798127945605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE MOLITOR</description>
+	<Point>
+		<coordinates>2.25747245105924,48.8449273718084</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE VILLIERS</description>
+	<Point>
+		<coordinates>2.28898696040181,48.8838057357897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE PASSY</description>
+	<Point>
+		<coordinates>2.26461808350061,48.8570201021335</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>GENERAL KOENING - PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.285010277417,48.8813505411696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.27152021950961,48.8381413700381</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.25881663689548,48.8475076809737</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE SAINT-CLOUD</description>
+	<Point>
+		<coordinates>2.25696696606364,48.8371977385896</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>LONGCHAMP</description>
+	<Point>
+		<coordinates>2.27349712999523,48.8691851220262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>MARBEAU</description>
+	<Point>
+		<coordinates>2.27929427004254,48.8749399693922</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>LONGCHAMP</description>
+	<Point>
+		<coordinates>2.27322573845239,48.8683132038243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>VERSAILLES - CHARDON LAGACHE</description>
+	<Point>
+		<coordinates>2.26119830659267,48.8391957573123</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>DUFRENOY</description>
+	<Point>
+		<coordinates>2.27149829666492,48.8661822590558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE CHAMPERRET</description>
+	<Point>
+		<coordinates>2.2940000548907,48.8858837100978</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE SAINT-CLOUD - MURAT</description>
+	<Point>
+		<coordinates>2.25932250963286,48.837100440258</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE SAINT-CLOUD - MICHEL ANGE</description>
+	<Point>
+		<coordinates>2.25682772328094,48.8391928854633</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>ALFRED CAPUS</description>
+	<Point>
+		<coordinates>2.25984738492647,48.8503214407726</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>RAFFET</description>
+	<Point>
+		<coordinates>2.26189912216187,48.8535222963129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>ERNEST HEBERT</description>
+	<Point>
+		<coordinates>2.26658799261747,48.8607061292931</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE LA MUETTE</description>
+	<Point>
+		<coordinates>2.26913162224737,48.8633948425994</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>MARBEAU</description>
+	<Point>
+		<coordinates>2.27948463831266,48.8752815792307</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>ALFRED CAPUS</description>
+	<Point>
+		<coordinates>2.26035128072695,48.8503127797229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE MOLITOR</description>
+	<Point>
+		<coordinates>2.25714575339796,48.8448552523077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.25834056406192,48.8471478662704</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>VERSAILLES - EXELMANS</description>
+	<Point>
+		<coordinates>2.27153388029652,48.8381054272975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>DUFRENOY</description>
+	<Point>
+		<coordinates>2.27114397124381,48.8662899113528</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>LYCEE CLAUDE BERNARD</description>
+	<Point>
+		<coordinates>2.25595254129375,48.8416099435438</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE LA MUETTE</description>
+	<Point>
+		<coordinates>2.26868208832699,48.8634035720806</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE CHAMPERRET</description>
+	<Point>
+		<coordinates>2.29258259403206,48.8860809060631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>VERSAILLES - EXELMANS</description>
+	<Point>
+		<coordinates>2.26658862266619,48.8402506227064</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE CHAMPERRET - STEPHANE MALLARME</description>
+	<Point>
+		<coordinates>2.29184675340233,48.8860087302453</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE MAILLOT - MALAKOFF</description>
+	<Point>
+		<coordinates>2.28245331245726,48.8767748721042</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>ERNEST HEBERT</description>
+	<Point>
+		<coordinates>2.26706463637659,48.8607783103414</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>LYCEE CLAUDE BERNARD</description>
+	<Point>
+		<coordinates>2.25619683174356,48.8421224001402</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC1 (PORTE DE CHAMPERRET/PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PORTE DE VILLIERS</description>
+	<Point>
+		<coordinates>2.28770645455874,48.8833288867526</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE CHAUMONT</description>
+	<Point>
+		<coordinates>2.39424617634918,48.8859318552431</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE DE PANTIN - MARSEILLAISE</description>
+	<Point>
+		<coordinates>2.39801146387592,48.8893541214305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>CHATEAU DES RENTIERS</description>
+	<Point>
+		<coordinates>2.3722352573631,48.8223810933995</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37678244574445,48.8237907354414</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>CLAUDE DECAEN</description>
+	<Point>
+		<coordinates>2.40288822377634,48.8337105436293</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>BERCY - PONIATOWSKI</description>
+	<Point>
+		<coordinates>2.39218346803694,48.8298602768308</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>MOUZAIA</description>
+	<Point>
+		<coordinates>2.39907691832792,48.87995293093</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE DE LA GARE</description>
+	<Point>
+		<coordinates>2.38508826147917,48.8268345046678</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE DE CHARENTON</description>
+	<Point>
+		<coordinates>2.39907423384843,48.8319959519829</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PONT NATIONAL - QUAI DE BERCY</description>
+	<Point>
+		<coordinates>2.38936482053806,48.8291245582275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>HOPITAL ROBERT DEBRE</description>
+	<Point>
+		<coordinates>2.40358488947312,48.8781440653453</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE DE CHARENTON</description>
+	<Point>
+		<coordinates>2.39794434390905,48.8320324837996</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE DU PRE-SAINT-GERVAIS</description>
+	<Point>
+		<coordinates>2.40102407644621,48.8788195089562</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>CLAUDE DECAEN</description>
+	<Point>
+		<coordinates>2.40291515624207,48.8334768510945</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE DE LA GARE</description>
+	<Point>
+		<coordinates>2.38492507091714,48.8270053354808</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE BRUNET</description>
+	<Point>
+		<coordinates>2.3946659007964,48.8834601657232</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE CHAUMONT</description>
+	<Point>
+		<coordinates>2.39485983705294,48.8863000361878</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE DE LA VILLETTE</description>
+	<Point>
+		<coordinates>2.38730864078043,48.899029279328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>HOPITAL ROBERT DEBRE</description>
+	<Point>
+		<coordinates>2.40374859451203,48.8782967578318</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE DE PANTIN - CITE DE LA MUSIQUE</description>
+	<Point>
+		<coordinates>2.39562546901378,48.8884925427868</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37597954229884,48.8240246788152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>MARSEILLAISE - CHEMINETS</description>
+	<Point>
+		<coordinates>2.39822582278637,48.886208489556</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC2 (PORTE D'IVRY/PORTE DE LA VILLETTE)</name>
+	<description>PORTE BRUNET</description>
+	<Point>
+		<coordinates>2.39497949549072,48.8836127972836</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE MONTMARTRE</description>
+	<Point>
+		<coordinates>2.33572802145337,48.8975838635386</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE MAILLOT - PERSHING</description>
+	<Point>
+		<coordinates>2.28208309310581,48.8789675974269</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>FACULTE XAVIER BICHAT</description>
+	<Point>
+		<coordinates>2.3328519158615,48.8974849335861</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>GOURGAUD - PAUL ADAM</description>
+	<Point>
+		<coordinates>2.29925908542469,48.8876559835403</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE CLICHY</description>
+	<Point>
+		<coordinates>2.31220285762787,48.8940223317254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>LOUIS LOUCHEUR</description>
+	<Point>
+		<coordinates>2.32487784958954,48.8975742437832</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>CAMILLE FLAMMARION</description>
+	<Point>
+		<coordinates>2.34030799921464,48.8976647183515</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>GENERAL KOENING - PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.285010277417,48.8813505411696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.3583010151304,48.8982470628528</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE CHAMPERRET - BERTHIER</description>
+	<Point>
+		<coordinates>2.29364587592963,48.8857128238521</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE SAINT-OUEN - HOPITAL BICHAT</description>
+	<Point>
+		<coordinates>2.32947142423678,48.8977633619084</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE CHAMPERRET - STEPHANE MALLARME</description>
+	<Point>
+		<coordinates>2.29184675340233,48.8860087302453</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>MACDONALD - CANAL SAINT-DENIS</description>
+	<Point>
+		<coordinates>2.38068367240878,48.8988161859484</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE LA VILLETTE</description>
+	<Point>
+		<coordinates>2.38752693258747,48.8992269041583</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>LES HAUTS DE MALESHERBES</description>
+	<Point>
+		<coordinates>2.30556688201744,48.8910729608115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE COURCELLES</description>
+	<Point>
+		<coordinates>2.29616628273341,48.8866304155464</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE LA VILLETTE - CORENTIN CARIOU</description>
+	<Point>
+		<coordinates>2.38516777838499,48.898212330565</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>FACULTE XAVIER BICHAT</description>
+	<Point>
+		<coordinates>2.33218398243019,48.897709585341</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE MAILLOT - PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.28400458620605,48.878743789729</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34507884034165,48.897853230386</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.30274688484609,48.8892118299718</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE D'AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.3693968254445,48.8984692656328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>GOURGAUD - PAUL ADAM</description>
+	<Point>
+		<coordinates>2.29919076593431,48.8878986162818</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>ENTREPOT MACDONALD</description>
+	<Point>
+		<coordinates>2.37362258106122,48.8986298196103</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE VILLIERS</description>
+	<Point>
+		<coordinates>2.28898696040181,48.8838057357897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DES POISSONNIERS</description>
+	<Point>
+		<coordinates>2.35283492506218,48.8981130956875</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE MONTMARTRE</description>
+	<Point>
+		<coordinates>2.33571438497578,48.8977725931127</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE D'AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.36920612298577,48.8986850078999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE COURCELLES</description>
+	<Point>
+		<coordinates>2.29478932568035,48.8872770121354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.30239232788805,48.8895262785617</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE POUCHET</description>
+	<Point>
+		<coordinates>2.32213805274278,48.8975469664746</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DES POISSONNIERS</description>
+	<Point>
+		<coordinates>2.35155369434775,48.8984188185716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>EMILE BERTIN</description>
+	<Point>
+		<coordinates>2.36458500302743,48.8983895817949</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>ENTREPOT MACDONALD</description>
+	<Point>
+		<coordinates>2.37366362604687,48.8988454980591</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>MACDONALD - CANAL SAINT-DENIS</description>
+	<Point>
+		<coordinates>2.38077924928816,48.8990048806783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35710161043883,48.8985797922327</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34462905632266,48.8981138857947</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE SAINT-OUEN - HOPITAL BICHAT</description>
+	<Point>
+		<coordinates>2.32997582630405,48.8973499857034</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE POUCHET</description>
+	<Point>
+		<coordinates>2.32219263887728,48.8973312821951</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>LYCEE HONORE DE BALZAC</description>
+	<Point>
+		<coordinates>2.31685001789376,48.8956678666031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE CLICHY</description>
+	<Point>
+		<coordinates>2.31311611347423,48.8939146742445</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>LYCEE HONORE DE BALZAC</description>
+	<Point>
+		<coordinates>2.3178586079186,48.8958208164418</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>CAMILLE FLAMMARION</description>
+	<Point>
+		<coordinates>2.33987182198169,48.8978894069843</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>EMILE BERTIN</description>
+	<Point>
+		<coordinates>2.36354914559141,48.8985965186657</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>LOUIS LOUCHEUR</description>
+	<Point>
+		<coordinates>2.32491878925878,48.8973765311106</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE CHAMPERRET</description>
+	<Point>
+		<coordinates>2.29258259403206,48.8860809060631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>PORTE DE VILLIERS</description>
+	<Point>
+		<coordinates>2.28770645455874,48.8833288867526</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>LES HAUTS DE MALESHERBES</description>
+	<Point>
+		<coordinates>2.30639836234537,48.8909024225093</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>PC3 (PORTE DE LA VILLETTE/PORTE MAILLOT - PERSHING)</name>
+	<description>GENERAL KOENING - PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.2852830076474,48.8811529408258</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>ROISSYB (AEROPORT CHARLES DE GAULLE (T3-ROISSYPOLE)/OPERA)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33061970713918,48.8720959163882</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>SUBB (HOTEL DE VILLE DE BOULOGNE-BILLANCOURT./)</name>
+	<description>RUE DE SEINE</description>
+	<Point>
+		<coordinates>2.25115249841805,48.8295092718712</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>SUBB (HOTEL DE VILLE DE BOULOGNE-BILLANCOURT./)</name>
+	<description>THIERS-MAISON DU COMBATTANT</description>
+	<Point>
+		<coordinates>2.25025984995643,48.8341642091354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>SUBB (HOTEL DE VILLE DE BOULOGNE-BILLANCOURT./)</name>
+	<description>RUE DU POINT DU JOUR</description>
+	<Point>
+		<coordinates>2.25264635096778,48.8317033238422</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>DISPENSAIRE</description>
+	<Point>
+		<coordinates>2.31432659085755,48.8997565526011</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>GEORGES BOISSEAU</description>
+	<Point>
+		<coordinates>2.31732397713075,48.9037383771096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>RUE MARTRE-MAIRIE DE CLICHY.</description>
+	<Point>
+		<coordinates>2.30636387841865,48.9030260612073</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>GENERAL LECLERC-VILLENEUVE-HOPITAL BEAUJON</description>
+	<Point>
+		<coordinates>2.31028888257043,48.9051389782474</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>REPUBLIQUE-FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.31387524089385,48.9031086545345</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.31008839472128,48.8974998939744</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>MAISON DU PEUPLE</description>
+	<Point>
+		<coordinates>2.31440805065707,48.9005024986272</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>FONDATION ROGUET</description>
+	<Point>
+		<coordinates>2.31330098409672,48.9067842551947</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.30204124767809,48.90477734459</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>RUE MARTRE-MAIRIE DE CLICHY</description>
+	<Point>
+		<coordinates>2.30662306217227,48.9027385411025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>HENRI BARBUSSE-JEAN JAURES</description>
+	<Point>
+		<coordinates>2.30591572999922,48.9001860198708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>EMILE ROUX</description>
+	<Point>
+		<coordinates>2.30842514617318,48.8980117698209</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>GENERAL ROGUET</description>
+	<Point>
+		<coordinates>2.31436475406091,48.9059396798689</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>GABRIEL PERI</description>
+	<Point>
+		<coordinates>2.30131808794502,48.9056758364024</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY./)</name>
+	<description>THEATRE RUTEBEUF-HOPITAL GOUIN</description>
+	<Point>
+		<coordinates>2.30880447015172,48.9022807397108</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>NEUILLY-CASTERES</description>
+	<Point>
+		<coordinates>2.30113045275072,48.9010474285206</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>RUE MARTRE-MAIRIE DE CLICHY.</description>
+	<Point>
+		<coordinates>2.30636387841865,48.9030260612073</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>ANCIENNE MAIRIE DE CLICHY</description>
+	<Point>
+		<coordinates>2.30392207757947,48.9055417867077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>RUE DE NEUILLY</description>
+	<Point>
+		<coordinates>2.2962376605485,48.899760688611</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>CASTERES.</description>
+	<Point>
+		<coordinates>2.30284964444372,48.8986573642783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>QUAI DE CLICHY</description>
+	<Point>
+		<coordinates>2.28995038263435,48.9032453561106</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.30204124767809,48.90477734459</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>CASTERES</description>
+	<Point>
+		<coordinates>2.3029586639295,48.8987023313122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>FOURNIER</description>
+	<Point>
+		<coordinates>2.29950576986045,48.9044799951597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>RUE PETIT</description>
+	<Point>
+		<coordinates>2.29419154012572,48.9014495438706</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>GARE DE CLICHY-LEVALLOIS</description>
+	<Point>
+		<coordinates>2.2981483481148,48.8967326686027</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

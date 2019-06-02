@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>RUE DES CHASSES</description>
+	<Point>
+		<coordinates>2.29210603374434,48.9012510560358</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>GABRIEL PERI</description>
+	<Point>
+		<coordinates>2.30131808794502,48.9056758364024</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>RUE DU PORT</description>
+	<Point>
+		<coordinates>2.297255148978,48.9060699737557</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>RUE MARTRE-MAIRIE DE CLICHY</description>
+	<Point>
+		<coordinates>2.30662306217227,48.9027385411025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>PISCINE</description>
+	<Point>
+		<coordinates>2.29746226135101,48.9026639388245</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>CIMETIERE SUD</description>
+	<Point>
+		<coordinates>2.30395497480245,48.8967793676797</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>CAILLOUX</description>
+	<Point>
+		<coordinates>2.30609525848695,48.8963305893149</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUC (RUE MARTRE-MAIRIE DE CLICHY/)</name>
+	<description>PASTEUR</description>
+	<Point>
+		<coordinates>2.29896222249184,48.9020982428942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>MAIRIE D'ISSY.</description>
+	<Point>
+		<coordinates>2.27316940207736,48.8257123975185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>GALLIENI</description>
+	<Point>
+		<coordinates>2.26699284461335,48.8232822414977</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>LES MOULINEAUX</description>
+	<Point>
+		<coordinates>2.25254030622651,48.8216101115773</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>ROGER SALENGRO</description>
+	<Point>
+		<coordinates>2.26270483027976,48.823585214268</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>RUE LASSERRE</description>
+	<Point>
+		<coordinates>2.27069673437953,48.8220350823028</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>MUSEE</description>
+	<Point>
+		<coordinates>2.27348597859165,48.8228634761027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>MAIRIE D'ISSY</description>
+	<Point>
+		<coordinates>2.27325125135888,48.8255686389871</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>CRESSON-GALLIENI</description>
+	<Point>
+		<coordinates>2.26805500935107,48.8229233565411</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>CAPITAINE FERBER</description>
+	<Point>
+		<coordinates>2.26535502506105,48.8264988481245</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>JACQUES-HENRI LARTIGUE</description>
+	<Point>
+		<coordinates>2.26128782081162,48.8245549870686</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>MAIRIE D'ISSY..</description>
+	<Point>
+		<coordinates>2.27263767283796,48.8264041597012</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>RUE DE LA GARE</description>
+	<Point>
+		<coordinates>2.25562876735783,48.8223852107597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>ANDRE CHENIER-MAIRIE</description>
+	<Point>
+		<coordinates>2.27224668011559,48.8234020664577</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27257219959926,48.8243279741266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY../)</name>
+	<description>JEAN-JACQUES ROUSSEAU</description>
+	<Point>
+		<coordinates>2.25890851684868,48.8227379342996</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>PLACE DE L'EGLISE</description>
+	<Point>
+		<coordinates>2.27599060637217,48.822729976299</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27320796427862,48.8275548871817</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>PLACE DE L'EGLISE.</description>
+	<Point>
+		<coordinates>2.27607186041498,48.8230805376034</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27257219959926,48.8243279741266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>GENERAL LECLERC-VAUDETARD</description>
+	<Point>
+		<coordinates>2.27755217337714,48.825966330696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>CORENTIN CELTON-METRO</description>
+	<Point>
+		<coordinates>2.27862594195102,48.8273689381579</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>MAIRIE D'ISSY</description>
+	<Point>
+		<coordinates>2.27325125135888,48.8255686389871</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>PLACE D'ALEMBERT</description>
+	<Point>
+		<coordinates>2.27665838452685,48.8220202911083</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>RENAN FOUCHER-LEPELLETIER</description>
+	<Point>
+		<coordinates>2.2820544089266,48.829123167218</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>MAIRIE D'ISSY-METRO.</description>
+	<Point>
+		<coordinates>2.27202665015311,48.8251904924569</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>MAIRIE D'ISSY.</description>
+	<Point>
+		<coordinates>2.27316940207736,48.8257123975185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>SEVERINE</description>
+	<Point>
+		<coordinates>2.27839073845115,48.8307122224592</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>MAISON DE RETRAITE</description>
+	<Point>
+		<coordinates>2.27492208875179,48.8284275984303</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>HORACE VERNET-MAIRIE</description>
+	<Point>
+		<coordinates>2.27503531139993,48.8248236087617</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>COLLEGE HENRI MATISSE</description>
+	<Point>
+		<coordinates>2.28103449410848,48.8281520250326</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>ABBE DERRY</description>
+	<Point>
+		<coordinates>2.27959800584463,48.8223453079249</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>MAURICE HARTMANN</description>
+	<Point>
+		<coordinates>2.28351258857358,48.8275779603269</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>MARCEL BURGUN-CARNOT</description>
+	<Point>
+		<coordinates>2.28075565440142,48.8216987496472</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>JEAN JAURES-MAIRIE</description>
+	<Point>
+		<coordinates>2.27372970488625,48.8239061769032</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY./)</name>
+	<description>ETIENNE DOLET</description>
+	<Point>
+		<coordinates>2.27518709370587,48.8231070425946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY/)</name>
+	<description>MAIRIE D'ISSY</description>
+	<Point>
+		<coordinates>2.27325125135888,48.8255686389871</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY/)</name>
+	<description>HORACE VERNET-MAIRIE</description>
+	<Point>
+		<coordinates>2.27503531139993,48.8248236087617</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY/)</name>
+	<description>RUE LASSERRE</description>
+	<Point>
+		<coordinates>2.27069673437953,48.8220350823028</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY/)</name>
+	<description>ANDRE CHENIER-MAIRIE</description>
+	<Point>
+		<coordinates>2.27224668011559,48.8234020664577</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY/)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27257219959926,48.8243279741266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>TUVIM (MAIRIE D'ISSY/)</name>
+	<description>MUSEE</description>
+	<Point>
+		<coordinates>2.27348597859165,48.8228634761027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

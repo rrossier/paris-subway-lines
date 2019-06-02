@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PASTEUR - LYCEE BUFFON</description>
+	<Point>
+		<coordinates>2.31319429731851,48.8429384601916</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MUSEE DU LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.33321012737035,48.8486568793144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>SEVRES - LECOURBE</description>
+	<Point>
+		<coordinates>2.30997979386176,48.8448521103785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.36379395304486,48.844286061979</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MAINE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.31915773459248,48.8446471457196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>LYCEE HENRI IV</description>
+	<Point>
+		<coordinates>2.34806688320666,48.8462657820803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BUFFON - JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.35936754408534,48.8421119837978</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>RENNES-SAINT PLACIDE</description>
+	<Point>
+		<coordinates>2.32588416331829,48.8462477553846</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>RAYMOND ARON</description>
+	<Point>
+		<coordinates>2.37352291811864,48.8341365405241</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DE L'ARRIVEE</description>
+	<Point>
+		<coordinates>2.32260292498177,48.8442971060581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>RENNES-LITTRE</description>
+	<Point>
+		<coordinates>2.32514913922712,48.8448995559478</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>GEORGES BRASSENS</description>
+	<Point>
+		<coordinates>2.2958435532852,48.8300185376188</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BUFFON - LA MOSQUEE</description>
+	<Point>
+		<coordinates>2.35582715574255,48.8416901742849</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MAIRIE DU VE - PANTHEON</description>
+	<Point>
+		<coordinates>2.34389999958136,48.8465536877897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>FRANCOIS MAURIAC</description>
+	<Point>
+		<coordinates>2.37517151080678,48.8358796195168</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CITE DE LA MODE ET DU DESIGN</description>
+	<Point>
+		<coordinates>2.36952428887187,48.8404829187174</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>SENAT</description>
+	<Point>
+		<coordinates>2.33751342328732,48.8492950593346</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>JUSSIEU</description>
+	<Point>
+		<coordinates>2.35471188973608,48.8454381422263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CITE DE LA MODE ET DU DESIGN</description>
+	<Point>
+		<coordinates>2.36975581493795,48.8405727312507</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>VOLONTAIRES - LECOURBE</description>
+	<Point>
+		<coordinates>2.30690286900593,48.843961601227</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>RENNES-LITTRE</description>
+	<Point>
+		<coordinates>2.32468613631287,48.8449983706845</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>SENAT</description>
+	<Point>
+		<coordinates>2.33621969953497,48.8491153054001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MAIRIE DU VE - PANTHEON</description>
+	<Point>
+		<coordinates>2.34414511868712,48.84658962388</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CARREFOUR ALBERT LEGRIS</description>
+	<Point>
+		<coordinates>2.29249859336014,48.8255324930433</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>QUAI DE LA GARE</description>
+	<Point>
+		<coordinates>2.37391970520304,48.836931558549</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.37697804928859,48.8303786164681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>THEATRE DE LA PLAINE - GUILLAUMAT</description>
+	<Point>
+		<coordinates>2.29331312607925,48.8281122521263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36533223576052,48.8435037944305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>AVENUE MARCEL MARTINIE</description>
+	<Point>
+		<coordinates>2.29273188543731,48.8233306019709</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CUVIER - JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.35487485613989,48.8441439154642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BRANCION - MORILLONS</description>
+	<Point>
+		<coordinates>2.30259416121806,48.8322675989561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>RENNES - RASPAIL</description>
+	<Point>
+		<coordinates>2.32867553203297,48.8474253521871</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34029142984916,48.8475424598104</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MAINE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.31832663102804,48.8459322312522</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BRANCION - VOUILLE</description>
+	<Point>
+		<coordinates>2.30459410984729,48.8342813874679</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MORILLONS - DANTZIG</description>
+	<Point>
+		<coordinates>2.29815557646796,48.8329492823008</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.3775081350314,48.8293089106323</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CAMBRONNE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30423648523526,48.8400243492915</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>THEATRE DE LA PLAINE - GUILLAUMAT</description>
+	<Point>
+		<coordinates>2.29308159676494,48.8282469810509</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>HOPITAL DES ENFANTS MALADES</description>
+	<Point>
+		<coordinates>2.31552119256186,48.8465878404688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CAMBRONNE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30446772576992,48.8403839153027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BRANCION - VOUILLE</description>
+	<Point>
+		<coordinates>2.30550581306712,48.8350186166981</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>RENNES-SAINT PLACIDE</description>
+	<Point>
+		<coordinates>2.32648331694583,48.8463017361252</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CARREFOUR ALBERT LEGRIS</description>
+	<Point>
+		<coordinates>2.29230796386638,48.8256043224961</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>EMILE DURKHEIM</description>
+	<Point>
+		<coordinates>2.37618913013587,48.8312416887494</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>GEORGES BRASSENS</description>
+	<Point>
+		<coordinates>2.29561203645962,48.8301352960112</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>ALLERAY</description>
+	<Point>
+		<coordinates>2.30595388041398,48.8370229663771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>FRANCOIS MAURIAC</description>
+	<Point>
+		<coordinates>2.37492618590102,48.835520193959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>QUAI DE LA GARE</description>
+	<Point>
+		<coordinates>2.37406961618017,48.8371382265406</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CAMBRONNE - LECOURBE</description>
+	<Point>
+		<coordinates>2.30273722829154,48.8423157483771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>ALLERAY</description>
+	<Point>
+		<coordinates>2.30626706207238,48.8369601352588</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>VOLONTAIRES - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30836122607289,48.8415173546303</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>LYCEE HENRI IV</description>
+	<Point>
+		<coordinates>2.34809413864177,48.8463646421895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND - AVENUE DE FRANCE</description>
+	<Point>
+		<coordinates>2.37680079663706,48.830010182826</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CUVIER</description>
+	<Point>
+		<coordinates>2.36033648056543,48.8470099988487</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PLACE CHARLES VALLIN</description>
+	<Point>
+		<coordinates>2.30264672196674,48.8351076959099</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>RAYMOND ARON</description>
+	<Point>
+		<coordinates>2.3730326456883,48.8339030113251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36424290752009,48.8435130338398</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CARDINAL LEMOINE - MONGE</description>
+	<Point>
+		<coordinates>2.35117167638409,48.8463733097682</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MUSEE DU LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.33248837175615,48.8486658401167</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MORILLONS - DANTZIG</description>
+	<Point>
+		<coordinates>2.29804661780604,48.8330121597086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>AVENUE MARCEL MARTINIE</description>
+	<Point>
+		<coordinates>2.29256845617305,48.8234383928342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>MAIRIE DU VE - PANTHEON</description>
+	<Point>
+		<coordinates>2.34389999958136,48.8465536877897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>QUAI DE LA GARE</description>
+	<Point>
+		<coordinates>2.37406961618017,48.8371382265406</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BUFFON - JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.35936754408534,48.8421119837978</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>SEVRES - LECOURBE</description>
+	<Point>
+		<coordinates>2.30997979386176,48.8448521103785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>MORILLONS - DANTZIG</description>
+	<Point>
+		<coordinates>2.29804661780604,48.8330121597086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE RUE MANN</description>
+	<Point>
+		<coordinates>2.37813431591121,48.8292907219804</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>JUSSIEU</description>
+	<Point>
+		<coordinates>2.35471188973608,48.8454381422263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CARDINAL LEMOINE - MONGE</description>
+	<Point>
+		<coordinates>2.35117167638409,48.8463733097682</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CITE DE LA MODE ET DU DESIGN</description>
+	<Point>
+		<coordinates>2.36952428887187,48.8404829187174</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>MAURIAC ARON</description>
+	<Point>
+		<coordinates>2.37455845046733,48.8353225828159</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>ALLERAY</description>
+	<Point>
+		<coordinates>2.30595388041398,48.8370229663771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE NATIONALE DE FRANCE</description>
+	<Point>
+		<coordinates>2.37330485982426,48.8338040656166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>RENNES - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32645605970566,48.8464095837486</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CARDINAL LEMOINE - MONGE</description>
+	<Point>
+		<coordinates>2.35185262555777,48.8466518409377</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CUVIER</description>
+	<Point>
+		<coordinates>2.36033648056543,48.8470099988487</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CITE DE LA MODE ET DU DESIGN</description>
+	<Point>
+		<coordinates>2.36975581493795,48.8405727312507</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>RENNES - RASPAIL</description>
+	<Point>
+		<coordinates>2.32867553203297,48.8474253521871</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>PLACE CHARLES VALLIN</description>
+	<Point>
+		<coordinates>2.30264672196674,48.8351076959099</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE F.MITTERRAND</description>
+	<Point>
+		<coordinates>2.37686892398897,48.830091048816</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>PORTE DE FRANCE</description>
+	<Point>
+		<coordinates>2.38069127481281,48.8265755484604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>LYCEE HENRI IV</description>
+	<Point>
+		<coordinates>2.34809413864177,48.8463646421895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>RENNES - RASPAIL</description>
+	<Point>
+		<coordinates>2.32838954361911,48.8475241937397</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>MAIRIE DU VE - PANTHEON</description>
+	<Point>
+		<coordinates>2.34414511868712,48.84658962388</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CARREFOUR ALBERT LEGRIS</description>
+	<Point>
+		<coordinates>2.29249859336014,48.8255324930433</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BRANCION - VOUILLE</description>
+	<Point>
+		<coordinates>2.30459410984729,48.8342813874679</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>MORILLONS - DANTZIG</description>
+	<Point>
+		<coordinates>2.29815557646796,48.8329492823008</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>ALLERAY</description>
+	<Point>
+		<coordinates>2.30626706207238,48.8369601352588</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE NATIONALE DE FRANCE</description>
+	<Point>
+		<coordinates>2.37368619388901,48.8340016767077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>VOLONTAIRES - LECOURBE</description>
+	<Point>
+		<coordinates>2.30690286900593,48.843961601227</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CUVIER - JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.35487485613989,48.8441439154642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DE L'ARRIVEE</description>
+	<Point>
+		<coordinates>2.32260292498177,48.8442971060581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BRANCION - MORILLONS</description>
+	<Point>
+		<coordinates>2.30259416121806,48.8322675989561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>RENNES - LITTRE</description>
+	<Point>
+		<coordinates>2.32499936040638,48.8448635905567</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>MUSEE DU LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.33248837175615,48.8486658401167</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>LYCEE HENRI IV</description>
+	<Point>
+		<coordinates>2.34806688320666,48.8462657820803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>RENNES - LITTRE</description>
+	<Point>
+		<coordinates>2.32463170745461,48.8448365896025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>GEORGES BRASSENS</description>
+	<Point>
+		<coordinates>2.2958435532852,48.8300185376188</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>PASTEUR - LYCEE BUFFON</description>
+	<Point>
+		<coordinates>2.31319429731851,48.8429384601916</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>SENAT</description>
+	<Point>
+		<coordinates>2.33751342328732,48.8492950593346</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CAMBRONNE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30446772576992,48.8403839153027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>GEORGES BRASSENS</description>
+	<Point>
+		<coordinates>2.29561203645962,48.8301352960112</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>UNIVERSITE PARIS VI</description>
+	<Point>
+		<coordinates>2.35789959871098,48.8486821207145</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.322167203431,48.8442341389969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>MAINE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.31832663102804,48.8459322312522</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>QUAI DE LA GARE</description>
+	<Point>
+		<coordinates>2.37391970520304,48.836931558549</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CARREFOUR ALBERT LEGRIS</description>
+	<Point>
+		<coordinates>2.29230796386638,48.8256043224961</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>EMILE DURKHEIM</description>
+	<Point>
+		<coordinates>2.37618913013587,48.8312416887494</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>AVENUE MARCEL MARTINIE</description>
+	<Point>
+		<coordinates>2.29256845617305,48.8234383928342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>AVENUE MARCEL MARTINIE</description>
+	<Point>
+		<coordinates>2.29273188543731,48.8233306019709</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>MAINE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.31915773459248,48.8446471457196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.33997822034651,48.8475065173935</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34029142984916,48.8475424598104</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36424290752009,48.8435130338398</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>INSTITUT DU MONDE ARABE</description>
+	<Point>
+		<coordinates>2.35565273679265,48.8489970511867</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CAMBRONNE - LECOURBE</description>
+	<Point>
+		<coordinates>2.30273722829154,48.8423157483771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>CAMBRONNE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30423648523526,48.8400243492915</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>MUSEE DU LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.33321012737035,48.8486568793144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE RUE MANN</description>
+	<Point>
+		<coordinates>2.37809310222862,48.8288143915192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BUFFON - LA MOSQUEE</description>
+	<Point>
+		<coordinates>2.35582715574255,48.8416901742849</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36533223576052,48.8435037944305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>RENNES - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32587057748846,48.8461039539438</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>SENAT</description>
+	<Point>
+		<coordinates>2.33621969953497,48.8491153054001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BRANCION - VOUILLE</description>
+	<Point>
+		<coordinates>2.30550581306712,48.8350186166981</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>THEATRE DE LA PLAINE - GUILLAUMAT</description>
+	<Point>
+		<coordinates>2.29308159676494,48.8282469810509</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>HOPITAL DES ENFANTS MALADES</description>
+	<Point>
+		<coordinates>2.31552119256186,48.8465878404688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.36379395304486,48.844286061979</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>THEATRE DE LA PLAINE - GUILLAUMAT</description>
+	<Point>
+		<coordinates>2.29331312607925,48.8281122521263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.37697804928859,48.8303786164681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>VOLONTAIRES - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.30836122607289,48.8415173546303</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>89 (GARE DE VANVES-MALAKOFF/PORTE DE FRANCE)</name>
+	<description>MAURIAC ARON</description>
+	<Point>
+		<coordinates>2.37528045443366,48.835915535109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.32369250717991,48.8434074700583</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.3526667720049,48.8368822812403</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>SAINT-MARCEL - LA PITIE</description>
+	<Point>
+		<coordinates>2.36108202503119,48.8395591894039</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>ARMORIQUE - MUSEE POSTAL</description>
+	<Point>
+		<coordinates>2.3164903963758,48.8406832077608</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>CAMPAGNE PREMIERE</description>
+	<Point>
+		<coordinates>2.33353752943416,48.8407029350266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.36916384687693,48.8521667769421</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>PORT ROYAL - BERTHOLLET</description>
+	<Point>
+		<coordinates>2.34513784718408,48.8377278497609</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35334765203728,48.8373135947434</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36399774733621,48.8433962512743</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36432434955585,48.8430187011732</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.32137853424177,48.8406120593587</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>PLACE DE CATALOGNE</description>
+	<Point>
+		<coordinates>2.31879252645262,48.8377626300713</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>OBSERVATOIRE - PORT ROYAL</description>
+	<Point>
+		<coordinates>2.33729552435537,48.8395346111172</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>MONTPARNASSE 2 - GARE TGV</description>
+	<Point>
+		<coordinates>2.3167906733225,48.8388408108255</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>PONT D'AUSTERLITZ - QUAI DE LA RAPEE</description>
+	<Point>
+		<coordinates>2.36906424802594,48.8452104852814</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DU DEPART</description>
+	<Point>
+		<coordinates>2.32357010915878,48.8428322540624</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.36954531695001,48.8523913607558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>PONT D'AUSTERLITZ - QUAI DE LA RAPEE</description>
+	<Point>
+		<coordinates>2.36865582724035,48.8453633814555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>CAMPAGNE PREMIERE</description>
+	<Point>
+		<coordinates>2.33282950045989,48.8407118983782</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>PORT ROYAL - SAINT-JACQUES</description>
+	<Point>
+		<coordinates>2.3405223731705,48.838689735587</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>LYON - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37294738740379,48.8484988114547</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.32479541159282,48.8435873411128</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>SAINT-MARCEL - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35654747657141,48.8380950378526</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>VAVIN</description>
+	<Point>
+		<coordinates>2.32863552998319,48.8423024637954</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>PORT ROYAL - SAINT-JACQUES</description>
+	<Point>
+		<coordinates>2.34071297316912,48.8384560535363</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>SAINT-MARCEL - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35652033620249,48.8383377065533</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37122967444756,48.8456772379251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>PORT ROYAL - BERTHOLLET</description>
+	<Point>
+		<coordinates>2.34511058830733,48.8375391125747</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.3205612706695,48.841573615016</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37302712419482,48.8456407614732</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>LYON - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37099990628506,48.8483286168513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>SAINT-MARCEL - LA PITIE</description>
+	<Point>
+		<coordinates>2.36091871950784,48.8397389731061</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>OBSERVATOIRE - PORT ROYAL</description>
+	<Point>
+		<coordinates>2.33711852175452,48.8393548598952</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>91 (BASTILLE/MONTPARNASSE 2 - GARE TGV)</name>
+	<description>VAVIN</description>
+	<Point>
+		<coordinates>2.32913938963343,48.8419519851992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PIERRE DEMOURS</description>
+	<Point>
+		<coordinates>2.29576154373285,48.8815075526731</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>OUDINOT</description>
+	<Point>
+		<coordinates>2.31511129125319,48.8498142754784</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>MAINE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.31832663102804,48.8459322312522</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>VAUBAN - HOTEL DES INVALIDES</description>
+	<Point>
+		<coordinates>2.31141889633084,48.8534894067937</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>OUDINOT</description>
+	<Point>
+		<coordinates>2.31467558330901,48.8496344440089</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>SAINT-FRANCOIS XAVIER</description>
+	<Point>
+		<coordinates>2.31328534030006,48.8521866151911</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>BOSQUET - GRENELLE</description>
+	<Point>
+		<coordinates>2.30451173019936,48.856956861628</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>DUROC</description>
+	<Point>
+		<coordinates>2.31646048106833,48.8473789084586</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>CHARLES DE GAULLE - ETOILE - MARCEAU</description>
+	<Point>
+		<coordinates>2.29613649174487,48.8726462204219</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>SAINT-FRANCOIS XAVIER</description>
+	<Point>
+		<coordinates>2.31421176764485,48.8514228632152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>BOSQUET - GRENELLE</description>
+	<Point>
+		<coordinates>2.30429405841399,48.8565613545635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>ALMA - MARCEAU</description>
+	<Point>
+		<coordinates>2.29961637426923,48.8648193927442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>BASSANO</description>
+	<Point>
+		<coordinates>2.29801846294637,48.8702472391009</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PEREIRE</description>
+	<Point>
+		<coordinates>2.29804811452684,48.8850852476861</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>BOSQUET - SAINT-DOMINIQUE</description>
+	<Point>
+		<coordinates>2.30339385931454,48.8585113737184</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PEREIRE - MARECHAL JUIN</description>
+	<Point>
+		<coordinates>2.29697244336083,48.8839165491503</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PEREIRE - MARECHAL JUIN</description>
+	<Point>
+		<coordinates>2.29691763354145,48.8843029816043</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>BASSANO</description>
+	<Point>
+		<coordinates>2.29770532387193,48.8699775155148</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>ALMA - MARCEAU</description>
+	<Point>
+		<coordinates>2.29909849702868,48.8651337860561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DE L'ARRIVEE</description>
+	<Point>
+		<coordinates>2.32238519415108,48.843811752755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>MARCEAU - PIERRE 1ER DE SERBIE - PLACE DE BEYROUTH</description>
+	<Point>
+		<coordinates>2.29900137052932,48.8675333807934</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>BOSQUET - RAPP</description>
+	<Point>
+		<coordinates>2.30196159236458,48.8616026265447</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>BOSQUET - RAPP</description>
+	<Point>
+		<coordinates>2.30200218780147,48.8619980839827</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>MARCEAU - PIERRE 1ER DE SERBIE - PLACE DE BEYROUTH</description>
+	<Point>
+		<coordinates>2.29923261835774,48.8680007971377</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>TERNES - MAC MAHON</description>
+	<Point>
+		<coordinates>2.29436056508382,48.8784064508897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>CHARLES DE GAULLE - ETOILE - MARCEAU</description>
+	<Point>
+		<coordinates>2.29634135287293,48.8720171786067</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PORTE DE CHAMPERRET</description>
+	<Point>
+		<coordinates>2.29237852649167,48.8856764045203</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>CHARLES DE GAULLE - ETOILE - MAC MAHON</description>
+	<Point>
+		<coordinates>2.29488102770227,48.8751262775002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>MAINE - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.31873532324905,48.8454469698222</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>ECOLE MILITAIRE</description>
+	<Point>
+		<coordinates>2.30599792901782,48.8543059658654</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>TERNES - MAC MAHON</description>
+	<Point>
+		<coordinates>2.29411494122178,48.8788377513272</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PORTE DE COURCELLES</description>
+	<Point>
+		<coordinates>2.29478932568035,48.8872770121354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>ECOLE MILITAIRE</description>
+	<Point>
+		<coordinates>2.30549413420319,48.8540991212217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>BOSQUET - SAINT-DOMINIQUE</description>
+	<Point>
+		<coordinates>2.30348880564498,48.8591225450652</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

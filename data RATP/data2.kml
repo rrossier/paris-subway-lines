@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>MAIRIE DU PRE-SAINT-GERVAIS</description>
+	<Point>
+		<coordinates>2.40296374349879,48.8825931041606</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>QUATRE CHEMINS - EDOUARD VAILLANT</description>
+	<Point>
+		<coordinates>2.39253348365661,48.9028464923918</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>HOPITAL LA ROSERAIE</description>
+	<Point>
+		<coordinates>2.39004139063412,48.9054089411087</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>D'ESTIENNE D'ORVES</description>
+	<Point>
+		<coordinates>2.40388196885152,48.8866548226188</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>HOCHE-METRO</description>
+	<Point>
+		<coordinates>2.40204840251232,48.8916257535975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>LES MARRONNIERS</description>
+	<Point>
+		<coordinates>2.40413424442774,48.8814960085543</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>PANTIN RER - MAIRIE</description>
+	<Point>
+		<coordinates>2.39960171254549,48.8971002379376</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>FRANKLIN</description>
+	<Point>
+		<coordinates>2.40362500485408,48.8881917789106</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (SAINT-DENIS RER/)</name>
+	<description>CENTRE NATIONAL DE LA DANSE</description>
+	<Point>
+		<coordinates>2.40116694220814,48.8952300828325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (SAINT-DENIS RER/)</name>
+	<description>FRANKLIN</description>
+	<Point>
+		<coordinates>2.40381567545953,48.8880928133284</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (SAINT-DENIS RER/)</name>
+	<description>D'ESTIENNE D'ORVES</description>
+	<Point>
+		<coordinates>2.40408640033564,48.8866636953746</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (SAINT-DENIS RER/)</name>
+	<description>LES MARRONNIERS</description>
+	<Point>
+		<coordinates>2.4035756098055,48.8815412570251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (SAINT-DENIS RER/)</name>
+	<description>PANTIN RER - MAIRIE</description>
+	<Point>
+		<coordinates>2.40070528533426,48.8966772600782</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (SAINT-DENIS RER/)</name>
+	<description>HOPITAL LA ROSERAIE</description>
+	<Point>
+		<coordinates>2.38948337370593,48.9063348552893</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (SAINT-DENIS RER/)</name>
+	<description>QUATRE CHEMINS - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.39179853399195,48.9039792043119</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (SAINT-DENIS RER/)</name>
+	<description>QUATRE CHEMINS - EDOUARD VAILLANT</description>
+	<Point>
+		<coordinates>2.39257475462133,48.9031969698975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (SAINT-DENIS RER/)</name>
+	<description>MAIRIE DU PRE-SAINT-GERVAIS</description>
+	<Point>
+		<coordinates>2.40282706496803,48.8822696385598</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (SAINT-DENIS RER/)</name>
+	<description>HOCHE-METRO</description>
+	<Point>
+		<coordinates>2.4024571684582,48.8915356589005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (/PORTE DE CLICHY - METRO)</name>
+	<description>GENERAL LECLERC - VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.31609811341644,48.9011408951745</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (/PORTE DE CLICHY - METRO)</name>
+	<description>CURTON</description>
+	<Point>
+		<coordinates>2.31286832251667,48.8991271649574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (/PORTE DE CLICHY - METRO)</name>
+	<description>SAINT-OUEN RER</description>
+	<Point>
+		<coordinates>2.32375792761771,48.9059860484334</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (/PORTE DE CLICHY - METRO)</name>
+	<description>VICTOR HUGO - SANZILLON</description>
+	<Point>
+		<coordinates>2.32100459744217,48.9042242381011</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (/PORTE DE CLICHY - METRO)</name>
+	<description>PORTE DE CLICHY - METRO</description>
+	<Point>
+		<coordinates>2.31351108019901,48.8945708160108</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (/PORTE DE CLICHY - METRO)</name>
+	<description>VICTOR HUGO - JEAN JAURES</description>
+	<Point>
+		<coordinates>2.31071529872072,48.8977247134796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>CURTON</description>
+	<Point>
+		<coordinates>2.31286832251667,48.8991271649574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>GENERAL LECLERC - VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.31657546695324,48.9005388427047</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>VICTOR HUGO - SANZILLON</description>
+	<Point>
+		<coordinates>2.32100459744217,48.9042242381011</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>PORTE DE CLICHY - METRO</description>
+	<Point>
+		<coordinates>2.31351108019901,48.8945708160108</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>VICTOR HUGO - JEAN JAURES</description>
+	<Point>
+		<coordinates>2.31071529872072,48.8977247134796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>BOIS LE PRETRE</description>
+	<Point>
+		<coordinates>2.32157872255355,48.89908369285</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>GENERAL LECLERC - VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.31609811341644,48.9011408951745</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>SAINT-OUEN RER</description>
+	<Point>
+		<coordinates>2.32453500889338,48.9060041079975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>VICTOR HUGO - SANZILLON</description>
+	<Point>
+		<coordinates>2.32123642696766,48.9039816182186</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>SAINT-OUEN RER</description>
+	<Point>
+		<coordinates>2.32375792761771,48.9059860484334</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173 (FORT D'AUBERVILLIERS/PORTE DE CLICHY - METRO)</name>
+	<description>VICTOR HUGO - MOREL</description>
+	<Point>
+		<coordinates>2.31769277363696,48.9018331744084</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>TREZEL</description>
+	<Point>
+		<coordinates>2.29592825846194,48.8945929786513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PONT DE NEUILLY-RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.2514110306508,48.8871817655604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>HOPITAL AMERICAIN</description>
+	<Point>
+		<coordinates>2.27438209853828,48.8921120912308</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>EGLISE SAINT PIERRE</description>
+	<Point>
+		<coordinates>2.27180326649596,48.8835908311952</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>ANATOLE FRANCE-METRO</description>
+	<Point>
+		<coordinates>2.28425012736957,48.8918023365642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>SAINTE FOY</description>
+	<Point>
+		<coordinates>2.26765909340308,48.88471188753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>RUE DE L'EGLISE</description>
+	<Point>
+		<coordinates>2.2641558802277,48.8853838324748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PONT DE NEUILLY-RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.2516277296609,48.887999757621</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>INKERMANN-BINEAU</description>
+	<Point>
+		<coordinates>2.27561304402491,48.8884998844915</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>LYCEE PASTEUR</description>
+	<Point>
+		<coordinates>2.27424042459728,48.8853266803959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>MAIRIE DE CLICHY</description>
+	<Point>
+		<coordinates>2.30382856004399,48.9025760226885</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>HOPITAL DU PERPETUEL SECOURS</description>
+	<Point>
+		<coordinates>2.27806252676759,48.8916915783908</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>FOURNIER</description>
+	<Point>
+		<coordinates>2.29913767415614,48.9044978522137</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>LYCEE PASTEUR</description>
+	<Point>
+		<coordinates>2.27407669569807,48.8854883637585</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>EGLISE SAINT-PIERRE</description>
+	<Point>
+		<coordinates>2.27147584905627,48.8838782425197</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>LEON BLUM</description>
+	<Point>
+		<coordinates>2.30069044359578,48.9064215723683</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25892260193861,48.8855512651409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>MAIRIE DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28799766870613,48.8923611488667</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>REPUBLIQUE-FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.31212995037905,48.9038362536881</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>ARISTIDE BRIAND</description>
+	<Point>
+		<coordinates>2.28991836054984,48.8935302588536</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>GEORGES BOISSEAU</description>
+	<Point>
+		<coordinates>2.31707864128993,48.9036125166332</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>MARJOLIN</description>
+	<Point>
+		<coordinates>2.29246648142816,48.8942861649477</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>GENERAL GOURAUD</description>
+	<Point>
+		<coordinates>2.26205641263446,48.8859397341949</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>JEAN JAURES-VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.29670428720983,48.8957256261508</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>VOLTAIRE-VILLIERS</description>
+	<Point>
+		<coordinates>2.28014935725127,48.8902905958996</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>LANDY-MARTRE</description>
+	<Point>
+		<coordinates>2.30506760387887,48.9049669286181</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>FOURNIER</description>
+	<Point>
+		<coordinates>2.29950576986045,48.9044799951597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>GENERAL LECLERC-VILLENEUVE-HOPITAL BEAUJON</description>
+	<Point>
+		<coordinates>2.30966139298698,48.9058488134855</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>GEORGES BOISSEAU</description>
+	<Point>
+		<coordinates>2.31807387056734,48.9034509133101</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>RUE DU PORT</description>
+	<Point>
+		<coordinates>2.29801896341788,48.9055939127574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PLACE DE LA LIBERATION</description>
+	<Point>
+		<coordinates>2.27562123298925,48.8930743657043</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>GENERAL LECLERC-VILLENEUVE-HOPITAL BEAUJON</description>
+	<Point>
+		<coordinates>2.31028888257043,48.9051389782474</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>ANATOLE FRANCE-METRO</description>
+	<Point>
+		<coordinates>2.2853956041202,48.8911917122761</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>COLLANGE</description>
+	<Point>
+		<coordinates>2.29403022893924,48.8987263898399</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>MARJOLIN</description>
+	<Point>
+		<coordinates>2.29233151350829,48.8927493092604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>SAINTE FOY</description>
+	<Point>
+		<coordinates>2.26779559703102,48.8845412097759</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>COLLANGE</description>
+	<Point>
+		<coordinates>2.2938667000415,48.8986724076889</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>MAIRIE DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28749260076892,48.8931697843044</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>RUE PETIT</description>
+	<Point>
+		<coordinates>2.2942870005934,48.9014046427904</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PONT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.26087174727222,48.8852919007077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>RUE PETIT</description>
+	<Point>
+		<coordinates>2.29419154012572,48.9014495438706</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>RUE DU PORT</description>
+	<Point>
+		<coordinates>2.297255148978,48.9060699737557</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>GABRIEL PERI</description>
+	<Point>
+		<coordinates>2.30317175615448,48.9063144626522</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25822802765542,48.8852632153808</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.30204124767809,48.90477734459</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>REPUBLIQUE-FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.31387524089385,48.9031086545345</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>SAINT-OUEN RER</description>
+	<Point>
+		<coordinates>2.32047273321935,48.9048173117309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>VOLTAIRE-VILLIERS</description>
+	<Point>
+		<coordinates>2.28010898566133,48.8898232426895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>VICTOR HUGO-SANZILLON</description>
+	<Point>
+		<coordinates>2.31964147000027,48.9038286128349</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>INKERMANN-BINEAU</description>
+	<Point>
+		<coordinates>2.27577686292193,48.8882663018384</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>GENERAL GOURAUD</description>
+	<Point>
+		<coordinates>2.26211059813177,48.8861644488937</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>JEAN JAURES-VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.29611795253572,48.8960130139178</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>MAIRIE DE CLICHY-METRO</description>
+	<Point>
+		<coordinates>2.30651340721329,48.9037450669942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174 (SAINT-OUEN RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>TREZEL</description>
+	<Point>
+		<coordinates>2.29519154101644,48.8954465003984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>PAUL DOUMER</description>
+	<Point>
+		<coordinates>2.25561705505333,48.8904021388053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>PORTE DE SAINT CLOUD-METRO</description>
+	<Point>
+		<coordinates>2.25622991748331,48.8383746115673</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>SOLJENITSYNE</description>
+	<Point>
+		<coordinates>2.2499579975166,48.8841070790939</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>LA MONTAGNE</description>
+	<Point>
+		<coordinates>2.25998252375131,48.8967320134008</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>PLACE MERMOZ</description>
+	<Point>
+		<coordinates>2.274151411208,48.9024741378368</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>FRANKLIN</description>
+	<Point>
+		<coordinates>2.26935560180143,48.9004044685924</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>RD 7-PONT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.25293670853877,48.8875962664072</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>MAIRIE DE COURBEVOIE</description>
+	<Point>
+		<coordinates>2.25624909087472,48.8958577817787</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>PONT BINEAU</description>
+	<Point>
+		<coordinates>2.26408348165249,48.8980557102165</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>LA MONTAGNE</description>
+	<Point>
+		<coordinates>2.2590289486403,48.8963539314439</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>FRANKLIN</description>
+	<Point>
+		<coordinates>2.26886536204306,48.9000267295291</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>HAUSSMANN</description>
+	<Point>
+		<coordinates>2.27709447491575,48.9037518264501</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>HAUSSMANN</description>
+	<Point>
+		<coordinates>2.27870252996377,48.9042648909267</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>PONT BINEAU</description>
+	<Point>
+		<coordinates>2.26361998968122,48.8980823862283</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>GARE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.28183579436218,48.9063603772816</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>HENRI MARTIN</description>
+	<Point>
+		<coordinates>2.25225800200372,48.8360800099174</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>ROUTE DEP.7-PT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.25344118584589,48.8874528268466</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>HENRI MARTIN</description>
+	<Point>
+		<coordinates>2.25195791703756,48.8364213235898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.25391081737116,48.8920276382383</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>BELLINI</description>
+	<Point>
+		<coordinates>2.25036528051561,48.8850240745169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>MAIRIE DE COURBEVOIE</description>
+	<Point>
+		<coordinates>2.25652204909756,48.8956332882016</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>PAUL DOUMER</description>
+	<Point>
+		<coordinates>2.25557581405245,48.89062679027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>GARE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.28093632701573,48.9060633825201</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>PLACE MERMOZ</description>
+	<Point>
+		<coordinates>2.27528255755057,48.9027443440774</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175 (GABRIEL PERI-METRO/PORTE DE SAINT CLOUD-METRO)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.25392492361302,48.8917310711992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25836357896264,48.8857396281305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>RD 7 - PONT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.2521475841102,48.8867958435273</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>PONT DE NEUILLY - RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.25361884549388,48.8871473864132</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>PAUL DOUMER</description>
+	<Point>
+		<coordinates>2.25557581405245,48.89062679027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>BELLINI</description>
+	<Point>
+		<coordinates>2.25040437128376,48.8860935828966</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.25392492361302,48.8917310711992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>PLACE CHARRAS</description>
+	<Point>
+		<coordinates>2.25044411709977,48.8949100446842</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>PLACE CHARRAS</description>
+	<Point>
+		<coordinates>2.25023992121746,48.8947571141295</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25851437160672,48.885155558172</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>PAUL DOUMER</description>
+	<Point>
+		<coordinates>2.25561705505333,48.8904021388053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.25330994458707,48.892755177779</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176 (PETIT GENNEVILLIERS/PONT DE NEUILLY-METRO)</name>
+	<description>PONT DE NEUILLY - RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.25157461275717,48.8871549216247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178 (GENNEVILLIERS RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>REPUBLIQUE-COLOMBES</description>
+	<Point>
+		<coordinates>2.25641495891808,48.9031194890944</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178 (GENNEVILLIERS RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>D'ESTIENNE D'ORVES</description>
+	<Point>
+		<coordinates>2.25119667601526,48.9013723388325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178 (GENNEVILLIERS RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.25696976237455,48.9057800412279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178 (GENNEVILLIERS RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>MOULIN DES BRUYERES</description>
+	<Point>
+		<coordinates>2.26203960272078,48.9069157181156</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178 (GENNEVILLIERS RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>MOULIN DES BRUYERES</description>
+	<Point>
+		<coordinates>2.26187619899234,48.9067808089224</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178 (GENNEVILLIERS RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>D'ESTIENNE D'ORVES</description>
+	<Point>
+		<coordinates>2.25216371167515,48.9018763109328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178 (GENNEVILLIERS RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.25648048672939,48.9048091062303</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178 (GENNEVILLIERS RER/LA DEFENSE-METRO-RER-TRAMWAY)</name>
+	<description>REPUBLIQUE-COLOMBES</description>
+	<Point>
+		<coordinates>2.25575901030213,48.9041345838753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>180 (/CHARENTON-ECOLES-METRO)</name>
+	<description>PONT NELSON MANDELA - RIVE DROITE</description>
+	<Point>
+		<coordinates>2.40320066040278,48.8224578418901</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>180 (/CHARENTON-ECOLES-METRO)</name>
+	<description>ARCHEVECHE</description>
+	<Point>
+		<coordinates>2.40456317272624,48.8235356007875</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>180 (LOUIS ARAGON-METRO/)</name>
+	<description>ARCHEVECHE</description>
+	<Point>
+		<coordinates>2.40422299164878,48.8236166817461</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>180 (LOUIS ARAGON-METRO/)</name>
+	<description>PONT NELSON MANDELA - RIVES DE BERCY</description>
+	<Point>
+		<coordinates>2.40028770260369,48.822315617202</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>188 (ROSENBERG/)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32432426138934,48.8217833571277</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>ISSY-VAL DE SEINE</description>
+	<Point>
+		<coordinates>2.26329592054545,48.8290680533981</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>ISSY-VAL DE SEINE</description>
+	<Point>
+		<coordinates>2.26347270893455,48.8291939900016</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>GENERAL DE GAULLE</description>
+	<Point>
+		<coordinates>2.28231832472618,48.8241441298457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>PORTE DE SAINT-CLOUD-METRO</description>
+	<Point>
+		<coordinates>2.25746895205978,48.8383484855368</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>ABEL GANCE</description>
+	<Point>
+		<coordinates>2.25807400547574,48.8344303026669</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>QUAI DU POINT DU JOUR</description>
+	<Point>
+		<coordinates>2.25749406254624,48.8308708214511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.2725815217263,48.8277702520102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>CORENTIN CELTON-METRO</description>
+	<Point>
+		<coordinates>2.27797255583618,48.8273596269342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>PLACE DU MARECHAL DE LATTRE DE TASSIGNY</description>
+	<Point>
+		<coordinates>2.28464787261038,48.8222038438603</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>LE JOUR SE LEVE</description>
+	<Point>
+		<coordinates>2.26002122128657,48.8341799289341</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>PORTE DE SAINT-CLOUD-METRO</description>
+	<Point>
+		<coordinates>2.25750993610193,48.8382586372866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>PRESIDENT ROBERT SCHUMAN</description>
+	<Point>
+		<coordinates>2.2665506574224,48.8281443040026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>PIERRE DE COUBERTIN</description>
+	<Point>
+		<coordinates>2.25581338715309,48.8348422072885</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>CORENTIN CELTON-METRO</description>
+	<Point>
+		<coordinates>2.2785038676412,48.8269824090753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>PRESIDENT ROBERT SCHUMAN</description>
+	<Point>
+		<coordinates>2.26811674409384,48.8276688786605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>PIERRE DE COUBERTIN</description>
+	<Point>
+		<coordinates>2.25620856921511,48.8346087994333</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>VOIE LACTEE</description>
+	<Point>
+		<coordinates>2.26068896734801,48.8337399677395</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>PLACE DU MARECHAL DE LATTRE DE TASSIGNY</description>
+	<Point>
+		<coordinates>2.28485194792811,48.8222938107135</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>GENERAL DE GAULLE</description>
+	<Point>
+		<coordinates>2.28230440863826,48.8244317288416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27218636397062,48.8280846042219</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (GEORGE POMPIDOU/PORTE DE SAINT-CLOUD-METRO)</name>
+	<description>ABEL GANCE</description>
+	<Point>
+		<coordinates>2.25901382406277,48.8341433207889</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>QUAI DU POINT DU JOUR</description>
+	<Point>
+		<coordinates>2.25749406254624,48.8308708214511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>PRESIDENT ROBERT SCHUMAN</description>
+	<Point>
+		<coordinates>2.26811674409384,48.8276688786605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>ISSY-VAL DE SEINE</description>
+	<Point>
+		<coordinates>2.26329592054545,48.8290680533981</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>ABEL GANCE</description>
+	<Point>
+		<coordinates>2.25901382406277,48.8341433207889</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>CORENTIN CELTON-METRO</description>
+	<Point>
+		<coordinates>2.2785038676412,48.8269824090753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>PORTE DE SAINT-CLOUD-METRO</description>
+	<Point>
+		<coordinates>2.25746895205978,48.8383484855368</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.2725815217263,48.8277702520102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>GENERAL DE GAULLE</description>
+	<Point>
+		<coordinates>2.28231832472618,48.8241441298457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>PIERRE DE COUBERTIN</description>
+	<Point>
+		<coordinates>2.25620856921511,48.8346087994333</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>VOIE LACTEE</description>
+	<Point>
+		<coordinates>2.26068896734801,48.8337399677395</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189 (MARCHE DE CLAMART/)</name>
+	<description>PLACE DU MARECHAL DE LATTRE DE TASSIGNY</description>
+	<Point>
+		<coordinates>2.28464787261038,48.8222038438603</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190 (VELIZY 2/MAIRIE D'ISSY-METRO)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27357851162373,48.8251014560377</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190 (VELIZY 2/MAIRIE D'ISSY-METRO)</name>
+	<description>BOURGAIN - GENERAL GALLIENI</description>
+	<Point>
+		<coordinates>2.26781070420791,48.8224019286908</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190 (VELIZY 2/MAIRIE D'ISSY-METRO)</name>
+	<description>BOURGAIN - GENERAL GALLIENI</description>
+	<Point>
+		<coordinates>2.26793360043058,48.8221054067102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190 (VELIZY 2/MAIRIE D'ISSY-METRO)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27348299689956,48.8252901458423</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191 (PLACE DU GARDE/PORTE DE VANVES)</name>
+	<description>RUE LEGRAND</description>
+	<Point>
+		<coordinates>2.30227278805482,48.824322431946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191 (PLACE DU GARDE/PORTE DE VANVES)</name>
+	<description>PORTE DE VANVES</description>
+	<Point>
+		<coordinates>2.30470799576228,48.8263543338928</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191 (PLACE DU GARDE/PORTE DE VANVES)</name>
+	<description>PORTE DE VANVES</description>
+	<Point>
+		<coordinates>2.3043671848479,48.8271541410959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191 (PLACE DU GARDE/PORTE DE VANVES)</name>
+	<description>PONT DE LA VALLEE</description>
+	<Point>
+		<coordinates>2.30435474617667,48.8253026809408</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191 (PLACE DU GARDE/PORTE DE VANVES)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.30397587823717,48.821770419992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191 (PLACE DU GARDE/PORTE DE VANVES)</name>
+	<description>RUE LEGRAND</description>
+	<Point>
+		<coordinates>2.30255877043581,48.8241157992652</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191 (PLACE DU GARDE/PORTE DE VANVES)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.30420728742923,48.8217345337168</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (GROUPE SCOLAIRE SOPHIE BARAT/PORTE D'ORLEANS-METRO)</name>
+	<description>JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.31830757263722,48.8235441366693</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (GROUPE SCOLAIRE SOPHIE BARAT/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32417416030192,48.8232932709545</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (GROUPE SCOLAIRE SOPHIE BARAT/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS - ERNEST REYER</description>
+	<Point>
+		<coordinates>2.32313968721637,48.823329103496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (GROUPE SCOLAIRE SOPHIE BARAT/PORTE D'ORLEANS-METRO)</name>
+	<description>JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.31837557091843,48.8237059255722</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (GROUPE SCOLAIRE SOPHIE BARAT/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32458286311161,48.8218103479906</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (GROUPE SCOLAIRE SOPHIE BARAT/PORTE D'ORLEANS-METRO)</name>
+	<description>DEPINOY</description>
+	<Point>
+		<coordinates>2.3138301440222,48.8219255576659</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (LYCEE POLYVALENT/PORTE D'ORLEANS-METRO)</name>
+	<description>JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.31837557091843,48.8237059255722</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (LYCEE POLYVALENT/PORTE D'ORLEANS-METRO)</name>
+	<description>JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.31830757263722,48.8235441366693</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (LYCEE POLYVALENT/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS - ERNEST REYER</description>
+	<Point>
+		<coordinates>2.32313968721637,48.823329103496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194 (LYCEE POLYVALENT/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32417416030192,48.8232932709545</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>LA FAYETTE - MAGENTA - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35472279767486,48.877828716993</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>SIMPLON</description>
+	<Point>
+		<coordinates>2.34701385193181,48.8947615111053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>STRASBOURG - MAGENTA</description>
+	<Point>
+		<coordinates>2.35863158070965,48.8734962042672</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>MAGENTA - MAUBEUGE - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35158985615748,48.8813161938439</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>OBERKAMPF - RICHARD LENOIR</description>
+	<Point>
+		<coordinates>2.37053309847178,48.8636343556163</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35797866626734,48.8761565603852</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>BARBES - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34951927730772,48.8841204443262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>NATION - VOLTAIRE</description>
+	<Point>
+		<coordinates>2.39416535819451,48.8495600732947</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>GYMNASE JAPY</description>
+	<Point>
+		<coordinates>2.3827728298099,48.8563415182157</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>VOLTAIRE - LEON BLUM</description>
+	<Point>
+		<coordinates>2.37995489678734,48.8580591609018</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>MARCADET - POISSONNIERS</description>
+	<Point>
+		<coordinates>2.34965720655023,48.8910405784645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>ALBERT KAHN</description>
+	<Point>
+		<coordinates>2.34652345180129,48.8963522752177</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34535143251451,48.8976824567049</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>MONT-CENIS</description>
+	<Point>
+		<coordinates>2.34676907889575,48.8978620945828</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>PICPUS</description>
+	<Point>
+		<coordinates>2.40174587243661,48.8456556338681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.37666020151835,48.85998360357</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>CHATEAU ROUGE</description>
+	<Point>
+		<coordinates>2.34975181739527,48.8877512561882</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>NATION - PLACE DES ANTILLES</description>
+	<Point>
+		<coordinates>2.39812672847707,48.8482459405899</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>JACQUES BONSERGENT</description>
+	<Point>
+		<coordinates>2.3610282796006,48.8708355035755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>NATION</description>
+	<Point>
+		<coordinates>2.3962618016211,48.8488849913171</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35736553753736,48.876174640029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>NATION</description>
+	<Point>
+		<coordinates>2.39495348705137,48.8480048578812</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>PICPUS</description>
+	<Point>
+		<coordinates>2.40302468346809,48.8447022573976</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>NATION - PLACE DES ANTILLES</description>
+	<Point>
+		<coordinates>2.39683276960406,48.848021907531</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>JEAN-PIERRE TIMBAUD</description>
+	<Point>
+		<coordinates>2.36785035971257,48.8649652067159</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>BARBES - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.3492876064135,48.8840935062505</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>JACQUES BONSERGENT</description>
+	<Point>
+		<coordinates>2.36036083563537,48.8711142420655</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>SAINT-AMBROISE</description>
+	<Point>
+		<coordinates>2.37433181583335,48.8611077767313</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>MAGENTA - MAUBEUGE - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35119468009102,48.8812982662247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36256648346552,48.8681929090361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>PORTE DE CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34507881184265,48.89766450065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>REPUBLIQUE - VOLTAIRE</description>
+	<Point>
+		<coordinates>2.36549446102874,48.8663588304327</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>NATION - VOLTAIRE</description>
+	<Point>
+		<coordinates>2.3939337301202,48.8494523339133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.37644216384687,48.8598488643522</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>VOLTAIRE - LEON BLUM</description>
+	<Point>
+		<coordinates>2.37973685128482,48.857915440082</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>CHATEAU ROUGE</description>
+	<Point>
+		<coordinates>2.34937024429452,48.8878321804279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>MAGENTA - SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.35830482167847,48.8740624628229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>REPUBLIQUE - MAGENTA</description>
+	<Point>
+		<coordinates>2.36188590686549,48.869415330502</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>GYMNASE JAPY</description>
+	<Point>
+		<coordinates>2.38251395511406,48.8562337676245</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>CHARONNE</description>
+	<Point>
+		<coordinates>2.38586258872867,48.8542192604934</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>BOULETS - MONTREUIL</description>
+	<Point>
+		<coordinates>2.38944236670482,48.8520877176809</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>OBERKAMPF - RICHARD LENOIR</description>
+	<Point>
+		<coordinates>2.37032868328276,48.8634996018027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>ALBERT KAHN</description>
+	<Point>
+		<coordinates>2.34555562962254,48.8960198222938</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>SIMPLON</description>
+	<Point>
+		<coordinates>2.34710915003747,48.8941683510473</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>MARCADET - POISSONNIERS</description>
+	<Point>
+		<coordinates>2.34939828848271,48.8911933871802</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (CHATEAU DE VINCENNES/)</name>
+	<description>LA FAYETTE - MAGENTA - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35442298514715,48.877684964117</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>MOULIN DES PRES</description>
+	<Point>
+		<coordinates>2.35259662157992,48.8298629732793</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>AVRON</description>
+	<Point>
+		<coordinates>2.39795297699413,48.8510501250153</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>MARAICHERS</description>
+	<Point>
+		<coordinates>2.40558154544196,48.8526637375206</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>AVRON</description>
+	<Point>
+		<coordinates>2.39743562511638,48.8511851996984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>DIDEROT - NATION</description>
+	<Point>
+		<coordinates>2.39438183470426,48.8482747583868</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>PIERRE BOURDAN</description>
+	<Point>
+		<coordinates>2.39108561925359,48.8476202066041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>JENNER - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35897009433405,48.8359555776418</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>MOULIN DES PRES - TOLBIAC</description>
+	<Point>
+		<coordinates>2.3534803870543,48.8263936271615</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>VAN GOGH</description>
+	<Point>
+		<coordinates>2.37160965931978,48.8437178494399</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>BUZENVAL</description>
+	<Point>
+		<coordinates>2.40201231875566,48.8518388846413</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>MARAICHERS</description>
+	<Point>
+		<coordinates>2.40545867842804,48.852439121297</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.3548160985321,48.8314714507636</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>RUBENS - ECOLE DES ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35753978326004,48.8339875476442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36399774733621,48.8433962512743</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>JENNER - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35888854866197,48.8362971206071</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>HOPITAL SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.38058537261027,48.8464651021077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>BOBILLOT - TOLBIAC</description>
+	<Point>
+		<coordinates>2.35055351656499,48.8254053480428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>DIDEROT - NATION</description>
+	<Point>
+		<coordinates>2.39526648629561,48.8478159683469</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37285009414426,48.8456318270086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>DAUMESNIL - DIDEROT</description>
+	<Point>
+		<coordinates>2.37810663088099,48.8459986277407</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37122967444756,48.8456772379251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36432434955585,48.8430187011732</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>NATION</description>
+	<Point>
+		<coordinates>2.3962618016211,48.8488849913171</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>VERLAINE</description>
+	<Point>
+		<coordinates>2.35293648142442,48.8283170561546</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35492472497023,48.8306445737768</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35619132817521,48.8321992365943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>PONT D'AUSTERLITZ - QUAI DE LA RAPEE</description>
+	<Point>
+		<coordinates>2.36865582724035,48.8453633814555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>ABBE GEORGES HENOCQUE</description>
+	<Point>
+		<coordinates>2.35290785700876,48.8236794299097</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>SAINT-MARCEL - LA PITIE</description>
+	<Point>
+		<coordinates>2.36138141833767,48.8392355770063</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>SAINT-MARCEL - LA PITIE</description>
+	<Point>
+		<coordinates>2.36108188468222,48.8392536124461</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>ABBE GEORGES HENOCQUE</description>
+	<Point>
+		<coordinates>2.35319362866587,48.8234547001676</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>REUILLY - DIDEROT</description>
+	<Point>
+		<coordinates>2.38612846543689,48.8473077816662</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>VERLAINE</description>
+	<Point>
+		<coordinates>2.35221485924368,48.8277958659065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>RUBENS - ECOLE DES ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35706323946276,48.8338618015197</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>BUZENVAL</description>
+	<Point>
+		<coordinates>2.40080018641014,48.8517946001957</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>HOPITAL SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.38066726527743,48.8466897599651</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>DAUMESNIL - DIDEROT</description>
+	<Point>
+		<coordinates>2.3768811342854,48.846079929449</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>REUILLY - DIDEROT</description>
+	<Point>
+		<coordinates>2.38637341307502,48.8471279308245</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>NATION</description>
+	<Point>
+		<coordinates>2.3959352424345,48.8491278149256</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>57 (LAPLACE RER/PORTE DE BAGNOLET - LOUIS GANNE)</name>
+	<description>PIERRE BOURDAN</description>
+	<Point>
+		<coordinates>2.38983293295112,48.8477645662645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>LOSSERAND - MAINE</description>
+	<Point>
+		<coordinates>2.32240096965485,48.8362711973286</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>BREA - NOTRE-DAME-DES-CHAMPS</description>
+	<Point>
+		<coordinates>2.33021482381671,48.8437944978561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>CARREFOUR ALBERT LEGRIS</description>
+	<Point>
+		<coordinates>2.29309771774532,48.8252990376131</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.32169156252657,48.841070465613</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>CHATEAU</description>
+	<Point>
+		<coordinates>2.32189791759325,48.8339253727034</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>RUE BENARD</description>
+	<Point>
+		<coordinates>2.32398159490186,48.8311394647737</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>CHATELET.</description>
+	<Point>
+		<coordinates>2.34810992672128,48.8567361809581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>DIDOT</description>
+	<Point>
+		<coordinates>2.31310674139734,48.826266457235</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>VAVIN</description>
+	<Point>
+		<coordinates>2.32913938963343,48.8419519851992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>SAINT-GERMAIN - ODEON</description>
+	<Point>
+		<coordinates>2.33869826676142,48.8515059704721</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>MUSEE DU LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.33321012737035,48.8486568793144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PONT NEUF - QUAI DES GRANDS AUGUSTINS</description>
+	<Point>
+		<coordinates>2.3392159559309,48.8561614637908</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>ALESIA - DIDOT</description>
+	<Point>
+		<coordinates>2.31950292202204,48.8307254507784</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.3427982244337,48.8581475726872</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>COLONEL MONTEIL</description>
+	<Point>
+		<coordinates>2.30891397207825,48.826687952583</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PONT DE LA VALLEE</description>
+	<Point>
+		<coordinates>2.30435474617667,48.8253026809408</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>RASPAIL - FLEURUS</description>
+	<Point>
+		<coordinates>2.3287573426888,48.8467872453995</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.32479541159282,48.8435873411128</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>MAZARINE</description>
+	<Point>
+		<coordinates>2.33796289095446,48.8542381650088</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>SAINT-ANDRE DES ARTS</description>
+	<Point>
+		<coordinates>2.33864385171547,48.8537438491443</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>GAITE</description>
+	<Point>
+		<coordinates>2.32211437519882,48.8386169176146</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>THEATRE DE L'ODEON</description>
+	<Point>
+		<coordinates>2.3390386693131,48.8495736582727</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>MUSEE DU LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.33232500848662,48.8481086089156</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>CARREFOUR ALBERT LEGRIS</description>
+	<Point>
+		<coordinates>2.29194095092744,48.8250199853764</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DU DEPART</description>
+	<Point>
+		<coordinates>2.32376078436968,48.8426615126757</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>JEAN JAURES-JEAN BLEUZEN</description>
+	<Point>
+		<coordinates>2.30078848911903,48.8252207529787</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>GAITE</description>
+	<Point>
+		<coordinates>2.32276812668847,48.837853055777</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>GUYNEMER-VAVIN</description>
+	<Point>
+		<coordinates>2.33216186924399,48.8453045004893</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>ALESIA - LES PLANTES</description>
+	<Point>
+		<coordinates>2.32282486174874,48.8296743476257</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>VAVIN</description>
+	<Point>
+		<coordinates>2.32863552998319,48.8423024637954</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PORTE DIDOT - LYCEE RASPAIL</description>
+	<Point>
+		<coordinates>2.31077958378046,48.8252503571982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>FLEURUS</description>
+	<Point>
+		<coordinates>2.33107230678532,48.8469132131007</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PONT NEUF - QUAI DES GRANDS AUGUSTINS</description>
+	<Point>
+		<coordinates>2.34014208339617,48.8555952363193</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.318483975109,48.8250540927302</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DU DEPART</description>
+	<Point>
+		<coordinates>2.32357010915878,48.8428322540624</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>SENAT</description>
+	<Point>
+		<coordinates>2.33621969953497,48.8491153054001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.32137853424177,48.8406120593587</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>LOSSERAND - MAINE</description>
+	<Point>
+		<coordinates>2.32302719704553,48.8364600129791</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>HOPITAUX BROUSSAIS ET SAINT-JOSEPH</description>
+	<Point>
+		<coordinates>2.31539293334612,48.8278037867715</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PERNETY</description>
+	<Point>
+		<coordinates>2.32059144419782,48.8324152796871</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>NOTRE-DAME-DES-CHAMPS</description>
+	<Point>
+		<coordinates>2.32893471782376,48.8446212674511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34752465957098,48.858749416002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>JEAN JAURES-JEAN BLEUZEN</description>
+	<Point>
+		<coordinates>2.29765868624794,48.8240064181912</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PONT DE LA VALLEE</description>
+	<Point>
+		<coordinates>2.30183633888135,48.825607538728</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>CHATEAU - MAIRIE DU XIV</description>
+	<Point>
+		<coordinates>2.32421243575722,48.8334762687392</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>HOP. NOTRE-DAME DE BON SECOURS - A. CHANTIN</description>
+	<Point>
+		<coordinates>2.32067473183772,48.8273912078843</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>SAINT-GERMAIN - ODEON</description>
+	<Point>
+		<coordinates>2.33842591934507,48.8527372562542</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.34278471608139,48.8591991012055</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>SENAT</description>
+	<Point>
+		<coordinates>2.33751342328732,48.8492950593346</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PORTE DE CHATILLON</description>
+	<Point>
+		<coordinates>2.31641543302295,48.8239213026849</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PORTE DE VANVES</description>
+	<Point>
+		<coordinates>2.3049800377762,48.8266779634235</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>PORTE DE VANVES</description>
+	<Point>
+		<coordinates>2.30511575393975,48.8273340984676</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>VANVES-LYCEE MICHELET</description>
+	<Point>
+		<coordinates>2.28791348728506,48.8233017392406</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>58 (VANVES-LYCEE MICHELET/CHATELET)</name>
+	<description>CHATELET..</description>
+	<Point>
+		<coordinates>2.34857318985983,48.8575539938796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>597 (/PIERRE BROSSOLETTE - GABRIEL PERI)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.30779974680859,48.8232004688449</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>597 (CIMETIERE INTERCOMMUNAL/)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.30779974680859,48.8232004688449</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>597 (HOTEL DE VILLE DE MALAKOFF./)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.30779974680859,48.8232004688449</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PORTE DE MONTMARTRE</description>
+	<Point>
+		<coordinates>2.33480098349602,48.9005136494404</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>MANIN</description>
+	<Point>
+		<coordinates>2.38580729845899,48.8824485457563</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>MANIN</description>
+	<Point>
+		<coordinates>2.38610711543818,48.8824753849637</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>JEAN JAURES - LORRAINE</description>
+	<Point>
+		<coordinates>2.38179008388609,48.8856136208495</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PELLEPORT - BELLEVILLE</description>
+	<Point>
+		<coordinates>2.39796749910265,48.8750913815128</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>JEAN JAURES - LORRAINE</description>
+	<Point>
+		<coordinates>2.38161307732488,48.8857934312816</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>MENILMONTANT - PELLEPORT</description>
+	<Point>
+		<coordinates>2.39920186095941,48.8704802523608</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>FLANDRE</description>
+	<Point>
+		<coordinates>2.37872944837695,48.8926157506106</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PLACE HEBERT</description>
+	<Point>
+		<coordinates>2.36308289168509,48.8929886418697</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>CRIMEE - CURIAL</description>
+	<Point>
+		<coordinates>2.37393265601255,48.8937676803049</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>ORDENER - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35993336587879,48.8905357839257</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>CRIMEE - CURIAL</description>
+	<Point>
+		<coordinates>2.37300596765859,48.8939746665327</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>LAUMIERE</description>
+	<Point>
+		<coordinates>2.37981313438555,48.8844819527781</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>TRISTAN TZARA</description>
+	<Point>
+		<coordinates>2.36613667235708,48.894309053755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>MAIRIE DU 18E - JULES JOFFRIN</description>
+	<Point>
+		<coordinates>2.34510527840462,48.8924160030099</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PONT MARCADET</description>
+	<Point>
+		<coordinates>2.35553116452704,48.8904556556114</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>CRIMEE - ARCHEREAU</description>
+	<Point>
+		<coordinates>2.37538958361431,48.8917720717194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>MARCADET - POISSONNIERS</description>
+	<Point>
+		<coordinates>2.35194692428452,48.8911122156385</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PLACE DE TORCY</description>
+	<Point>
+		<coordinates>2.36126938857879,48.8913533557133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>MARCADET - POISSONNIERS</description>
+	<Point>
+		<coordinates>2.34909849968008,48.8914270839811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>CRIMEE</description>
+	<Point>
+		<coordinates>2.37756957919175,48.8908726363933</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>DUHESME - LE RUISSEAU</description>
+	<Point>
+		<coordinates>2.34051215801165,48.8928206396488</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>BORREGO</description>
+	<Point>
+		<coordinates>2.39791006565444,48.8725839514034</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>DAMREMONT - ORDENER</description>
+	<Point>
+		<coordinates>2.33703660296187,48.8933329523982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PELLEPORT - BELLEVILLE</description>
+	<Point>
+		<coordinates>2.39769493714999,48.875037596277</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PORTE DE MONTMARTRE - BOULEVARD NEY</description>
+	<Point>
+		<coordinates>2.33696842833338,48.8980332294568</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PELLEPORT - GAMBETTA</description>
+	<Point>
+		<coordinates>2.40099715646502,48.8680077859215</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>POTEAU - BELLIARD</description>
+	<Point>
+		<coordinates>2.33815430198709,48.89673907923</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>LAUMIERE</description>
+	<Point>
+		<coordinates>2.38014017770615,48.8844638610803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>CAMBRAI</description>
+	<Point>
+		<coordinates>2.37724439458816,48.8933532057765</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PONT MARCADET</description>
+	<Point>
+		<coordinates>2.35495871902285,48.8903748573538</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>OURCQ - JEAN JAURES</description>
+	<Point>
+		<coordinates>2.38463950191662,48.8869516173148</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>BOTZARIS</description>
+	<Point>
+		<coordinates>2.38952415861036,48.8791935862659</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>TRISTAN TZARA</description>
+	<Point>
+		<coordinates>2.36619127770557,48.8944618221626</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>DAMREMONT - CHAMPIONNET</description>
+	<Point>
+		<coordinates>2.33705022675773,48.8948517820364</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>CANAL DE L'OURCQ</description>
+	<Point>
+		<coordinates>2.38318371106292,48.8896753093596</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>POTEAU - BELLIARD</description>
+	<Point>
+		<coordinates>2.33808615393608,48.8970626166462</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>GAMBETTA - MAIRIE DU 20E</description>
+	<Point>
+		<coordinates>2.39900533784633,48.8656181968984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>BOTZARIS</description>
+	<Point>
+		<coordinates>2.38966060065508,48.8793732717157</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>GAMBETTA</description>
+	<Point>
+		<coordinates>2.39806429162377,48.8646839941487</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>RENE BINET</description>
+	<Point>
+		<coordinates>2.33591880852232,48.8993363552275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>OURCQ - JEAN JAURES</description>
+	<Point>
+		<coordinates>2.38483023720076,48.8868886308439</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>EVANGILE - AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37038993637322,48.8954043799239</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>ORDENER - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35931995676337,48.8902932450686</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>DAMREMONT - CHAMPIONNET</description>
+	<Point>
+		<coordinates>2.33777263127992,48.895489868694</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>GAMBETTA - MAIRIE DU 20E</description>
+	<Point>
+		<coordinates>2.39915498111754,48.8654473591979</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>MENILMONTANT - PELLEPORT</description>
+	<Point>
+		<coordinates>2.39946075519645,48.8705160668069</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>BORREGO</description>
+	<Point>
+		<coordinates>2.39767854689917,48.8726649549047</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PIXERECOURT</description>
+	<Point>
+		<coordinates>2.39471157316803,48.8754884371637</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>CANAL DE L'OURCQ</description>
+	<Point>
+		<coordinates>2.38326560347809,48.8898100856429</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>DUHESME - LE RUISSEAU</description>
+	<Point>
+		<coordinates>2.33972165550423,48.8931441966034</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PLACE HEBERT</description>
+	<Point>
+		<coordinates>2.36323278193451,48.8929167119644</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PORTE DE MONTMARTRE - BOULEVARD NEY</description>
+	<Point>
+		<coordinates>2.33669580291873,48.8985544818219</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>JAURES - STALINGRAD</description>
+	<Point>
+		<coordinates>2.36904613969602,48.8823193872148</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>ORTEAUX</description>
+	<Point>
+		<coordinates>2.4048239125366,48.8565287736703</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.3578028954209,48.8795807435559</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>TRINITE</description>
+	<Point>
+		<coordinates>2.33161380240892,48.876409873396</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>GARE DU NORD - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.35539118221145,48.8799046765241</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>MARCHE SECRETAN</description>
+	<Point>
+		<coordinates>2.37378705704149,48.8805745012957</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>CADET</description>
+	<Point>
+		<coordinates>2.34232320764847,48.875547119048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>L'ERMITAGE</description>
+	<Point>
+		<coordinates>2.3913834553825,48.8720388686586</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32583717589181,48.8741266867044</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>GAMBETTA - MAIRIE DU 20E</description>
+	<Point>
+		<coordinates>2.39882686913737,48.8644589180105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>BOTZARIS - BUTTES CHAUMONT</description>
+	<Point>
+		<coordinates>2.37998335650043,48.8760698157382</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>NATION - PLACE DES ANTILLES</description>
+	<Point>
+		<coordinates>2.39812672847707,48.8482459405899</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>CHATEAUDUN - LAMARTINE</description>
+	<Point>
+		<coordinates>2.34138316818164,48.8766885411751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>MARAICHERS</description>
+	<Point>
+		<coordinates>2.40592147465723,48.8522501185547</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>SQUARE MONTHOLON</description>
+	<Point>
+		<coordinates>2.34699679688907,48.8765444178076</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>PYRENEES - MENILMONTANT</description>
+	<Point>
+		<coordinates>2.39435140263059,48.8701141948298</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>BOTZARIS - BUTTES CHAUMONT</description>
+	<Point>
+		<coordinates>2.38084173739028,48.8760605175426</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>CONDORCET</description>
+	<Point>
+		<coordinates>2.34810102486597,48.8792944291325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>NATION - PLACE DES ANTILLES</description>
+	<Point>
+		<coordinates>2.39683276960406,48.848021907531</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE.</description>
+	<Point>
+		<coordinates>2.32653193732901,48.8746030783028</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>LOUIS BLANC</description>
+	<Point>
+		<coordinates>2.36513479659546,48.8815115141609</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>GARE DU NORD - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.35639937002841,48.8794911046658</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>DENAIN - MAGENTA</description>
+	<Point>
+		<coordinates>2.35428710672659,48.8788353547568</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>JOURDAIN</description>
+	<Point>
+		<coordinates>2.38878295706342,48.8737655863017</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>ATLAS</description>
+	<Point>
+		<coordinates>2.37627739304316,48.8761969091278</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>PYRENEES - BAGNOLET</description>
+	<Point>
+		<coordinates>2.40229336201648,48.8587500771783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>RAMUS</description>
+	<Point>
+		<coordinates>2.40030817663578,48.8615731912924</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>MARSOULAN</description>
+	<Point>
+		<coordinates>2.40279710118893,48.847794086837</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>TRINITE</description>
+	<Point>
+		<coordinates>2.3314230885695,48.8760503726476</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE - BUDAPEST</description>
+	<Point>
+		<coordinates>2.32722660203248,48.8756456652824</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>MARSOULAN</description>
+	<Point>
+		<coordinates>2.40278322227146,48.847587381951</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>MATHURIN MOREAU - SIMON BOLIVAR</description>
+	<Point>
+		<coordinates>2.37390785176023,48.8779681565207</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>PYRENEES - BELLEVILLE</description>
+	<Point>
+		<coordinates>2.38485925990864,48.8739739266452</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>JAURES - STALINGRAD</description>
+	<Point>
+		<coordinates>2.37053156518613,48.8824717648422</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>MARCHE SECRETAN</description>
+	<Point>
+		<coordinates>2.37410042586714,48.880520481264</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>PYRENEES - MENILMONTANT</description>
+	<Point>
+		<coordinates>2.39402441542284,48.8700963764109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32533298123308,48.8744771421671</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>L'ERMITAGE</description>
+	<Point>
+		<coordinates>2.3915334998342,48.8722095595082</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>VILLIERS DE L'ISLE-ADAM</description>
+	<Point>
+		<coordinates>2.39654172675189,48.8674169210338</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>JOURDAIN</description>
+	<Point>
+		<coordinates>2.3888781503347,48.8735857988965</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.35830703331918,48.8795087574334</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>SAINT-GEORGES - CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33634179156323,48.8759336770093</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>MAUBEUGE - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34462622287702,48.8781982477462</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>SAINT-GEORGES - CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33636903855019,48.8761313976096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>CHATEAU LANDON</description>
+	<Point>
+		<coordinates>2.36280423717778,48.8806941965251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>CHATEAU LANDON</description>
+	<Point>
+		<coordinates>2.36215017715752,48.8807123094784</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>26 (NATION - PLACE DES ANTILLES/GARE SAINT-LAZARE)</name>
+	<description>PYRENEES - BAGNOLET</description>
+	<Point>
+		<coordinates>2.40238897754533,48.8589657230036</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>MASSENA - DARMESTETER</description>
+	<Point>
+		<coordinates>2.3752167761156,48.8233148983845</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.3410675441917,48.8462392494472</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34210279698523,48.8497892725147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.3345576593685,48.8611944034366</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.3275676241997,48.8735336776754</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35688514037341,48.8309138952506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>LES ALPES</description>
+	<Point>
+		<coordinates>2.35896848438847,48.8321088863196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35184972989722,48.8363611046674</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>JEANNE D'ARC - EGLISE DE LA GARE</description>
+	<Point>
+		<coordinates>2.36916335527076,48.8292305512275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>BERTHOLLET - VAUQUELIN</description>
+	<Point>
+		<coordinates>2.34579181351378,48.8403971101331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>NATIONALE</description>
+	<Point>
+		<coordinates>2.3625764362587,48.832782244215</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33240470720012,48.8695975249987</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>SAINT-JACQUES - GAY-LUSSAC</description>
+	<Point>
+		<coordinates>2.34207500810259,48.8438485333668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>NATIONALE</description>
+	<Point>
+		<coordinates>2.36201842720463,48.8331149029896</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37744887266799,48.8230984613287</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32480158178403,48.8746118973466</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32989763499652,48.8720329627605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35157767235623,48.8372239451082</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.34093224622319,48.8585880285211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34339685812339,48.8525034295558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>OUDINE</description>
+	<Point>
+		<coordinates>2.37489165471146,48.8254540665144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>BERTHOLLET - VAUQUELIN</description>
+	<Point>
+		<coordinates>2.34629552308625,48.8399566828758</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PONT DES ARTS</description>
+	<Point>
+		<coordinates>2.3384396805066,48.8589475761152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>MONGE - CLAUDE BERNARD</description>
+	<Point>
+		<coordinates>2.3500395013746,48.8385452928908</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37678244574445,48.8237907354414</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>JEANNE D'ARC - EGLISE DE LA GARE</description>
+	<Point>
+		<coordinates>2.36906796567513,48.8290687993661</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37646979579482,48.8243390867253</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34383264753499,48.8523506194006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>SAINT-JACQUES - GAY-LUSSAC</description>
+	<Point>
+		<coordinates>2.34236096344868,48.8438844715467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>OUDINE</description>
+	<Point>
+		<coordinates>2.37372135127528,48.8259128013676</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>CLISSON</description>
+	<Point>
+		<coordinates>2.36607451121885,48.831550146064</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32748590568957,48.8733808867405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>FEUILLANTINES</description>
+	<Point>
+		<coordinates>2.34350450070161,48.8416375335835</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.3317506449691,48.8708557232513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>BANQUIER</description>
+	<Point>
+		<coordinates>2.35401363042885,48.8337274559133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33166886027487,48.8712421745196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PORTE D'IVRY - CLAUDE REGAUD</description>
+	<Point>
+		<coordinates>2.37302420669039,48.8216618441581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33273165666107,48.869768297264</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>BANQUIER</description>
+	<Point>
+		<coordinates>2.35327864687729,48.8343027633353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.33423045149997,48.8662812531322</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>FEUILLANTINES</description>
+	<Point>
+		<coordinates>2.34315048635035,48.841691476893</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PONT NEUF - QUAI DES ORFEVRES</description>
+	<Point>
+		<coordinates>2.34131346393067,48.8565478704524</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37558537825626,48.8247977457977</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37101389318343,48.8279717716331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.33477545600724,48.8642141706639</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34255222975036,48.8500678652945</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32997935975017,48.8721767648906</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34067265379164,48.8464459741175</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PONT DU CARROUSEL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.33363161382981,48.8582824580217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PETITS CHAMPS - DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.33360369921072,48.867854022962</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>SAINT-MICHEL</description>
+	<Point>
+		<coordinates>2.3436013403938,48.8541121736358</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PONT DES ARTS - QUAI DE CONTI</description>
+	<Point>
+		<coordinates>2.33744536349694,48.85768934301</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>QUAI FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.33382220094328,48.8598013368243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PONT NEUF - QUAI DES GRANDS AUGUSTINS</description>
+	<Point>
+		<coordinates>2.34086394975637,48.8558109151716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>LES ALPES</description>
+	<Point>
+		<coordinates>2.35982604794633,48.8318840365103</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35651775655058,48.8313902990204</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>MONGE - CLAUDE BERNARD</description>
+	<Point>
+		<coordinates>2.3500803896761,48.8387160522036</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>CLISSON</description>
+	<Point>
+		<coordinates>2.36581578993828,48.8314333694111</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.3352113713585,48.8640074692363</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.3336310238009,48.8667306044441</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37147632989059,48.827378455105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PONT SAINT-MICHEL - QUAI DES ORFEVRES</description>
+	<Point>
+		<coordinates>2.34390102928565,48.8545884921043</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY - CLAUDE REGAUD/GARE SAINT-LAZARE)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35485698783124,48.831615246566</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37147632989059,48.827378455105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37744887266799,48.8230984613287</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>JEANNE D'ARC - EGLISE DE LA GARE</description>
+	<Point>
+		<coordinates>2.36906796567513,48.8290687993661</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32480158178403,48.8746118973466</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>LES ALPES</description>
+	<Point>
+		<coordinates>2.35982604794633,48.8318840365103</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>BANQUIER</description>
+	<Point>
+		<coordinates>2.35327864687729,48.8343027633353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.3336310238009,48.8667306044441</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32748590568957,48.8733808867405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34210279698523,48.8497892725147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>SAINT-JACQUES - GAY-LUSSAC</description>
+	<Point>
+		<coordinates>2.34207500810259,48.8438485333668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32989763499652,48.8720329627605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>FEUILLANTINES</description>
+	<Point>
+		<coordinates>2.34315048635035,48.841691476893</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.3317506449691,48.8708557232513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33240470720012,48.8695975249987</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37558537825626,48.8247977457977</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>QUAI FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.33382220094328,48.8598013368243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34339685812339,48.8525034295558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35688514037341,48.8309138952506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>MONGE - CLAUDE BERNARD</description>
+	<Point>
+		<coordinates>2.3500395013746,48.8385452928908</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PORTE D'IVRY - CLAUDE REGAUD</description>
+	<Point>
+		<coordinates>2.37302420669039,48.8216618441581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>NATIONALE</description>
+	<Point>
+		<coordinates>2.3625764362587,48.832782244215</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.33477545600724,48.8642141706639</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.34093224622319,48.8585880285211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>CLISSON</description>
+	<Point>
+		<coordinates>2.36581578993828,48.8314333694111</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PONT NEUF - QUAI DES ORFEVRES</description>
+	<Point>
+		<coordinates>2.34131346393067,48.8565478704524</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35184972989722,48.8363611046674</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35485698783124,48.831615246566</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PONT SAINT-MICHEL - QUAI DES ORFEVRES</description>
+	<Point>
+		<coordinates>2.34390102928565,48.8545884921043</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34067265379164,48.8464459741175</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>OUDINE</description>
+	<Point>
+		<coordinates>2.37372135127528,48.8259128013676</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>BERTHOLLET - VAUQUELIN</description>
+	<Point>
+		<coordinates>2.34629552308625,48.8399566828758</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/)</name>
+	<description>PONT DES ARTS</description>
+	<Point>
+		<coordinates>2.3384396805066,48.8589475761152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PONT DU CARROUSEL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.33363161382981,48.8582824580217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.3410675441917,48.8462392494472</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34255222975036,48.8500678652945</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.34093224622319,48.8585880285211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32748590568957,48.8733808867405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.3352113713585,48.8640074692363</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32997935975017,48.8721767648906</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>CLISSON</description>
+	<Point>
+		<coordinates>2.36607451121885,48.831550146064</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37744887266799,48.8230984613287</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>BANQUIER</description>
+	<Point>
+		<coordinates>2.35327864687729,48.8343027633353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37101389318343,48.8279717716331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35157767235623,48.8372239451082</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34383264753499,48.8523506194006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>MONGE - CLAUDE BERNARD</description>
+	<Point>
+		<coordinates>2.3500395013746,48.8385452928908</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37147632989059,48.827378455105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33166886027487,48.8712421745196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33273165666107,48.869768297264</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>OUDINE</description>
+	<Point>
+		<coordinates>2.37372135127528,48.8259128013676</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35485698783124,48.831615246566</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37646979579482,48.8243390867253</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.3336310238009,48.8667306044441</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32546925167048,48.8743782953935</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PONT NEUF - QUAI DES GRANDS AUGUSTINS</description>
+	<Point>
+		<coordinates>2.34086394975637,48.8558109151716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.33477545600724,48.8642141706639</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32989763499652,48.8720329627605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>LES ECOLES</description>
+	<Point>
+		<coordinates>2.34210279698523,48.8497892725147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>CLAUDE REGAUD</description>
+	<Point>
+		<coordinates>2.37468503187631,48.8220657793041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>MONGE - CLAUDE BERNARD</description>
+	<Point>
+		<coordinates>2.3500803896761,48.8387160522036</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.3345576593685,48.8611944034366</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>LES ALPES</description>
+	<Point>
+		<coordinates>2.35896848438847,48.8321088863196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35688514037341,48.8309138952506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>JEANNE D'ARC - EGLISE DE LA GARE</description>
+	<Point>
+		<coordinates>2.36916335527076,48.8292305512275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>LES ALPES</description>
+	<Point>
+		<coordinates>2.35982604794633,48.8318840365103</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35184972989722,48.8363611046674</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.3275676241997,48.8735336776754</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>MASSENA - DARMESTETER</description>
+	<Point>
+		<coordinates>2.3752167761156,48.8233148983845</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.33423045149997,48.8662812531322</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37678244574445,48.8237907354414</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>QUAI FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.33382220094328,48.8598013368243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.3317506449691,48.8708557232513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PONT DES ARTS</description>
+	<Point>
+		<coordinates>2.3384396805066,48.8589475761152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>FEUILLANTINES</description>
+	<Point>
+		<coordinates>2.34350450070161,48.8416375335835</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PONT NEUF - QUAI DES ORFEVRES</description>
+	<Point>
+		<coordinates>2.34131346393067,48.8565478704524</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33240470720012,48.8695975249987</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>SAINT-JACQUES - GAY-LUSSAC</description>
+	<Point>
+		<coordinates>2.34207500810259,48.8438485333668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PONT SAINT-MICHEL - QUAI DES ORFEVRES</description>
+	<Point>
+		<coordinates>2.34390102928565,48.8545884921043</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>FEUILLANTINES</description>
+	<Point>
+		<coordinates>2.34315048635035,48.841691476893</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>BERTHOLLET - VAUQUELIN</description>
+	<Point>
+		<coordinates>2.34629552308625,48.8399566828758</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>NATIONALE</description>
+	<Point>
+		<coordinates>2.36201842720463,48.8331149029896</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>BERTHOLLET - VAUQUELIN</description>
+	<Point>
+		<coordinates>2.34579181351378,48.8403971101331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PETITS CHAMPS - DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.33360369921072,48.867854022962</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>CLISSON</description>
+	<Point>
+		<coordinates>2.36581578993828,48.8314333694111</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34339685812339,48.8525034295558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>SAINT-MICHEL</description>
+	<Point>
+		<coordinates>2.3436013403938,48.8541121736358</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>PONT DES ARTS - QUAI DE CONTI</description>
+	<Point>
+		<coordinates>2.33744536349694,48.85768934301</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>NATIONALE</description>
+	<Point>
+		<coordinates>2.3625764362587,48.832782244215</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>27 (PORTE D'IVRY/GARE SAINT-LAZARE)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37558537825626,48.8247977457977</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>SAINT-GEORGES - PROVENCE</description>
+	<Point>
+		<coordinates>2.33619195892734,48.8737677366227</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>RUE ROUELLE</description>
+	<Point>
+		<coordinates>2.28866418410512,48.8501659214131</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CHARLES MICHELS</description>
+	<Point>
+		<coordinates>2.28587560624181,48.8469382409413</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>VASCO DE GAMA - LOURMEL</description>
+	<Point>
+		<coordinates>2.28167746662537,48.8378948922203</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CHARLES MICHELS</description>
+	<Point>
+		<coordinates>2.28813706593325,48.8459415816443</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>LA FAYETTE - MAGENTA</description>
+	<Point>
+		<coordinates>2.35522725621596,48.878718382142</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>PLACE BALARD</description>
+	<Point>
+		<coordinates>2.27830208498987,48.8368507101833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>DUPLEIX</description>
+	<Point>
+		<coordinates>2.29255713619454,48.852387351892</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>SAINT-CHARLES - BALARD</description>
+	<Point>
+		<coordinates>2.27872204854171,48.838711344814</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>HOPITAL EUROPEEN GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.27230769898209,48.8399033646655</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33269065391195,48.8712691800065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>THEATRE</description>
+	<Point>
+		<coordinates>2.29002794784751,48.848054410049</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>ALMA - MARCEAU</description>
+	<Point>
+		<coordinates>2.30321240850517,48.8651889568129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>TOUR EIFFEL</description>
+	<Point>
+		<coordinates>2.29573746305475,48.8605311192102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>BOSQUET - RAPP</description>
+	<Point>
+		<coordinates>2.3019197422539,48.8630495842554</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>BOSQUET - RAPP</description>
+	<Point>
+		<coordinates>2.30157960547649,48.8624563152162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>MONTTESSUY</description>
+	<Point>
+		<coordinates>2.29805427813429,48.8589141700963</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>RUE ROUELLE</description>
+	<Point>
+		<coordinates>2.29132028315095,48.8495917764809</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>TOUR EIFFEL</description>
+	<Point>
+		<coordinates>2.2958193693532,48.86030646257</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CHAMP DE MARS - SUFFREN</description>
+	<Point>
+		<coordinates>2.29572833958908,48.8549139747859</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CONCORDE - COURS LA REINE</description>
+	<Point>
+		<coordinates>2.31752892358423,48.8667200393742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>MONTTESSUY</description>
+	<Point>
+		<coordinates>2.29838122898231,48.8588423778998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>RUE LEBLANC</description>
+	<Point>
+		<coordinates>2.27447319547143,48.8394102103466</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>PLACE FRANZ LISZT</description>
+	<Point>
+		<coordinates>2.35225656304893,48.8778739894115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CHAMP DE MARS - SUFFREN</description>
+	<Point>
+		<coordinates>2.29700838501074,48.8551750500869</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>PLACE BALARD</description>
+	<Point>
+		<coordinates>2.27752560046252,48.8372278014658</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>LE PELETIER - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.33913490023184,48.874468736263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>SQUARE MONTHOLON</description>
+	<Point>
+		<coordinates>2.34699679688907,48.8765444178076</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>MADELEINE - VIGNON</description>
+	<Point>
+		<coordinates>2.32532020041095,48.8708103160984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CONCORDE</description>
+	<Point>
+		<coordinates>2.32142496938681,48.8669273299415</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>MADELEINE</description>
+	<Point>
+		<coordinates>2.32380802251834,48.8705495224783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>MONTAIGNE - FRANCOIS 1ER</description>
+	<Point>
+		<coordinates>2.3070119135442,48.8671312524505</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CONCORDE</description>
+	<Point>
+		<coordinates>2.322324085387,48.8668914965716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>RUE LEBLANC</description>
+	<Point>
+		<coordinates>2.27421448846711,48.8394190612247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>ALMA - MARCEAU</description>
+	<Point>
+		<coordinates>2.30300796634386,48.8653506708887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CHAUSSEE D'ANTIN</description>
+	<Point>
+		<coordinates>2.33314014101209,48.8725723578992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>RAPP - LA BOURDONNAIS</description>
+	<Point>
+		<coordinates>2.29949942734389,48.8570542401518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CONVENTION - BOUCICAUT</description>
+	<Point>
+		<coordinates>2.28314173910963,48.8438093742872</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>LE PELETIER</description>
+	<Point>
+		<coordinates>2.33876702972545,48.8744327922951</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>DESAIX</description>
+	<Point>
+		<coordinates>2.29364589241742,48.8532954891284</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>DOCTEUR FINLAY</description>
+	<Point>
+		<coordinates>2.28995662174154,48.8516044378749</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CHAMPS-ELYSEES - CLEMENCEAU</description>
+	<Point>
+		<coordinates>2.31346873982463,48.8680314517555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CONCORDE - COURS LA REINE</description>
+	<Point>
+		<coordinates>2.31718845200299,48.8664683364338</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>OPERA - SCRIBE</description>
+	<Point>
+		<coordinates>2.33072866431696,48.8723835165984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CHAUSSEE D'ANTIN</description>
+	<Point>
+		<coordinates>2.33418919058507,48.8729318820858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CONDORCET</description>
+	<Point>
+		<coordinates>2.34810102486597,48.8792944291325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>CADET</description>
+	<Point>
+		<coordinates>2.34322246797451,48.8755920138639</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>ROND-POINT SAINT-CHARLES</description>
+	<Point>
+		<coordinates>2.28072103486631,48.8409861626004</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>MONTAIGNE - FRANCOIS 1ER</description>
+	<Point>
+		<coordinates>2.30667131540035,48.8671761022905</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>LOURMEL - FELIX FAURE</description>
+	<Point>
+		<coordinates>2.28250643773505,48.8393692370367</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>BALARD - LECOURBE</description>
+	<Point>
+		<coordinates>2.28069884840389,48.8363575557981</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>LECOURBE - VASCO DE GAMA</description>
+	<Point>
+		<coordinates>2.28346208108186,48.8369070786213</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>DESAIX</description>
+	<Point>
+		<coordinates>2.29315576821872,48.8530975845721</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>MAUBEUGE - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34462622287702,48.8781982477462</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>42 (HOPITAL EUROPEEN GEORGES POMPIDOU/GARE DU NORD)</name>
+	<description>THEATRE</description>
+	<Point>
+		<coordinates>2.28772555228292,48.8490780490243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>MAURICE BARRES</description>
+	<Point>
+		<coordinates>2.25888821355875,48.8812553414213</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>RUE DE L'EGLISE</description>
+	<Point>
+		<coordinates>2.2641558802277,48.8853838324748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>EGLISE SAINT-PIERRE</description>
+	<Point>
+		<coordinates>2.27204862370292,48.883537042259</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>RUE DU CENTRE</description>
+	<Point>
+		<coordinates>2.25361813819269,48.8791397520939</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>GENERAL KOENIG - PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.28462926176821,48.8808291127136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>TERNES - MAC MAHON</description>
+	<Point>
+		<coordinates>2.29482395355396,48.8782718076583</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>PONT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.26087174727222,48.8852919007077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>MAUBEUGE - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34462622287702,48.8781982477462</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>SAINT-GEORGES - CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33634179156323,48.8759336770093</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>CARREFOUR DE CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.3393938310707,48.8759156866871</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>RUE DU CENTRE</description>
+	<Point>
+		<coordinates>2.25316753218913,48.8797236075898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.31875223016937,48.8744044036858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>PLACE FRANZ LISZT</description>
+	<Point>
+		<coordinates>2.35225656304893,48.8778739894115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>HAUSSMANN - MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31369705400351,48.8752483177359</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>GARE DU NORD - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.35539118221145,48.8799046765241</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>TERNES</description>
+	<Point>
+		<coordinates>2.29707242523272,48.8779939814625</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.3581581136544,48.8819083811668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>PEREIRE - PORTE MAILLOT</description>
+	<Point>
+		<coordinates>2.28825471660701,48.8799678815319</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>PEREIRE - PORTE MAILLOT</description>
+	<Point>
+		<coordinates>2.28794140718912,48.8798688923943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>MONTROSIER - PARMENTIER</description>
+	<Point>
+		<coordinates>2.28063570697113,48.8817439822403</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>MONTROSIER - PARMENTIER</description>
+	<Point>
+		<coordinates>2.27984537809381,48.8817256296412</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>CHARTRES</description>
+	<Point>
+		<coordinates>2.27698269525254,48.8826499027866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>SQUARE MONTHOLON</description>
+	<Point>
+		<coordinates>2.34699679688907,48.8765444178076</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>GENERAL GOURAUD</description>
+	<Point>
+		<coordinates>2.26205641263446,48.8859397341949</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>GENERAL KOENIG - PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.28456133042497,48.8806313630187</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>RUE DU BOIS DE BOULOGNE</description>
+	<Point>
+		<coordinates>2.25574084308752,48.8810195614994</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>CARREFOUR DE CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33920307388938,48.8757898678731</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>EGLISE SAINT-PIERRE</description>
+	<Point>
+		<coordinates>2.27147584905627,48.8838782425197</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>TERNES</description>
+	<Point>
+		<coordinates>2.2984626184777,48.877500141761</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>GENERAL GOURAUD</description>
+	<Point>
+		<coordinates>2.26211059813177,48.8861644488937</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>PASQUIER - ANJOU</description>
+	<Point>
+		<coordinates>2.32405231899418,48.874207388071</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.32132716955602,48.8748721153276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>HAUSSMANN - COURCELLES</description>
+	<Point>
+		<coordinates>2.30886039604518,48.8748518222814</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>SAINTE-FOY</description>
+	<Point>
+		<coordinates>2.26763200743459,48.8845860504804</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>TERNES - MAC MAHON</description>
+	<Point>
+		<coordinates>2.29460571168474,48.8785503352605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>LA FAYETTE - MAGENTA</description>
+	<Point>
+		<coordinates>2.35522725621596,48.878718382142</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>EGLISE SAINT-FERDINAND</description>
+	<Point>
+		<coordinates>2.29042173491706,48.8794744532631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>EGLISE SAINT-FERDINAND</description>
+	<Point>
+		<coordinates>2.29049006002582,48.8792587856697</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>CHARTRES</description>
+	<Point>
+		<coordinates>2.27661492554635,48.8825149075495</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32647739878207,48.8747918066949</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>TRINITE</description>
+	<Point>
+		<coordinates>2.3314230885695,48.8760503726476</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.3557318313803,48.8798866496643</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>FRIEDLAND - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30583574032336,48.874734228263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>HAUSSMANN - MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31379253473592,48.8750146668336</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>MAGENTA - MAUBEUGE</description>
+	<Point>
+		<coordinates>2.35157596138759,48.8803455719162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>RUE DU BOIS DE BOULOGNE</description>
+	<Point>
+		<coordinates>2.25426909382242,48.8810724692934</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>HAUSSMANN - COURCELLES</description>
+	<Point>
+		<coordinates>2.30845156433616,48.8750045082518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>TRINITE</description>
+	<Point>
+		<coordinates>2.33161380240892,48.876409873396</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>PLACE DE BAGATELLE</description>
+	<Point>
+		<coordinates>2.25091004911735,48.8770437842452</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>SAINTE-FOY</description>
+	<Point>
+		<coordinates>2.26780904386297,48.8846760260768</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>CONDORCET</description>
+	<Point>
+		<coordinates>2.34810102486597,48.8792944291325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>PONT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.26011019149596,48.8842219297494</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32467883186911,48.8751331478159</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>CHATEAUDUN - LAMARTINE</description>
+	<Point>
+		<coordinates>2.34138316818164,48.8766885411751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>HOCHE - SAINT-HONORE</description>
+	<Point>
+		<coordinates>2.30076586184514,48.8767639120212</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>HOCHE - SAINT-HONORE</description>
+	<Point>
+		<coordinates>2.30086110713565,48.8769526741439</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>FRIEDLAND - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30640786160418,48.874941085642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>MAURICE BARRES</description>
+	<Point>
+		<coordinates>2.25872453132619,48.8813630807496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>PLACE DE BAGATELLE</description>
+	<Point>
+		<coordinates>2.25122321106284,48.8771788200686</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>GARE SAINT-LAZARE - BUDAPEST</description>
+	<Point>
+		<coordinates>2.32722660203248,48.8756456652824</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>CADET</description>
+	<Point>
+		<coordinates>2.34232320764847,48.875547119048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>43 (BAGATELLE/GARE DU NORD)</name>
+	<description>SAINT-GEORGES - CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33636903855019,48.8761313976096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>MONTGALLET</description>
+	<Point>
+		<coordinates>2.39038758864137,48.8441783026234</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>DAUMESNIL - FELIX EBOUE</description>
+	<Point>
+		<coordinates>2.39600642535756,48.8398346803071</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>FONTAINE AU ROI</description>
+	<Point>
+		<coordinates>2.37244305574545,48.8678848313154</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>MONTGALLET</description>
+	<Point>
+		<coordinates>2.39012889623421,48.8442053803467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35797866626734,48.8761565603852</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>CANAL SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.36629052417512,48.8769816552537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>VOLTAIRE - LEON BLUM</description>
+	<Point>
+		<coordinates>2.37968281067188,48.8584547047088</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>GYMNASE JAPY</description>
+	<Point>
+		<coordinates>2.3814105436335,48.8560094958474</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>PARMENTIER - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.3748519853606,48.8646396572521</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.37867606457095,48.8599289951741</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>SAINT-AMBROISE</description>
+	<Point>
+		<coordinates>2.37693435419749,48.862248337657</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>PORTE DOREE</description>
+	<Point>
+		<coordinates>2.40539619022347,48.8359740084005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>RUE DE LA GARE DE REUILLY</description>
+	<Point>
+		<coordinates>2.39351657564211,48.8415165548928</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>HOPITAL SAINT-LOUIS</description>
+	<Point>
+		<coordinates>2.36984435518392,48.8731431597571</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>GODEFROY - CAVAIGNAC</description>
+	<Point>
+		<coordinates>2.38085197485201,48.8558299528259</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>FONTAINE AU ROI</description>
+	<Point>
+		<coordinates>2.37305583296486,48.8675071799275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>SIDI BRAHIM</description>
+	<Point>
+		<coordinates>2.39942200474297,48.8381972093931</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.3786356319437,48.8604682537061</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>RUE DE LA GARE DE REUILLY</description>
+	<Point>
+		<coordinates>2.39342113618601,48.841399761859</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>DAUMESNIL - FELIX EBOUE</description>
+	<Point>
+		<coordinates>2.39543395133676,48.8392867202834</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>FAIDHERBE - CHALIGNY</description>
+	<Point>
+		<coordinates>2.38493220147037,48.849582102609</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.3581581136544,48.8819083811668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>CHARONNE - CHANZY</description>
+	<Point>
+		<coordinates>2.38283788875521,48.8528813254626</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>PARMENTIER - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.37509725074119,48.864729453342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>SIDI BRAHIM</description>
+	<Point>
+		<coordinates>2.39897260476147,48.838116555061</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>REUILLY - DIDEROT</description>
+	<Point>
+		<coordinates>2.38640114217875,48.8476491944909</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>SAINT-AMBROISE</description>
+	<Point>
+		<coordinates>2.37662097593108,48.8621405929125</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>CANAL SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.36664668150962,48.8803248331399</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>ALIBERT</description>
+	<Point>
+		<coordinates>2.36984325923183,48.8713996201508</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>REUILLY - DIDEROT</description>
+	<Point>
+		<coordinates>2.38720387097972,48.8469028977788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>MICHEL BIZOT</description>
+	<Point>
+		<coordinates>2.40264702137661,48.8367664574048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.3563313089129,48.8796798481428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>SAMBRE ET MEUSE</description>
+	<Point>
+		<coordinates>2.3703909585922,48.8756864158541</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>GRANGE AUX BELLES - JULIETTE DODU</description>
+	<Point>
+		<coordinates>2.36891932555322,48.8754890955407</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35736553753736,48.876174640029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>VALENCIENNES</description>
+	<Point>
+		<coordinates>2.35653501276338,48.8778284375409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>COLONEL FABIEN</description>
+	<Point>
+		<coordinates>2.37071960892021,48.8782387128548</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35620882788932,48.8801022690293</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>HOPITAL SAINT-LOUIS</description>
+	<Point>
+		<coordinates>2.369925677091,48.872469088847</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>GONCOURT</description>
+	<Point>
+		<coordinates>2.37117723389948,48.8696017813753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>VOLTAIRE - LEON BLUM</description>
+	<Point>
+		<coordinates>2.38043173336846,48.8582027877779</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>CHARONNE - CHANZY</description>
+	<Point>
+		<coordinates>2.38311038243392,48.8530070453154</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>FAIDHERBE - CHALIGNY</description>
+	<Point>
+		<coordinates>2.38497320506394,48.8497438609201</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>MICHEL BIZOT</description>
+	<Point>
+		<coordinates>2.40256567144677,48.8370361294352</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>46 (CHATEAU DE VINCENNES/GARE DU NORD)</name>
+	<description>GONCOURT</description>
+	<Point>
+		<coordinates>2.37090527690586,48.8703927440534</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>NOTRE-DAME - QUAI DE MONTEBELLO</description>
+	<Point>
+		<coordinates>2.34789114365082,48.8525390627782</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>ITALIE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.35707399025277,48.82636612008</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>BANQUIER</description>
+	<Point>
+		<coordinates>2.35327864687729,48.8343027633353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CENTRE GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.35280998972847,48.8604564511262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.3480965489812,48.8578955603681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>GRENIER SAINT-LAZARE - QUARTIER DE L'HORLOGE</description>
+	<Point>
+		<coordinates>2.35424107213917,48.8630985498798</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>MAUBERT - MUTUALITE</description>
+	<Point>
+		<coordinates>2.34919785065263,48.849411297921</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CENTRE COMMERCIAL ITALIE II</description>
+	<Point>
+		<coordinates>2.35606776859695,48.8293411927971</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>MAISON BLANCHE</description>
+	<Point>
+		<coordinates>2.35858334099447,48.8224741995557</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>MONGE - CLAUDE BERNARD</description>
+	<Point>
+		<coordinates>2.3506795186869,48.8389137125243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35485698783124,48.831615246566</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CARDINAL LEMOINE</description>
+	<Point>
+		<coordinates>2.35145778484381,48.8468945513147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>BANQUIER</description>
+	<Point>
+		<coordinates>2.35401363042885,48.8337274559133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CENSIER - DAUBENTON</description>
+	<Point>
+		<coordinates>2.3520552850267,48.8410346121929</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35184972989722,48.8363611046674</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>MAGENTA - SAINT-MARTIN</description>
+	<Point>
+		<coordinates>2.35830482167847,48.8740624628229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>VANDREZANNE</description>
+	<Point>
+		<coordinates>2.35650273938678,48.8276065092567</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>STRASBOURG - SAINT-DENIS</description>
+	<Point>
+		<coordinates>2.35386133961613,48.8683382381217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>VANDREZANNE</description>
+	<Point>
+		<coordinates>2.35682965276234,48.8281726773605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>DANTE</description>
+	<Point>
+		<coordinates>2.34644714050674,48.8503642151266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>PETIT PONT</description>
+	<Point>
+		<coordinates>2.34625684707821,48.8524672978354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35799205422731,48.8755633967655</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>MAUBERT - MUTUALITE</description>
+	<Point>
+		<coordinates>2.34949745982077,48.8494472174357</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>MONGE</description>
+	<Point>
+		<coordinates>2.3520832312745,48.8435331440801</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>MAIRIE DU 10E</description>
+	<Point>
+		<coordinates>2.35740496003199,48.8724359150373</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>MONGE - CLAUDE BERNARD</description>
+	<Point>
+		<coordinates>2.35097907063758,48.838958616177</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CHATELET - HOTEL DE VILLE</description>
+	<Point>
+		<coordinates>2.35028930211428,48.8573471076079</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>LAGRANGE</description>
+	<Point>
+		<coordinates>2.34799993391561,48.8517571435122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>LES HALLES - CENTRE GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.3495273524964,48.8606725322957</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.3577466748609,48.8752398965767</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>REAUMUR - ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35392864625042,48.8658217688776</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>MAISON BLANCHE</description>
+	<Point>
+		<coordinates>2.35803890602082,48.8225012589162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>47 (FORT DU KREMLIN-BICETRE/GARE DE L'EST)</name>
+	<description>CENSIER - DAUBENTON</description>
+	<Point>
+		<coordinates>2.35175571513322,48.84097173623</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>VAUBAN - HOTEL DES INVALIDES</description>
+	<Point>
+		<coordinates>2.31314859539708,48.8533819199318</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DE L'ARRIVEE</description>
+	<Point>
+		<coordinates>2.32224906051471,48.8436948978347</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PEREIRE - LE CHATELIER</description>
+	<Point>
+		<coordinates>2.29639887943534,48.8854621571488</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.32087431455909,48.8419780978295</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>DUROC</description>
+	<Point>
+		<coordinates>2.31592940267509,48.8473518520498</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.322167203431,48.8442341389969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>CHARLES DE GAULLE - ETOILE - MAC MAHON</description>
+	<Point>
+		<coordinates>2.29462253763983,48.874658845683</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PIERRE DEMOURS</description>
+	<Point>
+		<coordinates>2.29523047622949,48.8810490166697</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>92 (PORTE DE CHAMPERRET/GARE MONTPARNASSE)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.32337927165827,48.8436051596005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>INVALIDES.</description>
+	<Point>
+		<coordinates>2.31372990277146,48.8629087035443</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>CHATEAU</description>
+	<Point>
+		<coordinates>2.26428780484458,48.8884755150083</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>SAINT-PHILIPPE DU ROULE</description>
+	<Point>
+		<coordinates>2.30986956863608,48.8730905464332</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>MATIGNON-SAINT HONORE</description>
+	<Point>
+		<coordinates>2.31450225408855,48.872228738746</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PEREIRE</description>
+	<Point>
+		<coordinates>2.29804811452684,48.8850852476861</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>INVALIDES</description>
+	<Point>
+		<coordinates>2.31511969022304,48.8620461803917</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PEREIRE-MARECHAL JUIN</description>
+	<Point>
+		<coordinates>2.29702684087454,48.8840603632558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>ROND POINT DES CHAMPS ELYSEES-MATIGNON</description>
+	<Point>
+		<coordinates>2.31146536603582,48.869594832847</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PEREIRE-LE CHATELIER</description>
+	<Point>
+		<coordinates>2.29582670352584,48.8852282918317</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>HAUSSMANN-COURCELLES</description>
+	<Point>
+		<coordinates>2.30866964752316,48.8748517766767</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>TERNES</description>
+	<Point>
+		<coordinates>2.29707242523272,48.8779939814625</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PEREIRE-LE CHATELIER</description>
+	<Point>
+		<coordinates>2.29488647849223,48.8851291018353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>VILLIERS-BINEAU</description>
+	<Point>
+		<coordinates>2.28302845076848,48.8870565486016</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PORTE DE CHAMPERRET</description>
+	<Point>
+		<coordinates>2.29258296580327,48.8856495196576</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>HOPITAL AMERICAIN</description>
+	<Point>
+		<coordinates>2.27371291231227,48.8932081712438</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>VILLIERS-BINEAU</description>
+	<Point>
+		<coordinates>2.28444650570098,48.8863382081989</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PIERRE DEMOURS</description>
+	<Point>
+		<coordinates>2.29576154373285,48.8815075526731</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PLACE DE LA LIBERATION</description>
+	<Point>
+		<coordinates>2.27562123298925,48.8930743657043</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>TERNES-MAC MAHON</description>
+	<Point>
+		<coordinates>2.2944282710437,48.8789187497811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PONT DE LA GRANDE JATTE</description>
+	<Point>
+		<coordinates>2.26704824920051,48.8930067145776</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PONT DES INVALIDES-PLACE DE FINLANDE</description>
+	<Point>
+		<coordinates>2.3107331622675,48.8628182002308</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>CENTRE HOSPITALIER</description>
+	<Point>
+		<coordinates>2.26161367369753,48.8904959669675</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>L'YSER ET LA SOMME</description>
+	<Point>
+		<coordinates>2.28954391560699,48.8857202396198</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PONT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.26087174727222,48.8852919007077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>ROND POINT DES CHAMPS ELYSEES</description>
+	<Point>
+		<coordinates>2.31017201006796,48.8679139124474</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>RUE DU BOIS DE BOULOGNE</description>
+	<Point>
+		<coordinates>2.25574084308752,48.8810195614994</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>TERNES</description>
+	<Point>
+		<coordinates>2.2984626184777,48.877500141761</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>RD PT DES CHAMPS ELYSEES-FRANKLIN D.ROOSEVELT</description>
+	<Point>
+		<coordinates>2.30976202186519,48.8703583755248</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>HOPITAL DU PERPETUEL SECOURS</description>
+	<Point>
+		<coordinates>2.27826739613928,48.8913142184265</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>MAURICE BARRES</description>
+	<Point>
+		<coordinates>2.25872453132619,48.8813630807496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>COLLEGE ANDRE MAUROIS</description>
+	<Point>
+		<coordinates>2.26121942148346,48.8898216768217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>RUE DU CENTRE</description>
+	<Point>
+		<coordinates>2.25361813819269,48.8791397520939</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PONT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.26011019149596,48.8842219297494</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>CHATEAU</description>
+	<Point>
+		<coordinates>2.26385261014908,48.8878281690162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>HAUSSMANN-COURCELLES</description>
+	<Point>
+		<coordinates>2.30836973461796,48.875148285217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>MAURICE BARRES</description>
+	<Point>
+		<coordinates>2.25888821355875,48.8812553414213</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>LA BOETIE-PERCIER</description>
+	<Point>
+		<coordinates>2.3140111662895,48.8736037029966</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>SAINT PHILIPPE DU ROULE</description>
+	<Point>
+		<coordinates>2.31044195743127,48.8727761206177</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>VILLIERS</description>
+	<Point>
+		<coordinates>2.27290589130109,48.8955174380411</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PLACE DE BAGATELLE</description>
+	<Point>
+		<coordinates>2.25091004911735,48.8770437842452</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>CENTRE DES IMPOTS</description>
+	<Point>
+		<coordinates>2.2704396717543,48.8948420448105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PIERRE DEMOURS</description>
+	<Point>
+		<coordinates>2.29523047622949,48.8810490166697</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>HOCHE-SAINT HONORE</description>
+	<Point>
+		<coordinates>2.30216964259804,48.8762250963061</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PALAIS DE LA DECOUVERTE</description>
+	<Point>
+		<coordinates>2.31030960909461,48.8652806470472</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>CHAMPS ELYSEES-CLEMENCEAU</description>
+	<Point>
+		<coordinates>2.31333265805671,48.867707879876</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PORTE DE CHAMPERRET</description>
+	<Point>
+		<coordinates>2.29240605412306,48.8853618621032</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>HOCHE-SAINT HONORE</description>
+	<Point>
+		<coordinates>2.30073843381148,48.8770155476083</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PEREIRE-MARECHAL JUIN</description>
+	<Point>
+		<coordinates>2.29675425246542,48.8841141943319</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>LOUIS ROUQUIER</description>
+	<Point>
+		<coordinates>2.28095514440781,48.8887451819267</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>LOUIS ROUQUIER</description>
+	<Point>
+		<coordinates>2.28091399501355,48.8889878168392</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>FRIEDLAND-HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30515429684419,48.8750575894311</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>INVALIDES</description>
+	<Point>
+		<coordinates>2.31443834484032,48.8626571944597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>VILLIERS</description>
+	<Point>
+		<coordinates>2.27266034384401,48.8956790739286</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>VOLTAIRE-VILLIERS</description>
+	<Point>
+		<coordinates>2.28010898566133,48.8898232426895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>FRIEDLAND-HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30625809496879,48.8747613007779</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>RUE DU BOIS DE BOULOGNE</description>
+	<Point>
+		<coordinates>2.25426909382242,48.8810724692934</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>TERNES-MAC MAHON</description>
+	<Point>
+		<coordinates>2.294851124279,48.8783706773558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>L'YSER ET LA SOMME</description>
+	<Point>
+		<coordinates>2.28959815393636,48.8860168395748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>VOLTAIRE-VILLIERS</description>
+	<Point>
+		<coordinates>2.27968637223123,48.8899308856183</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>HOPITAL DU PERPETUEL SECOURS</description>
+	<Point>
+		<coordinates>2.27806252676759,48.8916915783908</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PLACE DE LA LIBERATION</description>
+	<Point>
+		<coordinates>2.27571689686579,48.8928587230846</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>HOPITAL AMERICAIN</description>
+	<Point>
+		<coordinates>2.27359046565895,48.8930283625582</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>PONT DE LA GRANDE JATTE</description>
+	<Point>
+		<coordinates>2.26666609230665,48.8933929370944</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>RUE DU CENTRE</description>
+	<Point>
+		<coordinates>2.25316753218913,48.8797236075898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>93 (SURESNES DE GAULLE/INVALIDES)</name>
+	<description>GRAND PALAIS</description>
+	<Point>
+		<coordinates>2.31337464456936,48.8652813008168</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>RENNES - LITTRE</description>
+	<Point>
+		<coordinates>2.32463170745461,48.8448365896025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>REIMS - HOTEL DES IMPOTS</description>
+	<Point>
+		<coordinates>2.30018277318401,48.8918982282613</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>VARENNE - RASPAIL</description>
+	<Point>
+		<coordinates>2.32582800732823,48.8539050834588</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>RENNES - LITTRE</description>
+	<Point>
+		<coordinates>2.32499936040638,48.8448635905567</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32156336486674,48.8597644033169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32499663608933,48.8563945226982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.32079265976363,48.8418432734703</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.31991465227557,48.861498743671</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32344346262885,48.8582277880457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>MADELEINE</description>
+	<Point>
+		<coordinates>2.32387610424194,48.87069332743</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>CONCORDE</description>
+	<Point>
+		<coordinates>2.322324085387,48.8668914965716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>PORTE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.30308662404053,48.8906948140143</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>LOUISON BOBET</description>
+	<Point>
+		<coordinates>2.29793341495158,48.8925715454032</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>RUE DU CHERCHE MIDI</description>
+	<Point>
+		<coordinates>2.32739499421868,48.8499237755022</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>WAGRAM - PEREIRE</description>
+	<Point>
+		<coordinates>2.30417917972126,48.8871991028304</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32683624310107,48.851909959795</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>LISBONNE - MAIRIE DU 8E</description>
+	<Point>
+		<coordinates>2.31681633207684,48.8773968555895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32569129251567,48.8562418057548</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>PLACE DU GENERAL CATROUX</description>
+	<Point>
+		<coordinates>2.30963250470586,48.8833180109246</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32133158554197,48.8604923525608</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32662757637776,48.8733089148048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32688645965367,48.8732190644992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32646853737944,48.8518919521327</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>MALESHERBES - COURCELLES</description>
+	<Point>
+		<coordinates>2.31310878915796,48.8803799357158</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>PLACE DU GENERAL CATROUX</description>
+	<Point>
+		<coordinates>2.30996013288695,48.8822216429299</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>MALESHERBES - COURCELLES</description>
+	<Point>
+		<coordinates>2.31274089477093,48.880343911573</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>PASQUIER - ANJOU</description>
+	<Point>
+		<coordinates>2.32421582474389,48.8741714568561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>WAGRAM - PEREIRE</description>
+	<Point>
+		<coordinates>2.30509218144331,48.8873341608226</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>RENNES - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32645605970566,48.8464095837486</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>JULIETTE LAMBER</description>
+	<Point>
+		<coordinates>2.30454646463984,48.8882686816091</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>JULIETTE LAMBER</description>
+	<Point>
+		<coordinates>2.30406939510483,48.8883853833511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>CURNONSKY</description>
+	<Point>
+		<coordinates>2.29655878494265,48.8900816354147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>LISBONNE - MAIRIE DU 8E</description>
+	<Point>
+		<coordinates>2.31623039274765,48.8774956137436</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>PORTE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.30256870777657,48.890712638796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.32337927165827,48.8436051596005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>ALSACE</description>
+	<Point>
+		<coordinates>2.29952764077836,48.8931652136867</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>MADELEINE</description>
+	<Point>
+		<coordinates>2.32534764412475,48.8699565222805</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DE L'ARRIVEE</description>
+	<Point>
+		<coordinates>2.32238519415108,48.843811752755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32507394330594,48.8751871126395</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>RENNES - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32587057748846,48.8461039539438</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>RENNES - RASPAIL</description>
+	<Point>
+		<coordinates>2.32779016075332,48.8486385970096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>VARENNE - RASPAIL</description>
+	<Point>
+		<coordinates>2.32637283771051,48.8536444983189</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.32132716955602,48.8748721153276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.32017338758452,48.8617144785673</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.32157252921119,48.8745036685394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32325283346741,48.8580120676646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>JOUFFROY - MALESHERBES</description>
+	<Point>
+		<coordinates>2.30746500249781,48.8846925354538</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>JOUFFROY - MALESHERBES</description>
+	<Point>
+		<coordinates>2.30592410311692,48.8863368018956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>CONCORDE</description>
+	<Point>
+		<coordinates>2.3211797420404,48.8669812212537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE MONTPARNASSE)</name>
+	<description>RENNES - RASPAIL</description>
+	<Point>
+		<coordinates>2.32740886159035,48.8486116036289</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>PORTE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.30308662404053,48.8906948140143</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>PASQUIER - ANJOU</description>
+	<Point>
+		<coordinates>2.32421582474389,48.8741714568561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>JULIETTE LAMBER</description>
+	<Point>
+		<coordinates>2.30406939510483,48.8883853833511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>JOUFFROY - MALESHERBES</description>
+	<Point>
+		<coordinates>2.30592410311692,48.8863368018956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>MALESHERBES - COURCELLES</description>
+	<Point>
+		<coordinates>2.31310878915796,48.8803799357158</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>JOUFFROY - MALESHERBES</description>
+	<Point>
+		<coordinates>2.30746500249781,48.8846925354538</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.32157252921119,48.8745036685394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>JULIETTE LAMBER</description>
+	<Point>
+		<coordinates>2.30454646463984,48.8882686816091</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>LOUISON BOBET</description>
+	<Point>
+		<coordinates>2.29793341495158,48.8925715454032</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>CURNONSKY</description>
+	<Point>
+		<coordinates>2.29655878494265,48.8900816354147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>LISBONNE - MAIRIE DU 8E</description>
+	<Point>
+		<coordinates>2.31623039274765,48.8774956137436</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>PORTE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.30256870777657,48.890712638796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>WAGRAM - PEREIRE</description>
+	<Point>
+		<coordinates>2.30417917972126,48.8871991028304</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>WAGRAM - PEREIRE</description>
+	<Point>
+		<coordinates>2.30509218144331,48.8873341608226</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>ALSACE</description>
+	<Point>
+		<coordinates>2.29952764077836,48.8931652136867</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.32132716955602,48.8748721153276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>MALESHERBES - COURCELLES</description>
+	<Point>
+		<coordinates>2.31274089477093,48.880343911573</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>REIMS - HOTEL DES IMPOTS</description>
+	<Point>
+		<coordinates>2.30018277318401,48.8918982282613</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>LISBONNE - MAIRIE DU 8E</description>
+	<Point>
+		<coordinates>2.31681633207684,48.8773968555895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>PLACE DU GENERAL CATROUX</description>
+	<Point>
+		<coordinates>2.30996013288695,48.8822216429299</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>PLACE DU GENERAL CATROUX</description>
+	<Point>
+		<coordinates>2.30963250470586,48.8833180109246</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>94 (LOUISON BOBET/GARE SAINT-LAZARE)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32444716299559,48.8753128690777</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>BRANCION - VOUILLE</description>
+	<Point>
+		<coordinates>2.30459410984729,48.8342813874679</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>MORILLONS - BRANCION</description>
+	<Point>
+		<coordinates>2.3025945454115,48.8316923918648</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>ALLERAY</description>
+	<Point>
+		<coordinates>2.30693417856492,48.8369872697297</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>CHAUVELOT</description>
+	<Point>
+		<coordinates>2.30428441434885,48.8288797452886</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>FALGUIERE</description>
+	<Point>
+		<coordinates>2.3102701080213,48.836475780515</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>RENNES - LITTRE</description>
+	<Point>
+		<coordinates>2.32499936040638,48.8448635905567</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PORTE DE VANVES</description>
+	<Point>
+		<coordinates>2.30477510599664,48.8278732646604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>RENNES - D'ASSAS</description>
+	<Point>
+		<coordinates>2.32902931987459,48.8491419884162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>RENNES - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32645605970566,48.8464095837486</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>SAINT-GERMAIN-DES-PRES</description>
+	<Point>
+		<coordinates>2.3325424259503,48.8532674289685</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>LIEGE</description>
+	<Point>
+		<coordinates>2.32683058327007,48.880076359011</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PONT DU CARROUSEL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.33363161382981,48.8582824580217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>RENNES - LITTRE</description>
+	<Point>
+		<coordinates>2.32463170745461,48.8448365896025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33273165666107,48.869768297264</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>DAMREMONT - CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.33218503635068,48.886933967859</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.3275676241997,48.8735336776754</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.33477545600724,48.8642141706639</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PLACE DE CLICHY</description>
+	<Point>
+		<coordinates>2.32699356665877,48.8827635612356</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>DAMREMONT - CHAMPIONNET</description>
+	<Point>
+		<coordinates>2.33705022675773,48.8948517820364</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>DAMREMONT - CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.33258024636618,48.8869789200614</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PONT DU CARROUSEL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.33288250520762,48.8580307850858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PLACE JACQUES FROMENT</description>
+	<Point>
+		<coordinates>2.33163946670702,48.8910590659947</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.31948544973995,48.8419958737768</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>DAMREMONT - ORDENER</description>
+	<Point>
+		<coordinates>2.33653229631211,48.8937463598459</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.32369250717991,48.8434074700583</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>DAMREMONT - ORDENER</description>
+	<Point>
+		<coordinates>2.33587807697588,48.893216111534</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.33345431505503,48.8614460205192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>POTEAU - BELLIARD</description>
+	<Point>
+		<coordinates>2.33808615393608,48.8970626166462</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.320302575465,48.8415376283019</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PORTE DE MONTMARTRE - BOULEVARD NEY</description>
+	<Point>
+		<coordinates>2.33669580291873,48.8985544818219</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>INSTITUT PASTEUR</description>
+	<Point>
+		<coordinates>2.31010487740101,48.8400168443086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PORTE DE MONTMARTRE</description>
+	<Point>
+		<coordinates>2.33432389073771,48.9002530124554</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>RENNES - D'ASSAS</description>
+	<Point>
+		<coordinates>2.32836208174357,48.8488453533553</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PLACE DE CLICHY - CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.32909184909741,48.8844892724915</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.3352113713585,48.8640074692363</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.33423045149997,48.8662812531322</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32748590568957,48.8733808867405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>RENE BINET</description>
+	<Point>
+		<coordinates>2.33591880852232,48.8993363552275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32989763499652,48.8720329627605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32997935975017,48.8721767648906</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.33044534953044,48.851101348459</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>DAMREMONT - MARCADET</description>
+	<Point>
+		<coordinates>2.33508761537621,48.8917242296576</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.32287945638296,48.8783054562201</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32401111656258,48.8754925673253</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PORTE DE MONTMARTRE</description>
+	<Point>
+		<coordinates>2.33480098349602,48.9005136494404</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PORTE DE MONTMARTRE - BOULEVARD NEY</description>
+	<Point>
+		<coordinates>2.33696842833338,48.8980332294568</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>DAMREMONT - CHAMPIONNET</description>
+	<Point>
+		<coordinates>2.33777263127992,48.895489868694</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>CLICHY - CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.33038638455912,48.8850196004756</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>RENNES - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32587057748846,48.8461039539438</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33240470720012,48.8695975249987</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PETITS CHAMPS - DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.33360369921072,48.867854022962</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PLACE DE CLICHY</description>
+	<Point>
+		<coordinates>2.32657111562514,48.8828354220456</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32660009471905,48.8744413129826</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>DAMREMONT - MARCADET</description>
+	<Point>
+		<coordinates>2.33426985500572,48.8917331991682</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>SAINT-GILLES - CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.36794107257167,48.8571191821</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>REPUBLIQUE - TEMPLE</description>
+	<Point>
+		<coordinates>2.36489500636672,48.8662511226742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>LES ROSES</description>
+	<Point>
+		<coordinates>2.3594710310148,48.8929893698015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35880508724833,48.8975819252058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36362842132757,48.8668805250598</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36361547476228,48.8682106562407</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>ORDENER - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35971499390036,48.88982583752</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>JACQUES BONSERGENT</description>
+	<Point>
+		<coordinates>2.3610282796006,48.8708355035755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35799416115411,48.8808299396041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>LYON - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37099990628506,48.8483286168513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35713542492424,48.8801290798217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>DEPARTEMENT - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35957762558616,48.8873184348975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>GARE DE LYON.</description>
+	<Point>
+		<coordinates>2.3730802771735,48.843735391121</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>JACQUES BONSERGENT</description>
+	<Point>
+		<coordinates>2.36036083563537,48.8711142420655</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>65 (PORTE DE LA CHAPELLE-METRO/GARE DE LYON)</name>
+	<description>ORDENER - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35993336587879,48.8905357839257</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>BROCHANT-CARDINET</description>
+	<Point>
+		<coordinates>2.31771049678116,48.8909856986451</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>BOULEVARD VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.31695681166471,48.901410657594</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>MAIRIE DU XVII</description>
+	<Point>
+		<coordinates>2.32206014877268,48.8843088389279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>SQUARE DES BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.31739832807559,48.887588487994</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>FLOREAL</description>
+	<Point>
+		<coordinates>2.31789791481199,48.9000627478244</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>LOBLIGEOIS</description>
+	<Point>
+		<coordinates>2.31893884350656,48.8861058448129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>FLOREAL</description>
+	<Point>
+		<coordinates>2.31898851273262,48.8998472291597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.32287945638296,48.8783054562201</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>BUCAREST</description>
+	<Point>
+		<coordinates>2.32451407790122,48.8802379045771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>PORTE POUCHET</description>
+	<Point>
+		<coordinates>2.32250628294838,48.8968550032316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33256805862983,48.8710444920865</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32989763499652,48.8720329627605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>ROME-HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32610972020896,48.8738930425589</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>VICTOR HUGO-MOREL</description>
+	<Point>
+		<coordinates>2.31740656382096,48.9016713592883</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>BOULEVARD DES BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.32391376399345,48.8831766693276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>BOIS LE PRETRE</description>
+	<Point>
+		<coordinates>2.32137430588494,48.8989129104923</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>LA JONQUIERE</description>
+	<Point>
+		<coordinates>2.32080314405006,48.8946619169107</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>GLUCK-HAUSSMANN</description>
+	<Point>
+		<coordinates>2.33169593573988,48.87285090606</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>PORTE POUCHET</description>
+	<Point>
+		<coordinates>2.32363749715997,48.897358417382</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33274512472193,48.8715567764675</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>BUCAREST</description>
+	<Point>
+		<coordinates>2.32436400301219,48.8809838307795</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>HAVRE-HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32788106030677,48.8731382610777</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>HAVRE-CAUMARTIN</description>
+	<Point>
+		<coordinates>2.32775834484125,48.8736595153468</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>BOULEVARD DES BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.32357335255282,48.8821700596422</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>GARE SAINT LAZARE</description>
+	<Point>
+		<coordinates>2.32358863536667,48.8758879605314</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>PARC MARTIN LUTHER KING</description>
+	<Point>
+		<coordinates>2.31604848124585,48.8891789898803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>LA CONDAMINE</description>
+	<Point>
+		<coordinates>2.31917103745973,48.8846140013784</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>SQUARE DES BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.31753479855205,48.8870942142297</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>BOIS LE PRETRE</description>
+	<Point>
+		<coordinates>2.32157872255355,48.89908369285</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.32285215234896,48.8784941856651</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>PARC MARTIN LUTHER KING</description>
+	<Point>
+		<coordinates>2.31599415091599,48.8887296204132</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>GENERAL LECLERC-VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.3163436926586,48.9006286733753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>66 (BOULEVARD VICTOR HUGO/OPERA)</name>
+	<description>MAIRIE DU XVII</description>
+	<Point>
+		<coordinates>2.32199204626665,48.8841919962321</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>VERLAINE</description>
+	<Point>
+		<coordinates>2.35293648142442,48.8283170561546</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35619132817521,48.8321992365943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>RUE VIEILLE DU TEMPLE-MAIRIE DU 4EME</description>
+	<Point>
+		<coordinates>2.35637720010504,48.8563307059958</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>SAINT-MARCEL - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35682013054137,48.8390207124926</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>JUSSIEU</description>
+	<Point>
+		<coordinates>2.35471188973608,48.8454381422263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>HOTEL DE VILLE.</description>
+	<Point>
+		<coordinates>2.35038463053681,48.8572931725697</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>PONT SULLY - QUAI DE BETHUNE</description>
+	<Point>
+		<coordinates>2.35941179796877,48.8500838967555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>INSTITUT DU MONDE ARABE</description>
+	<Point>
+		<coordinates>2.35565273679265,48.8489970511867</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>PONT MARIE</description>
+	<Point>
+		<coordinates>2.35670319438406,48.8539669554787</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>CUVIER - JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.35487485613989,48.8441439154642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35492472497023,48.8306445737768</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>RUNGIS</description>
+	<Point>
+		<coordinates>2.3473950274618,48.8227183460525</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>BUFFON - LA MOSQUEE</description>
+	<Point>
+		<coordinates>2.35582715574255,48.8416901742849</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>RUBENS - ECOLE DES ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35753978326004,48.8339875476442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>JENNER - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35897009433405,48.8359555776418</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>SULLY-MORLAND</description>
+	<Point>
+		<coordinates>2.36206805884261,48.8514944066165</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.3524685258237,48.8572659623211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/HOTEL DE VILLE.)</name>
+	<description>BOBILLOT-TOLBIAC</description>
+	<Point>
+		<coordinates>2.35077148745269,48.8260973730615</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>PROVENCE - FAUBOURG MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34290885169107,48.8733991274738</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>CUVIER - JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.35487485613989,48.8441439154642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>GRANDS BOULEVARDS</description>
+	<Point>
+		<coordinates>2.34282681283582,48.8706849606959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>JENNER - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35897009433405,48.8359555776418</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>RUNGIS</description>
+	<Point>
+		<coordinates>2.3473950274618,48.8227183460525</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34888663533768,48.8583448569232</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>COQUILLIERE - LES HALLES</description>
+	<Point>
+		<coordinates>2.34221304029484,48.8633513046511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>SAINT-MARCEL - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35682013054137,48.8390207124926</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>INSTITUT DU MONDE ARABE</description>
+	<Point>
+		<coordinates>2.35565273679265,48.8489970511867</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35619132817521,48.8321992365943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>PIGALLE</description>
+	<Point>
+		<coordinates>2.33867187237277,48.8823326067783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>JUSSIEU</description>
+	<Point>
+		<coordinates>2.35471188973608,48.8454381422263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>BOBILLOT-TOLBIAC</description>
+	<Point>
+		<coordinates>2.35077148745269,48.8260973730615</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>CARREFOUR DE CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33980260620594,48.8763201066956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>PONT SULLY - QUAI DE BETHUNE</description>
+	<Point>
+		<coordinates>2.35941179796877,48.8500838967555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>SULLY-MORLAND</description>
+	<Point>
+		<coordinates>2.36206805884261,48.8514944066165</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>REAUMUR - MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34357582814914,48.8682763165031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.3524685258237,48.8572659623211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35492472497023,48.8306445737768</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>VERLAINE</description>
+	<Point>
+		<coordinates>2.35293648142442,48.8283170561546</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>RUBENS - ECOLE DES ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35753978326004,48.8339875476442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>PONT MARIE</description>
+	<Point>
+		<coordinates>2.35670319438406,48.8539669554787</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>RIVOLI - PONT NEUF</description>
+	<Point>
+		<coordinates>2.34391533690321,48.8599449984755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>LOUVRE - ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.34338479347615,48.8656520181725</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>BUFFON - LA MOSQUEE</description>
+	<Point>
+		<coordinates>2.35582715574255,48.8416901742849</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>LOUVRE - RIVOLI</description>
+	<Point>
+		<coordinates>2.34108226683374,48.8612123471894</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (/PIGALLE)</name>
+	<description>RUE VIEILLE DU TEMPLE-MAIRIE DU 4EME</description>
+	<Point>
+		<coordinates>2.35637720010504,48.8563307059958</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>COQUILLIERE - LES HALLES</description>
+	<Point>
+		<coordinates>2.34221304029484,48.8633513046511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PROVENCE - DROUOT</description>
+	<Point>
+		<coordinates>2.34060638619562,48.8745945261647</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.3548160985321,48.8314714507636</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>SAINT-MARCEL - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35654747657141,48.8380950378526</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>JENNER - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35897009433405,48.8359555776418</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>NAVARIN</description>
+	<Point>
+		<coordinates>2.33728193129601,48.8801666874136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>BIBLIOTHEQUE NATIONALE</description>
+	<Point>
+		<coordinates>2.33777235399404,48.8678001536222</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>CARREFOUR DE CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33980260620594,48.8763201066956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>BUFFON-LA MOSQUEE</description>
+	<Point>
+		<coordinates>2.35601745402097,48.8407824024061</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>MOULIN DES PRES</description>
+	<Point>
+		<coordinates>2.35259662157992,48.8298629732793</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PALAIS ROYAL - COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.33594699104977,48.8628481071538</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35492472497023,48.8306445737768</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>JUSSIEU</description>
+	<Point>
+		<coordinates>2.35471188973608,48.8454381422263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>ROCHECHOUART-MARTYRS</description>
+	<Point>
+		<coordinates>2.33998000239577,48.881406897512</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>GRANDS BOULEVARDS</description>
+	<Point>
+		<coordinates>2.34282681283582,48.8706849606959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>AMIRAL MOUCHEZ</description>
+	<Point>
+		<coordinates>2.34459100662899,48.8219276359857</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>LOUVRE - RIVOLI</description>
+	<Point>
+		<coordinates>2.34052375563722,48.860619195336</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>CUVIER - JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.35487485613989,48.8441439154642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>CARREFOUR DE CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33920307388938,48.8757898678731</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.3483278354662,48.8566732488708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>LOUVRE - ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.34338479347615,48.8656520181725</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>RUNGIS</description>
+	<Point>
+		<coordinates>2.3473950274618,48.8227183460525</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.34888663533768,48.8583448569232</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>RUBENS - ECOLE DES ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35753978326004,48.8339875476442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PONT NEUF - QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.3427982244337,48.8581475726872</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>SAINT-GEORGES - CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33694129719765,48.876311146268</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>CUVIER-JARDIN DES PLANTES</description>
+	<Point>
+		<coordinates>2.35479309134643,48.8439551895205</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PIGALLE</description>
+	<Point>
+		<coordinates>2.33867187237277,48.8823326067783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>VERLAINE</description>
+	<Point>
+		<coordinates>2.35221485924368,48.8277958659065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>VERLAINE</description>
+	<Point>
+		<coordinates>2.35293648142442,48.8283170561546</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>BUFFON - LA MOSQUEE</description>
+	<Point>
+		<coordinates>2.35582715574255,48.8416901742849</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>SAINT-MARCEL - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35682013054137,48.8390207124926</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>RICHELIEU - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33876689433614,48.8697953354569</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>JUSSIEU</description>
+	<Point>
+		<coordinates>2.35441255875468,48.8461841492083</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>LOUVRE - RIVOLI</description>
+	<Point>
+		<coordinates>2.34108226683374,48.8612123471894</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>INSTITUT DU MONDE ARABE</description>
+	<Point>
+		<coordinates>2.3555574544661,48.8491228907035</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>SULLY-MORLAND</description>
+	<Point>
+		<coordinates>2.36206805884261,48.8514944066165</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PROVENCE - FAUBOURG MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34290885169107,48.8733991274738</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PONT MARIE</description>
+	<Point>
+		<coordinates>2.35670319438406,48.8539669554787</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>RIVOLI - PONT NEUF</description>
+	<Point>
+		<coordinates>2.34391533690321,48.8599449984755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>SAINT-GEORGES</description>
+	<Point>
+		<coordinates>2.33710479441594,48.8784501194065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PONT LOUIS PHILIPPE</description>
+	<Point>
+		<coordinates>2.35508253417102,48.8541110083377</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.34990765750363,48.856214732361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>INSTITUT DU MONDE ARABE</description>
+	<Point>
+		<coordinates>2.35565273679265,48.8489970511867</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>RICHELIEU - DROUOT - MAIRIE DU 9E</description>
+	<Point>
+		<coordinates>2.3399113974136,48.8722039192272</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35619132817521,48.8321992365943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>RUE VIEILLE DU TEMPLE-MAIRIE DU 4EME</description>
+	<Point>
+		<coordinates>2.35637720010504,48.8563307059958</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>REAUMUR - MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34357582814914,48.8682763165031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>JENNER - JEANNE D'ARC</description>
+	<Point>
+		<coordinates>2.35888854866197,48.8362971206071</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>RUBENS - ECOLE DES ARTS ET METIERS</description>
+	<Point>
+		<coordinates>2.35706323946276,48.8338618015197</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>BOBILLOT-TOLBIAC</description>
+	<Point>
+		<coordinates>2.34975041584074,48.8254144227279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>PONT SULLY - QUAI DE BETHUNE</description>
+	<Point>
+		<coordinates>2.35941179796877,48.8500838967555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>RUNGIS</description>
+	<Point>
+		<coordinates>2.34743594220788,48.8231317757057</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>ILE SAINT-LOUIS</description>
+	<Point>
+		<coordinates>2.35623927911068,48.8516302904843</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.3524685258237,48.8572659623211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>NAVARIN</description>
+	<Point>
+		<coordinates>2.33999350882397,48.8791331205446</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>67 (STADE CHARLETY-PORTE DE GENTILLY/PIGALLE)</name>
+	<description>BOBILLOT-TOLBIAC</description>
+	<Point>
+		<coordinates>2.35077148745269,48.8260973730615</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33240470720012,48.8695975249987</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>NOTRE-DAME-DES-CHAMPS</description>
+	<Point>
+		<coordinates>2.32841722147113,48.8449268058275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>NOTRE-DAME-DES-CHAMPS</description>
+	<Point>
+		<coordinates>2.32893471782376,48.8446212674511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>RUE DU CHERCHE MIDI</description>
+	<Point>
+		<coordinates>2.32739499421868,48.8499237755022</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>MOUTON - DUVERNET</description>
+	<Point>
+		<coordinates>2.32988974800787,48.8316342956597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>MOUTON - DUVERNET</description>
+	<Point>
+		<coordinates>2.32929092981564,48.8304748543413</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>OPERA - 4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33273165666107,48.869768297264</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>DENFERT-ROCHEREAU</description>
+	<Point>
+		<coordinates>2.33134616739847,48.8336565883824</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32683624310107,48.851909959795</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>MUSEE D'ORSAY</description>
+	<Point>
+		<coordinates>2.32571748906891,48.8609332407767</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>HAUSSMANN - MOGADOR</description>
+	<Point>
+		<coordinates>2.33131434118185,48.8738305044925</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PONT ROYAL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.32901413434145,48.8590102090045</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>LIEGE</description>
+	<Point>
+		<coordinates>2.32894261597475,48.8803191810406</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>RENNES - RASPAIL</description>
+	<Point>
+		<coordinates>2.32740886159035,48.8486116036289</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>OPERA - SCRIBE</description>
+	<Point>
+		<coordinates>2.33072866431696,48.8723835165984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>BLANCHE</description>
+	<Point>
+		<coordinates>2.33203552474116,48.8829885696519</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>TRINITE</description>
+	<Point>
+		<coordinates>2.33120510931943,48.8758436540824</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PORTE D'ORLEANS - ERNEST REYER</description>
+	<Point>
+		<coordinates>2.3231535451905,48.8224213497105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>CHAUSSEE D'ANTIN</description>
+	<Point>
+		<coordinates>2.33251325740976,48.874387771117</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>RUE DU BAC-RENE CHAR</description>
+	<Point>
+		<coordinates>2.32476505202063,48.8565742473218</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PORTE D'ORLEANS</description>
+	<Point>
+		<coordinates>2.32569857252873,48.8235630588894</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PONT DU CARROUSEL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.33157484502486,48.8588935221897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>VICTOR CONSIDERANT</description>
+	<Point>
+		<coordinates>2.33205391845458,48.8354631275988</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.33361776082357,48.8615988113689</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>VARENNE - RASPAIL</description>
+	<Point>
+		<coordinates>2.32637283771051,48.8536444983189</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>VARENNE - RASPAIL</description>
+	<Point>
+		<coordinates>2.32582800732823,48.8539050834588</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PETITS CHAMPS - DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.33360369921072,48.867854022962</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>ALESIA - MAINE</description>
+	<Point>
+		<coordinates>2.3279025879169,48.8293153495368</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>DENFERT-ROCHEREAU</description>
+	<Point>
+		<coordinates>2.33314324705575,48.8333870359585</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>VICTOR CONSIDERANT</description>
+	<Point>
+		<coordinates>2.33178165300172,48.8352204505385</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>MONCEY</description>
+	<Point>
+		<coordinates>2.33120465110289,48.8797710943917</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>TRINITE</description>
+	<Point>
+		<coordinates>2.33185911026119,48.8759065965261</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.3336310238009,48.8667306044441</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>VAVIN</description>
+	<Point>
+		<coordinates>2.32988834361401,48.8415296194441</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32646853737944,48.8518919521327</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>RASPAIL-EDGAR QUINET</description>
+	<Point>
+		<coordinates>2.3307736971552,48.8390940444708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>BLANCHE CALAIS</description>
+	<Point>
+		<coordinates>2.33159956747908,48.881999953021</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32665059232275,48.8273829024511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>RENNES - RASPAIL</description>
+	<Point>
+		<coordinates>2.32779016075332,48.8486385970096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PONT ROYAL - QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.32849640382692,48.85985498883</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PYRAMIDES - SAINT-HONORE</description>
+	<Point>
+		<coordinates>2.33244609184175,48.864052326641</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32325283346741,48.8580120676646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33269065391195,48.8712691800065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32646764782779,48.8561699790956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PLACE DE CLICHY</description>
+	<Point>
+		<coordinates>2.32772935559641,48.883132099142</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>RASPAIL-EDGAR QUINET</description>
+	<Point>
+		<coordinates>2.33062401157727,48.8384289565941</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>CIMETIERE DE MONTROUGE</description>
+	<Point>
+		<coordinates>2.32175185106399,48.8215763331467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>68 (CHATILLON-MONTROUGE-METRO/PLACE DE CLICHY)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.33423045149997,48.8662812531322</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

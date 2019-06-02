@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>DAMREMONT - ORDENER</description>
+	<Point>
+		<coordinates>2.33653229631211,48.8937463598459</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>ARMAND CARREL - MAIRIE DU 19E</description>
+	<Point>
+		<coordinates>2.38210048893579,48.8821084829745</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PLACE DE TORCY</description>
+	<Point>
+		<coordinates>2.36114675034291,48.8914073034276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>EVANGILE - AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37044454390189,48.8955391719532</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PLACE DES FETES</description>
+	<Point>
+		<coordinates>2.39301048984644,48.8773945507647</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PELLEPORT - GAMBETTA</description>
+	<Point>
+		<coordinates>2.4011341735172,48.8686458144021</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PIXERECOURT</description>
+	<Point>
+		<coordinates>2.39499770941862,48.8754972861416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>MAIRIE DU 18E - JULES JOFFRIN</description>
+	<Point>
+		<coordinates>2.34528241891009,48.8921373889097</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PORTE DE MONTMARTRE</description>
+	<Point>
+		<coordinates>2.33480098349602,48.9005136494404</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>PLACE DES FETES</description>
+	<Point>
+		<coordinates>2.39382633659724,48.8758483525684</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>FLANDRE</description>
+	<Point>
+		<coordinates>2.37964209253887,48.8919593659879</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>60 (PORTE DE MONTMARTRE/GAMBETTA)</name>
+	<description>ARMAND CARREL - MAIRIE DU 19E</description>
+	<Point>
+		<coordinates>2.38263230392524,48.8825306822166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37122967444756,48.8456772379251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36417514602389,48.8441331885067</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>GARE DE LYON - DIDEROT</description>
+	<Point>
+		<coordinates>2.37302712419482,48.8456407614732</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>BASFROI</description>
+	<Point>
+		<coordinates>2.37844112470062,48.855669036959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>LEDRU ROLLIN - FAUBOURG SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.37632685818048,48.8514366573733</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>SAINT MAUR - SERVAN</description>
+	<Point>
+		<coordinates>2.38453204215558,48.8587854132349</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>SAINT-MAUR - SERVAN</description>
+	<Point>
+		<coordinates>2.38435476119429,48.8585518105596</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>PISCINE DES TOURELLES</description>
+	<Point>
+		<coordinates>2.4057060335086,48.8747546570136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>ROQUETTE - PERE LACHAISE</description>
+	<Point>
+		<coordinates>2.38638533050871,48.8597103670221</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>PONT D'AUSTERLITZ - QUAI DE LA RAPEE</description>
+	<Point>
+		<coordinates>2.36865582724035,48.8453633814555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>MURIERS</description>
+	<Point>
+		<coordinates>2.39162003900342,48.8637883713953</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36448852177461,48.8444926181645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>SAINT-FARGEAU</description>
+	<Point>
+		<coordinates>2.40421653541909,48.8713582979964</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>GAMBETTA - MAIRIE DU 20E</description>
+	<Point>
+		<coordinates>2.39900533784633,48.8656181968984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>PELLEPORT - GAMBETTA</description>
+	<Point>
+		<coordinates>2.40099715646502,48.8680077859215</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>PONT D'AUSTERLITZ - QUAI DE LA RAPEE</description>
+	<Point>
+		<coordinates>2.36906424802594,48.8452104852814</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>CHARONNE - KELLER</description>
+	<Point>
+		<coordinates>2.37730869166046,48.8530990123745</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>FOLIE REGNAULT - CHEMIN VERT</description>
+	<Point>
+		<coordinates>2.38529748903153,48.861688039793</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>CHARONNE-KELLER</description>
+	<Point>
+		<coordinates>2.37734998691201,48.8536652083102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>AUGUSTE METIVIER</description>
+	<Point>
+		<coordinates>2.38779112234912,48.8626216969919</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>DAUMESNIL - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37312435888949,48.848408883349</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>DAUMESNIL - LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37274338223305,48.8488853345591</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>BASFROI</description>
+	<Point>
+		<coordinates>2.37854979013542,48.8553005141956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>VOLTAIRE - LEON BLUM</description>
+	<Point>
+		<coordinates>2.38179352287085,48.8578967139456</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>PELLEPORT-GAMBETTA</description>
+	<Point>
+		<coordinates>2.40178798933252,48.8685645759124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>ROQUETTE - PERE LACHAISE</description>
+	<Point>
+		<coordinates>2.38881059488406,48.8604552970005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>AUGUSTE METIVIER</description>
+	<Point>
+		<coordinates>2.38787331738641,48.8630979937189</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>PISCINE DES TOURELLES</description>
+	<Point>
+		<coordinates>2.40536522297514,48.8746110554504</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>MURIERS</description>
+	<Point>
+		<coordinates>2.39168841308917,48.8640399868608</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>MARTIN NADAUD</description>
+	<Point>
+		<coordinates>2.39528534864951,48.8646763928766</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>GAMBETTA - MAIRIE DU 20E</description>
+	<Point>
+		<coordinates>2.39915498111754,48.8654473591979</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>SAINT-FARGEAU</description>
+	<Point>
+		<coordinates>2.40442208257399,48.8722748894461</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>MARTIN NADAUD</description>
+	<Point>
+		<coordinates>2.39460470490908,48.8650991291092</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>LEDRU ROLLIN-FAUBOURG SAINT-ANTOINE</description>
+	<Point>
+		<coordinates>2.37560471924267,48.8509695434831</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>61 (EGLISE DE PANTIN-METRO/GARE D'AUSTERLITZ)</name>
+	<description>VOLTAIRE - LEON BLUM</description>
+	<Point>
+		<coordinates>2.38075845997302,48.8580049455794</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.3773449047911,48.8294707430851</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>LABROUSTE</description>
+	<Point>
+		<coordinates>2.30850175061554,48.8336442757781</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>VERGNIAUD</description>
+	<Point>
+		<coordinates>2.34599361184128,48.8259180666801</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34210061481147,48.8264395727887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PLAISANCE - HOPITAL SAINT-JOSEPH</description>
+	<Point>
+		<coordinates>2.31438392194526,48.8316233392961</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>ALESIA - JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.32586093710224,48.8279939892125</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CHARDON-LAGACHE - MOLITOR</description>
+	<Point>
+		<coordinates>2.2662693354536,48.8447262273316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BOBILLOT - TOLBIAC</description>
+	<Point>
+		<coordinates>2.35143839411301,48.8257827275152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>OLYMPIADES</description>
+	<Point>
+		<coordinates>2.36736515695904,48.8270020848632</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>ITALIE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.35780901156677,48.8262761188946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>FELIX FAURE</description>
+	<Point>
+		<coordinates>2.28812826582457,48.8408546356192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32767142184941,48.8279402228531</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CONVENTION - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.29612352342753,48.8374693551916</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>LES PLANTES</description>
+	<Point>
+		<coordinates>2.32317891517408,48.8292519713977</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MICHEL-ANGE - MOLITOR</description>
+	<Point>
+		<coordinates>2.26358325560146,48.8472141373651</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND.</description>
+	<Point>
+		<coordinates>2.37432256675968,48.8291122172778</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36431577439684,48.8265803976316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>LA TOMBE ISSOIRE</description>
+	<Point>
+		<coordinates>2.3318232629587,48.82789554641</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BOBILLOT - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34943744939818,48.8258728257096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>LES PLANTES</description>
+	<Point>
+		<coordinates>2.32301560695731,48.8290811869683</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37041468096808,48.8275674961309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BRANCION - VOUILLE</description>
+	<Point>
+		<coordinates>2.30541080986556,48.8345332613491</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CONVENTION - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.29673656683244,48.8370022114851</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PLACE CHARLES VALLIN</description>
+	<Point>
+		<coordinates>2.3019655956849,48.8357006767832</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>VERSAILLES - CHARDON LAGACHE</description>
+	<Point>
+		<coordinates>2.26220549145011,48.8394480481279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CONVENTION - SAINT-CHARLES</description>
+	<Point>
+		<coordinates>2.28222968450519,48.8435573055393</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BOUCICAUT</description>
+	<Point>
+		<coordinates>2.28514477197019,48.8424441626209</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>JAVEL</description>
+	<Point>
+		<coordinates>2.27815593445166,48.8456314712997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MOULIN DES PRES</description>
+	<Point>
+		<coordinates>2.35271800093764,48.8260432101636</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PONT MIRABEAU</description>
+	<Point>
+		<coordinates>2.27368759335327,48.847175021776</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>ALESIA - JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.32588810323904,48.8282636209969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.37719566012558,48.8301179025186</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CONVENTION - LECOURBE</description>
+	<Point>
+		<coordinates>2.29296380536178,48.8386635684895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PONT MIRABEAU</description>
+	<Point>
+		<coordinates>2.27288359608123,48.8476239650675</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>VERCINGETORIX</description>
+	<Point>
+		<coordinates>2.31204201250037,48.8324047886402</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>ITALIE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.35684247148716,48.8260695658364</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37173520493732,48.8277378861805</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>FELIX FAURE</description>
+	<Point>
+		<coordinates>2.28863203965601,48.8408728174847</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>RENE COTY</description>
+	<Point>
+		<coordinates>2.33577092090392,48.8274193159298</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>EGLISE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26950595087577,48.8479636165489</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.3412158234871,48.826448593185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PORTE DE SAINT-CLOUD - MURAT</description>
+	<Point>
+		<coordinates>2.25786405711511,48.8381779857827</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND - AVENUE DE FRANCE</description>
+	<Point>
+		<coordinates>2.37680079663706,48.830010182826</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PORTE DE SAINT-CLOUD</description>
+	<Point>
+		<coordinates>2.25617622870283,48.8378802585645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>WILHEM - VERSAILLES</description>
+	<Point>
+		<coordinates>2.27247714014558,48.845961055819</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>ALESIA - DIDOT</description>
+	<Point>
+		<coordinates>2.3188359400732,48.8305276217888</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MICHEL-ANGE - VARIZE</description>
+	<Point>
+		<coordinates>2.25854064768312,48.8409286287468</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>LA TOMBE ISSOIRE</description>
+	<Point>
+		<coordinates>2.33148297777121,48.8276348887811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CHOISY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.36108956239558,48.8263294331124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>VERGNIAUD</description>
+	<Point>
+		<coordinates>2.34576218197331,48.8257652932956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>EGLISE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26949371835294,48.8469030842361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BRANCION - VOUILLE</description>
+	<Point>
+		<coordinates>2.30471622096826,48.8349465028132</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BOUCICAUT</description>
+	<Point>
+		<coordinates>2.2847090477787,48.8424439711534</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>EXELMANS</description>
+	<Point>
+		<coordinates>2.26225106689105,48.8455955537964</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PLACE CHARLES VALLIN</description>
+	<Point>
+		<coordinates>2.30301425894275,48.8351886904768</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>OLYMPIADES</description>
+	<Point>
+		<coordinates>2.36717465686944,48.827127959969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>LABROUSTE</description>
+	<Point>
+		<coordinates>2.30787527932401,48.8340395771937</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MOULIN DES PRES</description>
+	<Point>
+		<coordinates>2.35433780597276,48.8259441244961</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>MICHEL-ANGE - AUTEUIL</description>
+	<Point>
+		<coordinates>2.26505313407781,48.8478082127574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CHOISY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.36111669991498,48.8261406869496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>JOUVENET</description>
+	<Point>
+		<coordinates>2.26463771363382,48.8429996379284</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CONVENTION - SAINT-CHARLES</description>
+	<Point>
+		<coordinates>2.28252915650317,48.8436473188347</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36492844895846,48.8268139356788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PLAISANCE - HOPITAL SAINT-JOSEPH</description>
+	<Point>
+		<coordinates>2.31382560433435,48.8319827352742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32741281694555,48.8277604489267</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>CONVENTION - LECOURBE</description>
+	<Point>
+		<coordinates>2.29162870684991,48.8395618205599</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>ALESIA - DIDOT</description>
+	<Point>
+		<coordinates>2.31856356164377,48.8308421460862</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>RENE COTY</description>
+	<Point>
+		<coordinates>2.33567563818168,48.8272755123833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>JAVEL</description>
+	<Point>
+		<coordinates>2.27748860800024,48.8457030383877</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PORTE DE SAINT-CLOUD</description>
+	<Point>
+		<coordinates>2.25617622870283,48.8378802585645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND.</description>
+	<Point>
+		<coordinates>2.37504450780514,48.82974112447</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PORTE DE SAINT-CLOUD - MICHEL-ANGE</description>
+	<Point>
+		<coordinates>2.25756363798181,48.8387529895372</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>VERCINGETORIX</description>
+	<Point>
+		<coordinates>2.31083003645552,48.8330965715357</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34210061481147,48.8264395727887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PLACE CHARLES VALLIN</description>
+	<Point>
+		<coordinates>2.3019655956849,48.8357006767832</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32767142184941,48.8279402228531</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>CONVENTION - SAINT-CHARLES</description>
+	<Point>
+		<coordinates>2.28252915650317,48.8436473188347</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>LABROUSTE</description>
+	<Point>
+		<coordinates>2.30787527932401,48.8340395771937</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>CONVENTION - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.29673656683244,48.8370022114851</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>MOULIN DES PRES</description>
+	<Point>
+		<coordinates>2.35433780597276,48.8259441244961</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>LES PLANTES</description>
+	<Point>
+		<coordinates>2.32317891517408,48.8292519713977</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>JOUVENET</description>
+	<Point>
+		<coordinates>2.26463771363382,48.8429996379284</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36492844895846,48.8268139356788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>LES PLANTES</description>
+	<Point>
+		<coordinates>2.32301560695731,48.8290811869683</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>VERCINGETORIX</description>
+	<Point>
+		<coordinates>2.31204201250037,48.8324047886402</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>LA TOMBE ISSOIRE</description>
+	<Point>
+		<coordinates>2.33148297777121,48.8276348887811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>ITALIE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.35780901156677,48.8262761188946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>ITALIE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.35684247148716,48.8260695658364</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>RENE COTY</description>
+	<Point>
+		<coordinates>2.33567563818168,48.8272755123833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>RENE COTY</description>
+	<Point>
+		<coordinates>2.33577092090392,48.8274193159298</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>FELIX FAURE</description>
+	<Point>
+		<coordinates>2.28863203965601,48.8408728174847</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PONT MIRABEAU</description>
+	<Point>
+		<coordinates>2.27288359608123,48.8476239650675</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>MICHEL-ANGE - MOLITOR</description>
+	<Point>
+		<coordinates>2.26358325560146,48.8472141373651</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE CHEVALERET</description>
+	<Point>
+		<coordinates>2.37493540108754,48.8294625425275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE RUE MANN</description>
+	<Point>
+		<coordinates>2.37813431591121,48.8292907219804</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PORTE DE FRANCE</description>
+	<Point>
+		<coordinates>2.38123545124125,48.8262068548511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>LABROUSTE</description>
+	<Point>
+		<coordinates>2.30850175061554,48.8336442757781</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>CONVENTION - LECOURBE</description>
+	<Point>
+		<coordinates>2.29296380536178,48.8386635684895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PORTE DE SAINT-CLOUD</description>
+	<Point>
+		<coordinates>2.25617622870283,48.8378802585645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>CONVENTION - VAUGIRARD</description>
+	<Point>
+		<coordinates>2.29612352342753,48.8374693551916</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>VERSAILLES - CHARDON LAGACHE</description>
+	<Point>
+		<coordinates>2.26220549145011,48.8394480481279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>CHOISY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.36108956239558,48.8263294331124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE CHEVALERET</description>
+	<Point>
+		<coordinates>2.37565736108571,48.8301004334506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>CONVENTION - LECOURBE</description>
+	<Point>
+		<coordinates>2.29162870684991,48.8395618205599</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>CHOISY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.36111669991498,48.8261406869496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PLAISANCE - HOPITAL SAINT-JOSEPH</description>
+	<Point>
+		<coordinates>2.31382560433435,48.8319827352742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE RUE MANN</description>
+	<Point>
+		<coordinates>2.37809310222862,48.8288143915192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>VERCINGETORIX</description>
+	<Point>
+		<coordinates>2.31083003645552,48.8330965715357</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>CHARDON-LAGACHE - MOLITOR</description>
+	<Point>
+		<coordinates>2.2662693354536,48.8447262273316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36431577439684,48.8265803976316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PORTE DE SAINT-CLOUD - MURAT</description>
+	<Point>
+		<coordinates>2.25786405711511,48.8381779857827</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BOUCICAUT</description>
+	<Point>
+		<coordinates>2.28514477197019,48.8424441626209</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>CONVENTION - SAINT-CHARLES</description>
+	<Point>
+		<coordinates>2.28222968450519,48.8435573055393</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37041468096808,48.8275674961309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>EGLISE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26949371835294,48.8469030842361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>GLACIERE - TOLBIAC</description>
+	<Point>
+		<coordinates>2.3412158234871,48.826448593185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>MICHEL-ANGE - VARIZE</description>
+	<Point>
+		<coordinates>2.25854064768312,48.8409286287468</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>JAVEL</description>
+	<Point>
+		<coordinates>2.27815593445166,48.8456314712997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37173520493732,48.8277378861805</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PORTE DE SAINT-CLOUD</description>
+	<Point>
+		<coordinates>2.25617622870283,48.8378802585645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>FELIX FAURE</description>
+	<Point>
+		<coordinates>2.28812826582457,48.8408546356192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>VERGNIAUD</description>
+	<Point>
+		<coordinates>2.34576218197331,48.8257652932956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PORTE DE SAINT-CLOUD - MICHEL-ANGE</description>
+	<Point>
+		<coordinates>2.25756363798181,48.8387529895372</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>VERGNIAUD</description>
+	<Point>
+		<coordinates>2.34599361184128,48.8259180666801</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>EGLISE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26950595087577,48.8479636165489</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BRANCION - VOUILLE</description>
+	<Point>
+		<coordinates>2.30471622096826,48.8349465028132</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BIBLIOTHEQUE F.MITTERRAND</description>
+	<Point>
+		<coordinates>2.37686892398897,48.830091048816</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>OLYMPIADES</description>
+	<Point>
+		<coordinates>2.36717465686944,48.827127959969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BOBILLOT - TOLBIAC</description>
+	<Point>
+		<coordinates>2.34943744939818,48.8258728257096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>LA TOMBE ISSOIRE</description>
+	<Point>
+		<coordinates>2.3318232629587,48.82789554641</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>ALESIA - JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.32586093710224,48.8279939892125</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PLAISANCE - HOPITAL SAINT-JOSEPH</description>
+	<Point>
+		<coordinates>2.31438392194526,48.8316233392961</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BRANCION - VOUILLE</description>
+	<Point>
+		<coordinates>2.30541080986556,48.8345332613491</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BOUCICAUT</description>
+	<Point>
+		<coordinates>2.2847090477787,48.8424439711534</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>ALESIA - JEAN MOULIN</description>
+	<Point>
+		<coordinates>2.32588810323904,48.8282636209969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>ALESIA - DIDOT</description>
+	<Point>
+		<coordinates>2.3188359400732,48.8305276217888</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>ALESIA - DIDOT</description>
+	<Point>
+		<coordinates>2.31856356164377,48.8308421460862</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>OLYMPIADES</description>
+	<Point>
+		<coordinates>2.36736515695904,48.8270020848632</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>MOULIN DES PRES</description>
+	<Point>
+		<coordinates>2.35271800093764,48.8260432101636</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>BOBILLOT - TOLBIAC</description>
+	<Point>
+		<coordinates>2.35143839411301,48.8257827275152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>ALESIA - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.32741281694555,48.8277604489267</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PLACE CHARLES VALLIN</description>
+	<Point>
+		<coordinates>2.30301425894275,48.8351886904768</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>JAVEL</description>
+	<Point>
+		<coordinates>2.27748860800024,48.8457030383877</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>PONT MIRABEAU</description>
+	<Point>
+		<coordinates>2.27368759335327,48.847175021776</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>EXELMANS</description>
+	<Point>
+		<coordinates>2.26225106689105,48.8455955537964</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>MICHEL-ANGE - AUTEUIL</description>
+	<Point>
+		<coordinates>2.26505313407781,48.8478082127574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>62 (PORTE DE SAINT-CLOUD/PORTE DE FRANCE)</name>
+	<description>WILHEM - VERSAILLES</description>
+	<Point>
+		<coordinates>2.27247714014558,48.845961055819</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>PONT DES INVALIDES - PLACE DE FINLANDE</description>
+	<Point>
+		<coordinates>2.31114180972938,48.8628272778904</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>UNIVERSITE PARIS VI</description>
+	<Point>
+		<coordinates>2.35789959871098,48.8486821207145</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>TROCADERO</description>
+	<Point>
+		<coordinates>2.288229849956,48.863035749838</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>GARE D'AUSTERLITZ</description>
+	<Point>
+		<coordinates>2.36429795047721,48.844618486894</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>BOSQUET - RAPP</description>
+	<Point>
+		<coordinates>2.30242416509442,48.8624296029599</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>63 (PORTE DE LA MUETTE/GARE DE LYON)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32133158554197,48.8604923525608</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

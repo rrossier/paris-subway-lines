@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>PANTIN RER - MAIRIE</description>
+	<Point>
+		<coordinates>2.401713616521,48.8964071048319</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>PORTE DE PANTIN</description>
+	<Point>
+		<coordinates>2.39643138591227,48.8901008533719</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>PORTE DE PANTIN</description>
+	<Point>
+		<coordinates>2.39532638765257,48.8891577416053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>HOCHE-METRO</description>
+	<Point>
+		<coordinates>2.4024571684582,48.8915356589005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>PETITS PONTS</description>
+	<Point>
+		<coordinates>2.39848950907955,48.8902346216076</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZA DU PONT YBLON/PORTE DE LA VILLETTE-METRO)</name>
+	<description>MAGENTA</description>
+	<Point>
+		<coordinates>2.3897644968415,48.9012300660077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZA DU PONT YBLON/PORTE DE LA VILLETTE-METRO)</name>
+	<description>QUATRE CHEMINS-METRO</description>
+	<Point>
+		<coordinates>2.39256183214567,48.9038620205371</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZA DU PONT YBLON/PORTE DE LA VILLETTE-METRO)</name>
+	<description>MAGENTA</description>
+	<Point>
+		<coordinates>2.38962868724999,48.9017334036148</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZA DU PONT YBLON/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PORTE DE LA VILLETTE-METRO</description>
+	<Point>
+		<coordinates>2.38750015798311,48.899730194136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZA DU PONT YBLON/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PORTE DE LA VILLETTE-METRO</description>
+	<Point>
+		<coordinates>2.38721362926691,48.8994517138797</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZA DU PONT YBLON/PORTE DE LA VILLETTE-METRO)</name>
+	<description>QUATRE CHEMINS-METRO</description>
+	<Point>
+		<coordinates>2.3922758546063,48.9041497396166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZAC DES TULIPES NORD/PORTE DE LA VILLETTE-METRO)</name>
+	<description>QUATRE CHEMINS-METRO</description>
+	<Point>
+		<coordinates>2.3922758546063,48.9041497396166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZAC DES TULIPES NORD/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PORTE DE LA VILLETTE-METRO</description>
+	<Point>
+		<coordinates>2.38750015798311,48.899730194136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZAC DES TULIPES NORD/PORTE DE LA VILLETTE-METRO)</name>
+	<description>MAGENTA</description>
+	<Point>
+		<coordinates>2.38962868724999,48.9017334036148</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZAC DES TULIPES NORD/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PORTE DE LA VILLETTE-METRO</description>
+	<Point>
+		<coordinates>2.38721362926691,48.8994517138797</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZAC DES TULIPES NORD/PORTE DE LA VILLETTE-METRO)</name>
+	<description>QUATRE CHEMINS-METRO</description>
+	<Point>
+		<coordinates>2.39256183214567,48.9038620205371</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152 (ZAC DES TULIPES NORD/PORTE DE LA VILLETTE-METRO)</name>
+	<description>MAGENTA</description>
+	<Point>
+		<coordinates>2.3897644968415,48.9012300660077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>153 (MOULIN NEUF/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PONT HAINGUERLOT</description>
+	<Point>
+		<coordinates>2.35914812585986,48.9029471686273</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>153 (MOULIN NEUF/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PROUDHON</description>
+	<Point>
+		<coordinates>2.35794966956173,48.90591311947</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>153 (MOULIN NEUF/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35929571450576,48.8973841185778</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>153 (MOULIN NEUF/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PROUDHON</description>
+	<Point>
+		<coordinates>2.35889036965701,48.905957887823</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>153 (MOULIN NEUF/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PONT HAINGUERLOT</description>
+	<Point>
+		<coordinates>2.35816659789712,48.9029383577447</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>153 (MOULIN NEUF/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35879163193296,48.8980043227678</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>157 (BOULEVARD DE SEINE/PONT DE NEUILLY-METRO)</name>
+	<description>SOLJENITSYNE</description>
+	<Point>
+		<coordinates>2.2499579975166,48.8841070790939</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>157 (BOULEVARD DE SEINE/PONT DE NEUILLY-METRO)</name>
+	<description>PONT DE NEUILLY-RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.25386290816912,48.8879204575671</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>157 (BOULEVARD DE SEINE/PONT DE NEUILLY-METRO)</name>
+	<description>RD 7-PONT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.25293670853877,48.8875962664072</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>157 (BOULEVARD DE SEINE/PONT DE NEUILLY-METRO)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25975425450444,48.8853091537363</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>157 (BOULEVARD DE SEINE/PONT DE NEUILLY-METRO)</name>
+	<description>BELLINI</description>
+	<Point>
+		<coordinates>2.25036528051561,48.8850240745169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>157 (BOULEVARD DE SEINE/PONT DE NEUILLY-METRO)</name>
+	<description>PONT DE NEUILLY-RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.25278830641314,48.8866704782851</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>158 (RUEIL-MALMAISON RER/PONT DE NEUILLY-METRO)</name>
+	<description>SOLJENITSYNE</description>
+	<Point>
+		<coordinates>2.2499579975166,48.8841070790939</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>158 (RUEIL-MALMAISON RER/PONT DE NEUILLY-METRO)</name>
+	<description>PONT DE NEUILLY - RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.25350974793593,48.8871922458761</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>158 (RUEIL-MALMAISON RER/PONT DE NEUILLY-METRO)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25915439472473,48.8854705322311</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>158 (RUEIL-MALMAISON RER/PONT DE NEUILLY-METRO)</name>
+	<description>RD 7 - PONT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.2521475841102,48.8867958435273</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>158 (RUEIL-MALMAISON RER/PONT DE NEUILLY-METRO)</name>
+	<description>BELLINI</description>
+	<Point>
+		<coordinates>2.25036528051561,48.8850240745169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>158 (RUEIL-MALMAISON RER/PONT DE NEUILLY-METRO)</name>
+	<description>PONT DE NEUILLY - RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.2527066703835,48.8865895354426</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>CHEZY</description>
+	<Point>
+		<coordinates>2.27246333767809,48.8897204727911</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>PORTE DE CHAMPERRET-METRO</description>
+	<Point>
+		<coordinates>2.29262336923114,48.8862067423858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>PAIX - VERDUN</description>
+	<Point>
+		<coordinates>2.26076738401231,48.900605971629</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>ILE DE LA JATTE</description>
+	<Point>
+		<coordinates>2.26695083002554,48.8944895391482</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27780819805371,48.8876562023155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>VERDUN - RUE LATERALE</description>
+	<Point>
+		<coordinates>2.2589379435334,48.9024561278753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.25623439431782,48.9052582933086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>VILLIERS - BINEAU</description>
+	<Point>
+		<coordinates>2.28227898151744,48.8869843075694</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>PLAISANCE</description>
+	<Point>
+		<coordinates>2.25431158232652,48.9056164543353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>BINEAU - CHATEAU</description>
+	<Point>
+		<coordinates>2.27043105922818,48.8909505955819</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>INKERMANN - BINEAU</description>
+	<Point>
+		<coordinates>2.27516350878249,48.8883288943178</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>LA SAUSSAYE - BINEAU</description>
+	<Point>
+		<coordinates>2.26887525247437,48.8925314565862</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>PONT BINEAU</description>
+	<Point>
+		<coordinates>2.26381177889495,48.8974084694651</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (LA GARENNE-COLOMBES - CHARLEBOURG/)</name>
+	<description>L'YSER ET LA SOMME</description>
+	<Point>
+		<coordinates>2.28959815393636,48.8860168395748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>BINEAU - CHATEAU</description>
+	<Point>
+		<coordinates>2.27043105922818,48.8909505955819</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>PORTE DE CHAMPERRET-METRO</description>
+	<Point>
+		<coordinates>2.29262336923114,48.8862067423858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>CHEZY</description>
+	<Point>
+		<coordinates>2.27246333767809,48.8897204727911</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27780819805371,48.8876562023155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.25623439431782,48.9052582933086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>PLAISANCE</description>
+	<Point>
+		<coordinates>2.25431158232652,48.9056164543353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>L'YSER ET LA SOMME</description>
+	<Point>
+		<coordinates>2.28959815393636,48.8860168395748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>PONT BINEAU</description>
+	<Point>
+		<coordinates>2.26381177889495,48.8974084694651</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>ILE DE LA JATTE</description>
+	<Point>
+		<coordinates>2.26695083002554,48.8944895391482</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>VILLIERS - BINEAU</description>
+	<Point>
+		<coordinates>2.28227898151744,48.8869843075694</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>LA SAUSSAYE - BINEAU</description>
+	<Point>
+		<coordinates>2.26887525247437,48.8925314565862</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>PAIX - VERDUN</description>
+	<Point>
+		<coordinates>2.26076738401231,48.900605971629</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>INKERMANN - BINEAU</description>
+	<Point>
+		<coordinates>2.27516350878249,48.8883288943178</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (NANTERRE-PREFECTURE-RER/)</name>
+	<description>VERDUN - RUE LATERALE</description>
+	<Point>
+		<coordinates>2.2589379435334,48.9024561278753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>PLAISANCE</description>
+	<Point>
+		<coordinates>2.25234828635107,48.9057049431778</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>LA SAUSSAYE - BINEAU</description>
+	<Point>
+		<coordinates>2.26887525247437,48.8925314565862</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>VERDUN - RUE LATERALE</description>
+	<Point>
+		<coordinates>2.25866573676876,48.9021683615243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>INKERMANN - BINEAU</description>
+	<Point>
+		<coordinates>2.27595455316012,48.8878260203194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>CHEZY</description>
+	<Point>
+		<coordinates>2.27246333767809,48.8897204727911</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>VERDUN - RUE LATERALE</description>
+	<Point>
+		<coordinates>2.2589379435334,48.9024561278753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>CHEZY</description>
+	<Point>
+		<coordinates>2.27288656709002,48.8891275472309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>PAIX - VERDUN</description>
+	<Point>
+		<coordinates>2.26076738401231,48.900605971629</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>VILLIERS - BINEAU</description>
+	<Point>
+		<coordinates>2.28227898151744,48.8869843075694</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>VILLIERS - BINEAU</description>
+	<Point>
+		<coordinates>2.28276993252662,48.8866609933308</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>L'YSER ET LA SOMME</description>
+	<Point>
+		<coordinates>2.28954391560699,48.8857202396198</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>ILE DE LA JATTE</description>
+	<Point>
+		<coordinates>2.26695083002554,48.8944895391482</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>INKERMANN - BINEAU</description>
+	<Point>
+		<coordinates>2.27516350878249,48.8883288943178</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.2561670315757,48.904745983882</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>PLAISANCE</description>
+	<Point>
+		<coordinates>2.25431158232652,48.9056164543353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>PORTE DE CHAMPERRET-METRO</description>
+	<Point>
+		<coordinates>2.29262336923114,48.8862067423858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>BINEAU - CHATEAU</description>
+	<Point>
+		<coordinates>2.27049976045237,48.8905192491733</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>LA SAUSSAYE - BINEAU</description>
+	<Point>
+		<coordinates>2.26845295155018,48.8923694444713</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>PONT BINEAU</description>
+	<Point>
+		<coordinates>2.26334817722004,48.8975160285903</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>L'YSER ET LA SOMME</description>
+	<Point>
+		<coordinates>2.28959815393636,48.8860168395748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>BINEAU - CHATEAU</description>
+	<Point>
+		<coordinates>2.27043105922818,48.8909505955819</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>PONT BINEAU</description>
+	<Point>
+		<coordinates>2.26381177889495,48.8974084694651</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.25623439431782,48.9052582933086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>PAIX - VERDUN</description>
+	<Point>
+		<coordinates>2.26030388086938,48.900623647587</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>ILE DE LA JATTE</description>
+	<Point>
+		<coordinates>2.26651497502131,48.8942646023229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27780819805371,48.8876562023155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163 (RUEIL - VILLE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27895343667363,48.8872433563942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>L'YSER ET LA SOMME</description>
+	<Point>
+		<coordinates>2.28959815393636,48.8860168395748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>PAIX-VERDUN</description>
+	<Point>
+		<coordinates>2.26059009265068,48.9006597804324</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>BINEAU-CHATEAU</description>
+	<Point>
+		<coordinates>2.27062257173386,48.8904024844521</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>VERDUN-RUE LATERALE</description>
+	<Point>
+		<coordinates>2.25882892716503,48.902429094914</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.25623439431782,48.9052582933086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27780819805371,48.8876562023155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>VILLIERS-BINEAU</description>
+	<Point>
+		<coordinates>2.28444650570098,48.8863382081989</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27895343667363,48.8872433563942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>PORTE DE CHAMPERRET</description>
+	<Point>
+		<coordinates>2.29254191981127,48.8858382358984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>L'YSER ET LA SOMME</description>
+	<Point>
+		<coordinates>2.28954391560699,48.8857202396198</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>LA SAUSSAYE-BINEAU</description>
+	<Point>
+		<coordinates>2.26877969134853,48.8926482349646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>BINEAU-CHATEAU</description>
+	<Point>
+		<coordinates>2.27040363869647,48.8910764007747</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>VERDUN-RUE LATERALE</description>
+	<Point>
+		<coordinates>2.25877495667343,48.9020605882401</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.2561670315757,48.904745983882</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>ILE DE LA JATTE</description>
+	<Point>
+		<coordinates>2.26695083002554,48.8944895391482</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>PONT BINEAU</description>
+	<Point>
+		<coordinates>2.26381177889495,48.8974084694651</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>INKERMANN-BINEAU</description>
+	<Point>
+		<coordinates>2.27583198364553,48.887754059564</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>INKERMANN-BINEAU</description>
+	<Point>
+		<coordinates>2.27494542143175,48.8883557421164</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>LA SAUSSAYE-BINEAU</description>
+	<Point>
+		<coordinates>2.26886239380633,48.8919472828646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>CHEZY</description>
+	<Point>
+		<coordinates>2.27246333767809,48.8897204727911</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>CHEZY</description>
+	<Point>
+		<coordinates>2.27288656709002,48.8891275472309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>ILE DE LA JATTE</description>
+	<Point>
+		<coordinates>2.26651497502131,48.8942646023229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>VILLIERS-BINEAU</description>
+	<Point>
+		<coordinates>2.28195197469193,48.8869212458014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164 (COLLEGE CLAUDE MONET/PORTE DE CHAMPERRET)</name>
+	<description>PAIX-VERDUN</description>
+	<Point>
+		<coordinates>2.26018102211296,48.9007404006918</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>PORTE DE COURCELLES</description>
+	<Point>
+		<coordinates>2.29428493477617,48.8874565755316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>RUE DES CHASSES</description>
+	<Point>
+		<coordinates>2.29188801094354,48.901152115104</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>VAILLANT COUTURIER</description>
+	<Point>
+		<coordinates>2.28735408850616,48.8954704387369</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>PORTE DE CHAMPERRET-METRO</description>
+	<Point>
+		<coordinates>2.29207860659115,48.8858021123051</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>COLLANGE</description>
+	<Point>
+		<coordinates>2.29403022893924,48.8987263898399</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>COLLANGE</description>
+	<Point>
+		<coordinates>2.28826381079013,48.8991825029248</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>RUE DE LA STATION</description>
+	<Point>
+		<coordinates>2.28625289980233,48.9064072838335</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>QUAI DE CLICHY</description>
+	<Point>
+		<coordinates>2.2900595315455,48.9031465413591</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>WILSON-COURCELLES</description>
+	<Point>
+		<coordinates>2.29193821967362,48.8905023660979</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>PORTE DE COURCELLES</description>
+	<Point>
+		<coordinates>2.29444813926399,48.8878610585424</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>WILSON-COURCELLES</description>
+	<Point>
+		<coordinates>2.29275696315927,48.8893343398898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>MAIRIE DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28937350883903,48.893161567496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>JULES GUESDE</description>
+	<Point>
+		<coordinates>2.2877210246515,48.8966029720194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>RUE DES CHASSES</description>
+	<Point>
+		<coordinates>2.29231062038687,48.9011253138471</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165 (ROBERT LAVERGNE/PORTE DE CHAMPERRET-METRO)</name>
+	<description>QUAI DE CLICHY</description>
+	<Point>
+		<coordinates>2.28988245089454,48.9029936905586</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166 (ZAC DES LOUVRESSES/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35952800627665,48.8987051833031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166 (ZAC DES LOUVRESSES/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>MICHELET - ROSIERS</description>
+	<Point>
+		<coordinates>2.34430224088077,48.9005314405169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166 (ZAC DES LOUVRESSES/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>MICHELET - ROSIERS</description>
+	<Point>
+		<coordinates>2.34374333771253,48.9004865367015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166 (ZAC DES LOUVRESSES/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PORTE DES POISSONNIERS</description>
+	<Point>
+		<coordinates>2.35155369434775,48.8984188185716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166 (ZAC DES LOUVRESSES/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PORTE DE LA CHAPELLE-METRO</description>
+	<Point>
+		<coordinates>2.35845111838989,48.8986424697828</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166 (ZAC DES LOUVRESSES/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PORTE DES POISSONNIERS</description>
+	<Point>
+		<coordinates>2.35283492506218,48.8981130956875</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166 (ZAC DES LOUVRESSES/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PORTE DE CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34462905632266,48.8981138857947</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166 (ZAC DES LOUVRESSES/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>PORTE DE CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34507884034165,48.897853230386</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166 (ZAC DES LOUVRESSES/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>MICHELET - DOCTEUR BAUER</description>
+	<Point>
+		<coordinates>2.34433011414591,48.9049980242018</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166 (ZAC DES LOUVRESSES/PORTE DE LA CHAPELLE-METRO)</name>
+	<description>MICHELET - DOCTEUR BAUER</description>
+	<Point>
+		<coordinates>2.3434849602157,48.9056721019276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/AUDRA)</name>
+	<description>POMPIDOU</description>
+	<Point>
+		<coordinates>2.27767488275254,48.8969308986031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/AUDRA)</name>
+	<description>PONT DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28056483621653,48.8967076294314</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/AUDRA)</name>
+	<description>PONT DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28022379334454,48.8969591066695</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/AUDRA)</name>
+	<description>PLACE DE BELGIQUE</description>
+	<Point>
+		<coordinates>2.26852012791514,48.9033787209466</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/AUDRA)</name>
+	<description>PLACE DE BELGIQUE</description>
+	<Point>
+		<coordinates>2.26843853647296,48.903225893307</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/AUDRA)</name>
+	<description>PLACE MERMOZ</description>
+	<Point>
+		<coordinates>2.27394664341852,48.9027076938121</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/AUDRA)</name>
+	<description>PLACE MERMOZ</description>
+	<Point>
+		<coordinates>2.27480597122212,48.9022947405102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/LES BRUYERES)</name>
+	<description>PLACE DE BELGIQUE</description>
+	<Point>
+		<coordinates>2.26852012791514,48.9033787209466</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/LES BRUYERES)</name>
+	<description>PONT DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28056483621653,48.8967076294314</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/LES BRUYERES)</name>
+	<description>POMPIDOU</description>
+	<Point>
+		<coordinates>2.27767488275254,48.8969308986031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/LES BRUYERES)</name>
+	<description>LES BRUYERES</description>
+	<Point>
+		<coordinates>2.26250515825456,48.9055140277241</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/LES BRUYERES)</name>
+	<description>PONT DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28022379334454,48.8969591066695</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/LES BRUYERES)</name>
+	<description>PLACE MERMOZ</description>
+	<Point>
+		<coordinates>2.27394664341852,48.9027076938121</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/LES BRUYERES)</name>
+	<description>PLACE MERMOZ</description>
+	<Point>
+		<coordinates>2.27480597122212,48.9022947405102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/LES BRUYERES)</name>
+	<description>MOULIN DES BRUYERES</description>
+	<Point>
+		<coordinates>2.26153627308115,48.9061604857279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167 (PONT DE LEVALLOIS/LES BRUYERES)</name>
+	<description>PLACE DE BELGIQUE</description>
+	<Point>
+		<coordinates>2.26843853647296,48.903225893307</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>SEVERINE</description>
+	<Point>
+		<coordinates>2.27839073845115,48.8307122224592</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>COLONEL PIERRE AVIA</description>
+	<Point>
+		<coordinates>2.27545133577518,48.8298119701637</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27320796427862,48.8275548871817</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>SUZANNE LENGLEN</description>
+	<Point>
+		<coordinates>2.27762571874762,48.8330396340366</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27257219959926,48.8243279741266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>BALARD</description>
+	<Point>
+		<coordinates>2.2783979908764,48.8363204903577</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>MAISON DE RETRAITE</description>
+	<Point>
+		<coordinates>2.27492208875179,48.8284275984303</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>HOPITAL EUROPEEN GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.27230769898209,48.8399033646655</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>FRERES VOISIN</description>
+	<Point>
+		<coordinates>2.27346539709923,48.8285346784901</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27357564441137,48.8274382450139</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>LEBLANC-DELBARRE</description>
+	<Point>
+		<coordinates>2.27533281145055,48.8378737866434</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.2737557953006,48.8248319207809</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>BALARD</description>
+	<Point>
+		<coordinates>2.2776906107664,48.8358078462616</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>RUE LEBLANC</description>
+	<Point>
+		<coordinates>2.27421448846711,48.8394190612247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>PLACE BALARD</description>
+	<Point>
+		<coordinates>2.27830208498987,48.8368507101833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>HOPITAL EUROPEEN GEORGES POMPIDOU</description>
+	<Point>
+		<coordinates>2.27245768508713,48.8397326827754</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>RUE LEBLANC</description>
+	<Point>
+		<coordinates>2.27447319547143,48.8394102103466</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169 (PONT DE SEVRES-METRO/HOPITAL EUROPEEN GEORGES POMPIDOU)</name>
+	<description>LOUIS ARMAND</description>
+	<Point>
+		<coordinates>2.27842969353607,48.832374950918</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>MONTGOLFIER</description>
+	<Point>
+		<coordinates>2.40154681639034,48.8938009205239</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>CENTRE NATIONAL DE LA DANSE</description>
+	<Point>
+		<coordinates>2.400935172766,48.8951852711122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>170 (/PORTE DES LILAS-METRO)</name>
+	<description>QUATRE CHEMINS - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.39143048329843,48.9040063333824</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

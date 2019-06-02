@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>102 (BOIS-PERRIER-RER - ROSNY 2/GAMBETTA)</name>
+	<description>PELLEPORT</description>
+	<Point>
+		<coordinates>2.40367676099058,48.8647708708174</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>102 (BOIS-PERRIER-RER - ROSNY 2/GAMBETTA)</name>
+	<description>PELLEPORT</description>
+	<Point>
+		<coordinates>2.40242332270906,48.8646187776846</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>102 (BOIS-PERRIER-RER - ROSNY 2/GAMBETTA)</name>
+	<description>GAMBETTA</description>
+	<Point>
+		<coordinates>2.3987998594876,48.8646566542756</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>102 (BOIS-PERRIER-RER - ROSNY 2/GAMBETTA)</name>
+	<description>HOPITAL TENON</description>
+	<Point>
+		<coordinates>2.40032584241579,48.864898515296</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>109 (PONT NELSON MANDELA - RIVES DE BERCY/TERROIRS DE FRANCE)</name>
+	<description>PONT NELSON MANDELA - RIVES DE BERCY</description>
+	<Point>
+		<coordinates>2.40028770260369,48.822315617202</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>109 (PONT NELSON MANDELA - RIVES DE BERCY/TERROIRS DE FRANCE)</name>
+	<description>PORT AUX LIONS</description>
+	<Point>
+		<coordinates>2.39842287609209,48.8222267133048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>109 (PONT NELSON MANDELA - RIVES DE BERCY/TERROIRS DE FRANCE)</name>
+	<description>PARC DE BERCY</description>
+	<Point>
+		<coordinates>2.39386578311931,48.8246286774075</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>109 (PONT NELSON MANDELA - RIVES DE BERCY/TERROIRS DE FRANCE)</name>
+	<description>PONT NELSON MANDELA-RIVE DROITE</description>
+	<Point>
+		<coordinates>2.40276465025888,48.8220985752649</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>109 (PONT NELSON MANDELA - RIVES DE BERCY/TERROIRS DE FRANCE)</name>
+	<description>PONT NATIONAL - QUAI DE BERCY</description>
+	<Point>
+		<coordinates>2.3900172429655,48.828144618311</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>109 (PONT NELSON MANDELA - RIVES DE BERCY/TERROIRS DE FRANCE)</name>
+	<description>TERROIRS DE FRANCE</description>
+	<Point>
+		<coordinates>2.3883602817612,48.8319830581362</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>109 (PONT NELSON MANDELA - RIVES DE BERCY/TERROIRS DE FRANCE)</name>
+	<description>PORT AUX LIONS</description>
+	<Point>
+		<coordinates>2.39843630704726,48.8220739157505</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>109 (PONT NELSON MANDELA - RIVES DE BERCY/TERROIRS DE FRANCE)</name>
+	<description>PARC DE BERCY</description>
+	<Point>
+		<coordinates>2.39416556591321,48.8249251274354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>109 (PONT NELSON MANDELA - RIVES DE BERCY/TERROIRS DE FRANCE)</name>
+	<description>TERROIRS DE FRANCE</description>
+	<Point>
+		<coordinates>2.38682056718858,48.8305456901568</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CENTRE BUS/)</name>
+	<description>FELIX LANGLAIS</description>
+	<Point>
+		<coordinates>2.40149390079042,48.8291186309112</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CENTRE BUS/)</name>
+	<description>BERCY</description>
+	<Point>
+		<coordinates>2.39128369469788,48.8286024198769</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CENTRE BUS/)</name>
+	<description>PORTE DE CHARENTON</description>
+	<Point>
+		<coordinates>2.39799811460886,48.8314482613247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CENTRE BUS/)</name>
+	<description>BERCY - PONIATOWSKI</description>
+	<Point>
+		<coordinates>2.39218346803694,48.8298602768308</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CENTRE BUS/)</name>
+	<description>TERROIRS DE FRANCE</description>
+	<Point>
+		<coordinates>2.38861886077643,48.8319020583269</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CHAMPIGNY-SAINT-MAUR RER/TERROIRS DE FRANCE)</name>
+	<description>TERROIRS DE FRANCE</description>
+	<Point>
+		<coordinates>2.38682056718858,48.8305456901568</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CHAMPIGNY-SAINT-MAUR RER/TERROIRS DE FRANCE)</name>
+	<description>FELIX LANGLAIS</description>
+	<Point>
+		<coordinates>2.40149390079042,48.8291186309112</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CHAMPIGNY-SAINT-MAUR RER/TERROIRS DE FRANCE)</name>
+	<description>TERROIRS DE FRANCE</description>
+	<Point>
+		<coordinates>2.38861886077643,48.8319020583269</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CHAMPIGNY-SAINT-MAUR RER/TERROIRS DE FRANCE)</name>
+	<description>PONT NATIONAL - QUAI DE BERCY</description>
+	<Point>
+		<coordinates>2.3900172429655,48.828144618311</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CHAMPIGNY-SAINT-MAUR RER/TERROIRS DE FRANCE)</name>
+	<description>PORTE DE CHARENTON</description>
+	<Point>
+		<coordinates>2.39799811460886,48.8314482613247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CHAMPIGNY-SAINT-MAUR RER/TERROIRS DE FRANCE)</name>
+	<description>FELIX LANGLAIS</description>
+	<Point>
+		<coordinates>2.40176625901242,48.8291993723438</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CHAMPIGNY-SAINT-MAUR RER/TERROIRS DE FRANCE)</name>
+	<description>BERCY</description>
+	<Point>
+		<coordinates>2.39128369469788,48.8286024198769</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CHAMPIGNY-SAINT-MAUR RER/TERROIRS DE FRANCE)</name>
+	<description>BERCY - PONIATOWSKI</description>
+	<Point>
+		<coordinates>2.39218346803694,48.8298602768308</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (CHAMPIGNY-SAINT-MAUR RER/TERROIRS DE FRANCE)</name>
+	<description>PORTE DE CHARENTON</description>
+	<Point>
+		<coordinates>2.39818875630604,48.8314931019898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (LA VARENNE-CHENNEVIERES RER/)</name>
+	<description>PORTE DE CHARENTON</description>
+	<Point>
+		<coordinates>2.39799811460886,48.8314482613247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (LA VARENNE-CHENNEVIERES RER/)</name>
+	<description>BERCY</description>
+	<Point>
+		<coordinates>2.39128369469788,48.8286024198769</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (LA VARENNE-CHENNEVIERES RER/)</name>
+	<description>FELIX LANGLAIS</description>
+	<Point>
+		<coordinates>2.40149390079042,48.8291186309112</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (LA VARENNE-CHENNEVIERES RER/)</name>
+	<description>BERCY - PONIATOWSKI</description>
+	<Point>
+		<coordinates>2.39218346803694,48.8298602768308</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>111 (LA VARENNE-CHENNEVIERES RER/)</name>
+	<description>TERROIRS DE FRANCE</description>
+	<Point>
+		<coordinates>2.38861886077643,48.8319020583269</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (/MAIRIE D'ISSY-METRO)</name>
+	<description>PORTE MOLITOR</description>
+	<Point>
+		<coordinates>2.25541544325699,48.8454562396826</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (/MAIRIE D'ISSY-METRO)</name>
+	<description>PORTE D'AUTEUIL-METRO</description>
+	<Point>
+		<coordinates>2.25831263131769,48.8476062104921</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (/MAIRIE D'ISSY-METRO)</name>
+	<description>ROGER SALENGRO</description>
+	<Point>
+		<coordinates>2.26270483027976,48.823585214268</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (/MAIRIE D'ISSY-METRO)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27272046347512,48.8255054387954</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (/MAIRIE D'ISSY-METRO)</name>
+	<description>MEDIATHEQUE</description>
+	<Point>
+		<coordinates>2.2699702700549,48.8259532991113</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (/MAIRIE D'ISSY-METRO)</name>
+	<description>STADE ROLAND GARROS</description>
+	<Point>
+		<coordinates>2.25017251743221,48.8456412591535</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (/MAIRIE D'ISSY-METRO)</name>
+	<description>FERBER-GALLIENI</description>
+	<Point>
+		<coordinates>2.26704510152704,48.8249000533158</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>MEDIATHEQUE</description>
+	<Point>
+		<coordinates>2.2699702700549,48.8259532991113</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>ROGER SALENGRO</description>
+	<Point>
+		<coordinates>2.26270483027976,48.823585214268</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>ROGER SALENGRO</description>
+	<Point>
+		<coordinates>2.26444937537025,48.8219595236263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>BOURGAIN - GENERAL GALLIENI</description>
+	<Point>
+		<coordinates>2.26696669303466,48.8224913101467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>PORTE MOLITOR</description>
+	<Point>
+		<coordinates>2.2560957392037,48.8458162059479</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>PORTE MOLITOR</description>
+	<Point>
+		<coordinates>2.25541544325699,48.8454562396826</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>STADE ROLAND GARROS</description>
+	<Point>
+		<coordinates>2.25017251743221,48.8456412591535</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27272046347512,48.8255054387954</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>STADE ROLAND GARROS</description>
+	<Point>
+		<coordinates>2.25024079948029,48.8455244713227</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27364679107841,48.824921739244</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>PORTE D'AUTEUIL-METRO</description>
+	<Point>
+		<coordinates>2.25831263131769,48.8476062104921</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>PORTE D'AUTEUIL-METRO</description>
+	<Point>
+		<coordinates>2.25756369747904,48.8475787491919</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>123 (PORTE D'AUTEUIL-METRO/MAIRIE D'ISSY-METRO)</name>
+	<description>FERBER-GALLIENI</description>
+	<Point>
+		<coordinates>2.26704510152704,48.8249000533158</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>125 (ECOLE VETERINAIRE DE MAISONS-ALFORT/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32514058989165,48.823194508793</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>QUAI DU POINT DU JOUR</description>
+	<Point>
+		<coordinates>2.25749406254624,48.8308708214511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>CORENTIN CELTON-METRO</description>
+	<Point>
+		<coordinates>2.2785038676412,48.8269824090753</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>PLACE DU MARECHAL DE LATTRE DE TASSIGNY</description>
+	<Point>
+		<coordinates>2.28464787261038,48.8222038438603</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>CORENTIN CELTON-METRO</description>
+	<Point>
+		<coordinates>2.27797255583618,48.8273596269342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32410638353018,48.8221877790385</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>GENERAL DE GAULLE</description>
+	<Point>
+		<coordinates>2.28230440863826,48.8244317288416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>RUE DU POINT DU JOUR</description>
+	<Point>
+		<coordinates>2.25343570503795,48.8318476840805</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>GENERAL DE GAULLE</description>
+	<Point>
+		<coordinates>2.28231832472618,48.8241441298457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>RUE DU POINT DU JOUR</description>
+	<Point>
+		<coordinates>2.25219598392214,48.8323860617802</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.27218636397062,48.8280846042219</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.2725815217263,48.8277702520102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>ISSY-VAL DE SEINE</description>
+	<Point>
+		<coordinates>2.26329592054545,48.8290680533981</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>ISSY-VAL DE SEINE</description>
+	<Point>
+		<coordinates>2.26347270893455,48.8291939900016</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>PRESIDENT ROBERT SCHUMAN</description>
+	<Point>
+		<coordinates>2.2665506574224,48.8281443040026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>PRESIDENT ROBERT SCHUMAN</description>
+	<Point>
+		<coordinates>2.26811674409384,48.8276688786605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>CIMETIERE DE MONTROUGE</description>
+	<Point>
+		<coordinates>2.32175185106399,48.8215763331467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>PLACE DU MARECHAL DE LATTRE DE TASSIGNY</description>
+	<Point>
+		<coordinates>2.28485194792811,48.8222938107135</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>126 (PARC DE SAINT-CLOUD/PORTE D'ORLEANS-METRO)</name>
+	<description>QUAI DU POINT DU JOUR</description>
+	<Point>
+		<coordinates>2.25673094845137,48.8313646269961</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>128 (/PORTE D'ORLEANS-METRO)</name>
+	<description>CIMETIERE DE MONTROUGE</description>
+	<Point>
+		<coordinates>2.32175185106399,48.8215763331467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>128 (/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32410638353018,48.8221877790385</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>128 (ROBINSON RER/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32410638353018,48.8221877790385</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>128 (ROBINSON RER/PORTE D'ORLEANS-METRO)</name>
+	<description>CIMETIERE DE MONTROUGE</description>
+	<Point>
+		<coordinates>2.32175185106399,48.8215763331467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>128 (ROBINSON RER/PORTE D'ORLEANS-METRO)</name>
+	<description>PORTE D'ORLEANS-METRO</description>
+	<Point>
+		<coordinates>2.32573981155372,48.8217385640335</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (/BIBLIOTHEQUE CHEVALERET)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37646979579482,48.8243390867253</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (/BIBLIOTHEQUE CHEVALERET)</name>
+	<description>OUDINE</description>
+	<Point>
+		<coordinates>2.37489165471146,48.8254540665144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (/BIBLIOTHEQUE CHEVALERET)</name>
+	<description>BIBLIOTHEQUE CHEVALERET</description>
+	<Point>
+		<coordinates>2.37493540108754,48.8294625425275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (/BIBLIOTHEQUE CHEVALERET)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37781639199877,48.8231163120073</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (/BIBLIOTHEQUE CHEVALERET)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37173520493732,48.8277378861805</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37744887266799,48.8230984613287</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.3776718962857,48.8298301377041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/)</name>
+	<description>BIBLIOTHEQUE CHEVALERET</description>
+	<Point>
+		<coordinates>2.37565736108571,48.8301004334506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/)</name>
+	<description>OUDINE</description>
+	<Point>
+		<coordinates>2.37372135127528,48.8259128013676</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37147632989059,48.827378455105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37558537825626,48.8247977457977</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37173520493732,48.8277378861805</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.3775081350314,48.8293089106323</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.3776718962857,48.8298301377041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>OUDINE</description>
+	<Point>
+		<coordinates>2.37489165471146,48.8254540665144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37744887266799,48.8230984613287</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>OUDINE</description>
+	<Point>
+		<coordinates>2.37372135127528,48.8259128013676</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37558537825626,48.8247977457977</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE CHEVALERET</description>
+	<Point>
+		<coordinates>2.37493540108754,48.8294625425275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE CHEVALERET</description>
+	<Point>
+		<coordinates>2.37565736108571,48.8301004334506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PATAY - TOLBIAC</description>
+	<Point>
+		<coordinates>2.37147632989059,48.827378455105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PORTE DE VITRY</description>
+	<Point>
+		<coordinates>2.37781639199877,48.8231163120073</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>132 (CITE DU MOULIN VERT/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37646979579482,48.8243390867253</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34521499927182,48.8968736238397</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>GARIBALDI</description>
+	<Point>
+		<coordinates>2.33216951478113,48.9062383417402</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>GERARD DE NERVAL</description>
+	<Point>
+		<coordinates>2.33511450311575,48.9007113718797</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>CAMILLE FLAMMARION</description>
+	<Point>
+		<coordinates>2.33987182198169,48.8978894069843</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>GERARD DE NERVAL</description>
+	<Point>
+		<coordinates>2.33534624490279,48.9006304918339</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE MONTMARTRE - BOULEVARD NEY</description>
+	<Point>
+		<coordinates>2.33669580291873,48.8985544818219</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>CAMILLE FLAMMARION</description>
+	<Point>
+		<coordinates>2.34030799921464,48.8976647183515</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>GARIBALDI</description>
+	<Point>
+		<coordinates>2.33210136780459,48.9060496103849</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>KLEBER</description>
+	<Point>
+		<coordinates>2.3337511714588,48.9031108951981</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE MONTMARTRE - BOULEVARD NEY</description>
+	<Point>
+		<coordinates>2.33696842833338,48.8980332294568</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34503786786356,48.8973229923016</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>137 (ZONE INDUSTRIELLE NORD/PORTE DE CLIGNANCOURT)</name>
+	<description>KLEBER</description>
+	<Point>
+		<coordinates>2.33409199167161,48.9029131887133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>REPUBLIQUE-FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.3130569195075,48.9039263162718</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>VILLENEUVE</description>
+	<Point>
+		<coordinates>2.31274246980348,48.9058315125551</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>CURTON</description>
+	<Point>
+		<coordinates>2.31284118697716,48.8988575457559</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>PORTE DE CLICHY-METRO</description>
+	<Point>
+		<coordinates>2.31232496505818,48.8951906873577</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>GENERAL LECLERC - VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.31609811341644,48.9011408951745</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>VICTOR HUGO - JEAN JAURES</description>
+	<Point>
+		<coordinates>2.31079718969874,48.8975180276496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>CURTON</description>
+	<Point>
+		<coordinates>2.31286832251667,48.8991271649574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>GENERAL LECLERC - VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.31551191931361,48.9012036994505</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>VILLENEUVE</description>
+	<Point>
+		<coordinates>2.3130424135056,48.9057956255559</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>REPUBLIQUE - FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.31271634859809,48.9034139827147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>138 (ERMONT-EAUBONNE RER-SNCF/PORTE DE CLICHY-METRO)</name>
+	<description>VICTOR HUGO - JEAN JAURES</description>
+	<Point>
+		<coordinates>2.31071529872072,48.8977247134796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>FELIX FAURE - RUE DES ECOLES</description>
+	<Point>
+		<coordinates>2.38003573371911,48.9065183608865</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PLACE AUGUSTE BARON</description>
+	<Point>
+		<coordinates>2.38613828630371,48.9010788272256</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PORTE DE LA VILLETTE-METRO</description>
+	<Point>
+		<coordinates>2.38750015798311,48.899730194136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>SAINT-OUEN RER</description>
+	<Point>
+		<coordinates>2.32334900268192,48.9057343634771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>FRONT POPULAIRE-PROUDHON</description>
+	<Point>
+		<coordinates>2.36424849560699,48.9065858898337</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>RUE DE LA HAIE-COQ</description>
+	<Point>
+		<coordinates>2.37286485086481,48.9067993172757</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>GARDINOUX</description>
+	<Point>
+		<coordinates>2.3757957485288,48.9064479103254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>KARMAN - FELIX FAURE</description>
+	<Point>
+		<coordinates>2.38335938443844,48.9033087348555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/)</name>
+	<description>FELIX FAURE - RUE DES ECOLES</description>
+	<Point>
+		<coordinates>2.38010401874306,48.9066621294236</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/)</name>
+	<description>SAINT-OUEN RER</description>
+	<Point>
+		<coordinates>2.32334900268192,48.9057343634771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/)</name>
+	<description>PLACE AUGUSTE BARON</description>
+	<Point>
+		<coordinates>2.38630193582309,48.9011506568682</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/)</name>
+	<description>PORTE DE LA VILLETTE-METRO</description>
+	<Point>
+		<coordinates>2.3859304494248,48.8975020382123</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/)</name>
+	<description>FRONT POPULAIRE-PROUDHON</description>
+	<Point>
+		<coordinates>2.364452975328,48.9065498951012</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/)</name>
+	<description>KARMAN - FELIX FAURE</description>
+	<Point>
+		<coordinates>2.38378184282447,48.903146803092</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PORTE DE LA VILLETTE-METRO</description>
+	<Point>
+		<coordinates>2.38662649603661,48.8984184392924</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PORTE DE LA VILLETTE-METRO</description>
+	<Point>
+		<coordinates>2.38750015798311,48.899730194136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PLACE AUGUSTE BARON</description>
+	<Point>
+		<coordinates>2.38613828630371,48.9010788272256</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>KARMAN - FELIX FAURE</description>
+	<Point>
+		<coordinates>2.38378184282447,48.903146803092</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PLACE AUGUSTE BARON</description>
+	<Point>
+		<coordinates>2.38630193582309,48.9011506568682</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>FELIX FAURE - RUE DES ECOLES</description>
+	<Point>
+		<coordinates>2.38010401874306,48.9066621294236</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>FELIX FAURE - RUE DES ECOLES</description>
+	<Point>
+		<coordinates>2.38003573371911,48.9065183608865</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>RUE DE LA HAIE-COQ</description>
+	<Point>
+		<coordinates>2.37286485086481,48.9067993172757</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>GARDINOUX</description>
+	<Point>
+		<coordinates>2.3757957485288,48.9064479103254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>KARMAN - FELIX FAURE</description>
+	<Point>
+		<coordinates>2.38335938443844,48.9033087348555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>139 (SAINT-OUEN RER/PORTE DE LA VILLETTE-METRO)</name>
+	<description>SAINT-OUEN RER</description>
+	<Point>
+		<coordinates>2.32334900268192,48.9057343634771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>HOPITAL LA ROSERAIE</description>
+	<Point>
+		<coordinates>2.39004139063412,48.9054089411087</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>QUATRE CHEMINS - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.39155306330761,48.9038984325799</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>MAGENTA</description>
+	<Point>
+		<coordinates>2.38962868724999,48.9017334036148</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (/PORTE DE LA VILLETTE-METRO)</name>
+	<description>PORTE DE LA VILLETTE-METRO</description>
+	<Point>
+		<coordinates>2.38750015798311,48.899730194136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (MAIRIE DE STAINS/)</name>
+	<description>QUATRE CHEMINS - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.39179853399195,48.9039792043119</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (MAIRIE DE STAINS/)</name>
+	<description>HOPITAL LA ROSERAIE</description>
+	<Point>
+		<coordinates>2.38948337370593,48.9063348552893</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (MAIRIE DE STAINS/)</name>
+	<description>PORTE DE LA VILLETTE</description>
+	<Point>
+		<coordinates>2.38704943113761,48.8988047097921</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (MAIRIE DE STAINS/)</name>
+	<description>MAGENTA</description>
+	<Point>
+		<coordinates>2.3897644968415,48.9012300660077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (PIERREFITTE - STAINS RER/)</name>
+	<description>HOPITAL LA ROSERAIE</description>
+	<Point>
+		<coordinates>2.38948337370593,48.9063348552893</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (PIERREFITTE - STAINS RER/)</name>
+	<description>MAGENTA</description>
+	<Point>
+		<coordinates>2.3897644968415,48.9012300660077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (PIERREFITTE - STAINS RER/)</name>
+	<description>PORTE DE LA VILLETTE</description>
+	<Point>
+		<coordinates>2.38704943113761,48.8988047097921</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>150 (PIERREFITTE - STAINS RER/)</name>
+	<description>QUATRE CHEMINS - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.39179853399195,48.9039792043119</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>PETITS PONTS</description>
+	<Point>
+		<coordinates>2.39715318790376,48.8896421460606</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>DELIZY</description>
+	<Point>
+		<coordinates>2.40584600689681,48.8981662775881</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>MONTGOLFIER</description>
+	<Point>
+		<coordinates>2.40154681639034,48.8938009205239</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>PANTIN RER - MAIRIE</description>
+	<Point>
+		<coordinates>2.40145490313047,48.8966229358692</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>HOCHE-METRO</description>
+	<Point>
+		<coordinates>2.40204840251232,48.8916257535975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>CENTRE NATIONAL DE LA DANSE</description>
+	<Point>
+		<coordinates>2.40116694220814,48.8952300828325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>DELIZY</description>
+	<Point>
+		<coordinates>2.40573655492606,48.8978607780295</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>151 (JOUHAUX - BLUM/PORTE DE PANTIN)</name>
+	<description>CENTRE NATIONAL DE LA DANSE</description>
+	<Point>
+		<coordinates>2.400935172766,48.8951852711122</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

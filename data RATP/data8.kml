@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>MOINES - DAVY</description>
+	<Point>
+		<coordinates>2.32301196662213,48.8919480779096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>CHARLES DE GAULLE - ETOILE</description>
+	<Point>
+		<coordinates>2.29610792366369,48.874308863029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>TERNES</description>
+	<Point>
+		<coordinates>2.29881593094291,48.878785436747</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35761060486716,48.8756982719532</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>31 (CHARLES DE GAULLE - ETOILE/GARE DE L'EST)</name>
+	<description>HOCHE - SAINT-HONORE</description>
+	<Point>
+		<coordinates>2.30063000785779,48.8761976711802</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>ROME - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32631409744291,48.873857112271</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>TROCADERO</description>
+	<Point>
+		<coordinates>2.28801154291787,48.8634131300254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>SAINT-PHILIPPE-DU-ROULE</description>
+	<Point>
+		<coordinates>2.31030576065188,48.8726862167387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PASSY - LA TOUR</description>
+	<Point>
+		<coordinates>2.28401198618258,48.8582706145827</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>SCHEFFER</description>
+	<Point>
+		<coordinates>2.28587606764119,48.8602217023477</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.357597149028,48.876129664261</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>JEAN BOLOGNE</description>
+	<Point>
+		<coordinates>2.28032145244367,48.8576937126548</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>RAFFET</description>
+	<Point>
+		<coordinates>2.2619409848589,48.8528302882178</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32488320211716,48.8751511438022</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>IENA</description>
+	<Point>
+		<coordinates>2.29457596893768,48.8650244033184</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PLACE FRANZ LISZT</description>
+	<Point>
+		<coordinates>2.35225656304893,48.8778739894115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PORTE DE PASSY</description>
+	<Point>
+		<coordinates>2.26461808350061,48.8570201021335</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>ALBERT DE MUN</description>
+	<Point>
+		<coordinates>2.29100802155898,48.8637918010259</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>TROCADERO</description>
+	<Point>
+		<coordinates>2.288229849956,48.863035749838</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES - MATIGNON</description>
+	<Point>
+		<coordinates>2.31078440141903,48.8691812658736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>RAFFET</description>
+	<Point>
+		<coordinates>2.26189912216187,48.8535222963129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>RANELAGH</description>
+	<Point>
+		<coordinates>2.2694518701192,48.8580834683334</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PORTE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.25770028821945,48.8473092153876</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>ALFRED CAPUS</description>
+	<Point>
+		<coordinates>2.25984738492647,48.8503214407726</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35844185089057,48.875976733108</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>GARE SAINT-LAZARE - BUDAPEST</description>
+	<Point>
+		<coordinates>2.32722660203248,48.8756456652824</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>LA TOUR</description>
+	<Point>
+		<coordinates>2.28026434398557,48.8600843386864</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PIERRE CHARRON - FRANCOIS 1ER</description>
+	<Point>
+		<coordinates>2.3015209822428,48.8684598602268</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>CARREFOUR DE CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.3393938310707,48.8759156866871</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>SQUARE MONTHOLON</description>
+	<Point>
+		<coordinates>2.34699679688907,48.8765444178076</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>LA BOETIE - CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.3055387476538,48.8702315035426</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>LA BOETIE - MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31649066110485,48.8740445389026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>IENA</description>
+	<Point>
+		<coordinates>2.29446687921542,48.8651591747722</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>ALBERT DE MUN</description>
+	<Point>
+		<coordinates>2.29051737893282,48.8640702183622</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>CADET</description>
+	<Point>
+		<coordinates>2.34408097291115,48.8765356332662</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>LA MUETTE - BOULAINVILLIERS</description>
+	<Point>
+		<coordinates>2.27532177362516,48.8585270486058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PIERRE CHARRON - FRANCOIS 1ER</description>
+	<Point>
+		<coordinates>2.30161618414464,48.8686935597448</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>MARCEAU - PIERRE 1ER DE SERBIE - PLACE DE BEYROUTH</description>
+	<Point>
+		<coordinates>2.29864754131272,48.8670389620895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>GARE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.25930560486294,48.8483528270596</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>SAINT-GEORGES - CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33636903855019,48.8761313976096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>ALFRED CAPUS</description>
+	<Point>
+		<coordinates>2.26035128072695,48.8503127797229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>TRINITE</description>
+	<Point>
+		<coordinates>2.33245859125523,48.8761942154539</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PORTE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.25770028821945,48.8473092153876</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PORTE DE PASSY</description>
+	<Point>
+		<coordinates>2.26493103490029,48.8572449783795</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>SCHEFFER</description>
+	<Point>
+		<coordinates>2.28360037625995,48.861164376643</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PLACE DE PASSY</description>
+	<Point>
+		<coordinates>2.27725671015567,48.8578270198273</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PASSY - BOULAINVILLIERS</description>
+	<Point>
+		<coordinates>2.27551309330849,48.8579968899331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.32135452132993,48.8745395888581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PASQUIER - ANJOU</description>
+	<Point>
+		<coordinates>2.32421582474389,48.8741714568561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>FAUBOURG SAINT-DENIS</description>
+	<Point>
+		<coordinates>2.35481703865465,48.8744674566545</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>SAINT-GEORGES - CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33634179156323,48.8759336770093</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>TRINITE</description>
+	<Point>
+		<coordinates>2.33132767819894,48.8763469484939</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.32079581270551,48.8748271066253</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>LA MUETTE - BOULAINVILLIERS</description>
+	<Point>
+		<coordinates>2.2737151261493,48.8580498689967</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>MATIGNON - SAINT-HONORE</description>
+	<Point>
+		<coordinates>2.31463810805272,48.8731185088635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>SQUARE MONTHOLON</description>
+	<Point>
+		<coordinates>2.34728285426874,48.876157940672</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>HAUSSMANN - MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31439226976468,48.8744755453763</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>LOUIS BOILLY</description>
+	<Point>
+		<coordinates>2.26732591120272,48.85894503182</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>LA BOETIE - CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.30566105959659,48.8707258393056</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>PLACE POSSOZ</description>
+	<Point>
+		<coordinates>2.27822173442542,48.8596070111434</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>HAUTEVILLE</description>
+	<Point>
+		<coordinates>2.35029384885804,48.8754296784996</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>MARCEAU - PIERRE 1ER DE SERBIE - PLACE DE BEYROUTH</description>
+	<Point>
+		<coordinates>2.29951895839438,48.8676503814478</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>CARREFOUR DE CHATEAUDUN</description>
+	<Point>
+		<coordinates>2.33920307388938,48.8757898678731</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>32 (PORTE D'AUTEUIL/GARE DE L'EST)</name>
+	<description>CADET</description>
+	<Point>
+		<coordinates>2.34232320764847,48.875547119048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>323 (GAMBETTA/ISSY-VAL DE SEINE RER)</name>
+	<description>ISSY-VAL DE SEINE RER</description>
+	<Point>
+		<coordinates>2.26295471094519,48.8296879877122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>323 (GAMBETTA/ISSY-VAL DE SEINE RER)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27306033940525,48.8258471536465</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>323 (GAMBETTA/ISSY-VAL DE SEINE RER)</name>
+	<description>MARCEAU</description>
+	<Point>
+		<coordinates>2.27128906263245,48.8271943334316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>323 (GAMBETTA/ISSY-VAL DE SEINE RER)</name>
+	<description>MAIRIE D'ISSY-METRO</description>
+	<Point>
+		<coordinates>2.27257219959926,48.8243279741266</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>323 (GAMBETTA/ISSY-VAL DE SEINE RER)</name>
+	<description>PRESIDENT ROBERT SCHUMAN</description>
+	<Point>
+		<coordinates>2.26811674409384,48.8276688786605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>323 (GAMBETTA/ISSY-VAL DE SEINE RER)</name>
+	<description>GALLIENI-CAMILLE DESMOULINS</description>
+	<Point>
+		<coordinates>2.2662745203423,48.8309842316307</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>323 (GAMBETTA/ISSY-VAL DE SEINE RER)</name>
+	<description>MARCEAU</description>
+	<Point>
+		<coordinates>2.27145213766442,48.8274101272484</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>323 (GAMBETTA/ISSY-VAL DE SEINE RER)</name>
+	<description>PRESIDENT ROBERT SCHUMAN</description>
+	<Point>
+		<coordinates>2.26747556676172,48.8287020834586</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/AVENUE DE GRAVELLE)</name>
+	<description>WATT</description>
+	<Point>
+		<coordinates>2.38567384135004,48.8271038974072</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/AVENUE DE GRAVELLE)</name>
+	<description>THOMAS MANN</description>
+	<Point>
+		<coordinates>2.38205561587476,48.8301880737401</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/AVENUE DE GRAVELLE)</name>
+	<description>PONT DE TOLBIAC</description>
+	<Point>
+		<coordinates>2.37925258391839,48.8317709167928</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/AVENUE DE GRAVELLE)</name>
+	<description>BRUNESEAU</description>
+	<Point>
+		<coordinates>2.38961861316847,48.8243160531973</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/AVENUE DE GRAVELLE)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.3918901269977,48.8227691521788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/AVENUE DE GRAVELLE)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.3774139782722,48.830773925621</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>WATT</description>
+	<Point>
+		<coordinates>2.38375631117951,48.8291268812047</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BRUNESEAU</description>
+	<Point>
+		<coordinates>2.38862377242397,48.8231121384677</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>PONT DE TOLBIAC</description>
+	<Point>
+		<coordinates>2.37904857565516,48.8320136541569</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.3775081350314,48.8293089106323</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (/BIBLIOTHEQUE FRANCOIS MITTERRAND)</name>
+	<description>THOMAS MANN</description>
+	<Point>
+		<coordinates>2.38136202434058,48.8309882312105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (CHATEAU DE VINCENNES/)</name>
+	<description>WATT</description>
+	<Point>
+		<coordinates>2.38567384135004,48.8271038974072</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (CHATEAU DE VINCENNES/)</name>
+	<description>BRUNESEAU</description>
+	<Point>
+		<coordinates>2.38961861316847,48.8243160531973</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (CHATEAU DE VINCENNES/)</name>
+	<description>THOMAS MANN</description>
+	<Point>
+		<coordinates>2.38205561587476,48.8301880737401</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (CHATEAU DE VINCENNES/)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.3774139782722,48.830773925621</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (CHATEAU DE VINCENNES/)</name>
+	<description>PONT DE TOLBIAC</description>
+	<Point>
+		<coordinates>2.37925258391839,48.8317709167928</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (CHATEAU DE VINCENNES/)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.3918901269977,48.8227691521788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (VAILLANT-COUTURIER - WESTERMEYER/)</name>
+	<description>BIBLIOTHEQUE FRANCOIS MITTERRAND</description>
+	<Point>
+		<coordinates>2.3774139782722,48.830773925621</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (VAILLANT-COUTURIER - WESTERMEYER/)</name>
+	<description>BRUNESEAU</description>
+	<Point>
+		<coordinates>2.38961861316847,48.8243160531973</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (VAILLANT-COUTURIER - WESTERMEYER/)</name>
+	<description>THOMAS MANN</description>
+	<Point>
+		<coordinates>2.38205561587476,48.8301880737401</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (VAILLANT-COUTURIER - WESTERMEYER/)</name>
+	<description>WATT</description>
+	<Point>
+		<coordinates>2.38567384135004,48.8271038974072</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (VAILLANT-COUTURIER - WESTERMEYER/)</name>
+	<description>VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.3918901269977,48.8227691521788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>325 (VAILLANT-COUTURIER - WESTERMEYER/)</name>
+	<description>PONT DE TOLBIAC</description>
+	<Point>
+		<coordinates>2.37925258391839,48.8317709167928</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>CENTRE NATIONAL DE LA DANSE</description>
+	<Point>
+		<coordinates>2.39961296408572,48.8951230600611</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>PANTIN RER - MAIRIE</description>
+	<Point>
+		<coordinates>2.39960171254549,48.8971002379376</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>PANTIN RER - MAIRIE</description>
+	<Point>
+		<coordinates>2.40070528533426,48.8966772600782</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>CENTRE NATIONAL DE LA DANSE</description>
+	<Point>
+		<coordinates>2.40116694220814,48.8952300828325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>ETIENNE MARCEL - CORNET</description>
+	<Point>
+		<coordinates>2.40523783554345,48.8917587848394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>QUATRE CHEMINS - LA POSTE</description>
+	<Point>
+		<coordinates>2.39343323184228,48.9028640460039</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>HOCHE - METRO</description>
+	<Point>
+		<coordinates>2.40300188348143,48.8911758724445</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>CARTIER BRESSON</description>
+	<Point>
+		<coordinates>2.39768585667962,48.9023137533394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>HOCHE - JEAN LOLIVE</description>
+	<Point>
+		<coordinates>2.4004941577891,48.8912131780576</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.4059327887101,48.8916505403008</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>CONDORCET</description>
+	<Point>
+		<coordinates>2.39489480263019,48.9054875772074</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>330 (RAYMOND QUENEAU - ANATOLE FRANCE/FORT D'AUBERVILLIERS)</name>
+	<description>HOCHE-METRO</description>
+	<Point>
+		<coordinates>2.4024571684582,48.8915356589005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>340 (GARE D'ARGENTEUIL/BERGES DE SEINE)</name>
+	<description>DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.30204124767809,48.90477734459</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>340 (GARE D'ARGENTEUIL/BERGES DE SEINE)</name>
+	<description>LEON BLUM</description>
+	<Point>
+		<coordinates>2.30069044359578,48.9064215723683</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>340 (GARE D'ARGENTEUIL/BERGES DE SEINE)</name>
+	<description>VILLENEUVE - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.30861171804433,48.9057227469515</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>340 (GARE D'ARGENTEUIL/BERGES DE SEINE)</name>
+	<description>LANDY - MARTRE</description>
+	<Point>
+		<coordinates>2.30486342067585,48.9044725839563</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>340 (GARE D'ARGENTEUIL/BERGES DE SEINE)</name>
+	<description>LANDY - MARTRE</description>
+	<Point>
+		<coordinates>2.30504041088838,48.9048500892603</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>340 (GARE D'ARGENTEUIL/BERGES DE SEINE)</name>
+	<description>MAIRIE DE CLICHY-METRO</description>
+	<Point>
+		<coordinates>2.30399213471394,48.9025940426263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>CAMILLE CLAUDEL</description>
+	<Point>
+		<coordinates>2.32269534011302,48.9031639803405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>FONDATION ROGUET</description>
+	<Point>
+		<coordinates>2.31353286937807,48.906523676677</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>FLOREAL</description>
+	<Point>
+		<coordinates>2.31898851273262,48.8998472291597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>TERNES</description>
+	<Point>
+		<coordinates>2.2984626184777,48.877500141761</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DES POISSONNIERS</description>
+	<Point>
+		<coordinates>2.35215335900856,48.8980592600532</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>LANDY - MARTRE</description>
+	<Point>
+		<coordinates>2.30486342067585,48.9044725839563</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>HERAULT DE SECHELLES</description>
+	<Point>
+		<coordinates>2.31987440135517,48.9003146914872</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>SAINT-OUEN RER</description>
+	<Point>
+		<coordinates>2.32129086858892,48.9042692121842</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>GARE DE CLICHY - LEVALLOIS</description>
+	<Point>
+		<coordinates>2.29829824469092,48.8967866405132</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>GEORGES BOISSEAU</description>
+	<Point>
+		<coordinates>2.31732397713075,48.9037383771096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>TOUZET - GAILLARD</description>
+	<Point>
+		<coordinates>2.32194588003506,48.9020854351428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>CAMILLE CLAUDEL</description>
+	<Point>
+		<coordinates>2.32236820785118,48.9030111594</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>VICTOR HUGO - SANZILLON</description>
+	<Point>
+		<coordinates>2.32123642696766,48.9039816182186</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.30308662404053,48.8906948140143</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>GARE DE CLICHY - LEVALLOIS</description>
+	<Point>
+		<coordinates>2.29847562485213,48.8965440455797</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>CITROEN</description>
+	<Point>
+		<coordinates>2.31560585904506,48.9047536178544</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>TOULOUSE-LAUTREC</description>
+	<Point>
+		<coordinates>2.32928009079322,48.901016686079</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>GEORGES BOISSEAU</description>
+	<Point>
+		<coordinates>2.31807387056734,48.9034509133101</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>VICTOR HUGO - SANZILLON</description>
+	<Point>
+		<coordinates>2.3195733319607,48.9037567060638</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>VILLENEUVE - GENERAL LECLERC</description>
+	<Point>
+		<coordinates>2.30861171804433,48.9057227469515</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>FONDATION ROGUET</description>
+	<Point>
+		<coordinates>2.31330098409672,48.9067842551947</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE MONTMARTRE</description>
+	<Point>
+		<coordinates>2.33571438497578,48.8977725931127</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>TOUZET - GAILLARD</description>
+	<Point>
+		<coordinates>2.32230037313899,48.9018787768513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.30256870777657,48.890712638796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PEREIRE - LE CHATELIER</description>
+	<Point>
+		<coordinates>2.29639887943534,48.8854621571488</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34589667892179,48.8977453283351</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PEREIRE</description>
+	<Point>
+		<coordinates>2.29804811452684,48.8850852476861</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE SAINT-OUEN - HOPITAL BICHAT</description>
+	<Point>
+		<coordinates>2.32997582630405,48.8973499857034</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE MONTMARTRE</description>
+	<Point>
+		<coordinates>2.33572802145337,48.8975838635386</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>BOIS LE PRETRE</description>
+	<Point>
+		<coordinates>2.32137430588494,48.8989129104923</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE SAINT-OUEN - HOPITAL BICHAT</description>
+	<Point>
+		<coordinates>2.32975748113713,48.899093474798</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>LANDY - MARTRE</description>
+	<Point>
+		<coordinates>2.30504041088838,48.9048500892603</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>PORTE DE CLIGNANCOURT.</description>
+	<Point>
+		<coordinates>2.34336132883424,48.8977454851937</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>CHARLES DE GAULLE - ETOILE</description>
+	<Point>
+		<coordinates>2.29638039742384,48.8743359187185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>341 (CHARLES DE GAULLE - ETOILE/PORTE DE CLIGNANCOURT)</name>
+	<description>COLISEE</description>
+	<Point>
+		<coordinates>2.32611752095399,48.9010074455087</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NA</name>
+	<description>NA</description>
+	<Point>
+		<coordinates>NA,NA</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>ORDENER - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35993336587879,48.8905357839257</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>LA HAIE COQ</description>
+	<Point>
+		<coordinates>2.37384503907808,48.904803890592</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>TRISTAN TZARA</description>
+	<Point>
+		<coordinates>2.36613667235708,48.894309053755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PARC DU MILLENAIRE</description>
+	<Point>
+		<coordinates>2.37009419309724,48.9019111398846</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>SKANDERBEG</description>
+	<Point>
+		<coordinates>2.37007939396775,48.9000687869888</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PLACE HEBERT</description>
+	<Point>
+		<coordinates>2.36308289168509,48.8929886418697</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>TRISTAN TZARA</description>
+	<Point>
+		<coordinates>2.36619127770557,48.8944618221626</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PORTE D'AUBERVILLIERS T3B</description>
+	<Point>
+		<coordinates>2.37014647340109,48.8983702027604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>LA HAIE COQ</description>
+	<Point>
+		<coordinates>2.37269944988342,48.9041661538958</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>CAIL - DEMARQUAY</description>
+	<Point>
+		<coordinates>2.3590168705476,48.8825553091048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35736553753736,48.876174640029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PLACE DE TORCY</description>
+	<Point>
+		<coordinates>2.36126938857879,48.8913533557133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.3563313089129,48.8796798481428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>SKANDERBEG</description>
+	<Point>
+		<coordinates>2.37048785553384,48.899313756007</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>VALENCIENNES</description>
+	<Point>
+		<coordinates>2.35653501276338,48.8778284375409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35713542492424,48.8801290798217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>GARDINOUX</description>
+	<Point>
+		<coordinates>2.3757957485288,48.9064479103254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PLACE HEBERT</description>
+	<Point>
+		<coordinates>2.36323278193451,48.8929167119644</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PARC DU MILLENAIRE</description>
+	<Point>
+		<coordinates>2.37040756255254,48.9016504272139</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>GARE DE L'EST</description>
+	<Point>
+		<coordinates>2.35857816563993,48.8761294927359</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35934437238951,48.8836247303014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PORTE D'AUBERVILLIERS T3B</description>
+	<Point>
+		<coordinates>2.37048728492462,48.8984240309959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>DEPARTEMENT - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35957762558616,48.8873184348975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>ORDENER - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35971499390036,48.88982583752</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35799416115411,48.8808299396041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PLACE DE LA CHAPELLE</description>
+	<Point>
+		<coordinates>2.35900430329138,48.8850807240785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>DEPARTEMENT - MARX DORMOY</description>
+	<Point>
+		<coordinates>2.35971373595153,48.8869229721122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>CAIL - DEMARQUAY</description>
+	<Point>
+		<coordinates>2.35863527972611,48.8824655057457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>EVANGILE - AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37038993637322,48.8954043799239</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PORTE D'AUBERVILLIERS - CITE CH. HERMITE</description>
+	<Point>
+		<coordinates>2.37010610433962,48.8991970292582</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>PLACE DE TORCY</description>
+	<Point>
+		<coordinates>2.36114675034291,48.8914073034276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>35 (GARE DE L'EST/MAIRIE D'AUBERVILLIERS)</name>
+	<description>EVANGILE - AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37044454390189,48.8955391719532</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

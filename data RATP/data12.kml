@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>MICHEL ANGE-AUTEUIL</description>
+	<Point>
+		<coordinates>2.26467187378966,48.8477810185037</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>LA TOURELLE</description>
+	<Point>
+		<coordinates>2.25178130347474,48.8444560717511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>GEORGE SAND-LA FONTAINE</description>
+	<Point>
+		<coordinates>2.26796495150101,48.8495984537511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>POMPE-MAIRIE DU 16E</description>
+	<Point>
+		<coordinates>2.27662359377603,48.8634528154687</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/CHARLES DE GAULLE-ETOILE-FRIEDLAND)</name>
+	<description>GARE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26013644547039,48.8482545054802</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>PORTE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.25786328742515,48.8475789492845</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>CAPUCINES-CAUMARTIN</description>
+	<Point>
+		<coordinates>2.32893065327282,48.8699568264394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>PORTE MOLITOR</description>
+	<Point>
+		<coordinates>2.25541544325699,48.8454562396826</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>LA TOURELLE</description>
+	<Point>
+		<coordinates>2.25178130347474,48.8444560717511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>MICHEL ANGE-AUTEUIL</description>
+	<Point>
+		<coordinates>2.26409854554229,48.8487603049279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>SAINT PHILIPPE DU ROULE</description>
+	<Point>
+		<coordinates>2.30988328795543,48.8729108033161</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>CHARLES DE GAULLE-ETOILE-VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.29324772535664,48.8731305035625</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33326281432409,48.871862363893</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33339906009834,48.8717994571273</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>EGLISE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26981916091538,48.8479637943107</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>BUGEAUD</description>
+	<Point>
+		<coordinates>2.28243325567487,48.8699714674332</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>VICTOR HUGO-PAUL VALERY</description>
+	<Point>
+		<coordinates>2.28924392911602,48.8711966836458</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>LEOPOLD II</description>
+	<Point>
+		<coordinates>2.27184444355698,48.8509577573836</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>MATIGNON-SAINT HONORE</description>
+	<Point>
+		<coordinates>2.31357599691421,48.8718151415383</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>BOISSY D'ANGLAS</description>
+	<Point>
+		<coordinates>2.32229634723313,48.868599089904</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>LES VIGNES-BOULAINVILLIERS-RER</description>
+	<Point>
+		<coordinates>2.27460292163781,48.8560101920428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>POMPE-MAIRIE DU 16E</description>
+	<Point>
+		<coordinates>2.27829785071768,48.8645411289505</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>GRAND PALAIS</description>
+	<Point>
+		<coordinates>2.31661554420415,48.8683645703022</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>FRIEDLAND-HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30625809496879,48.8747613007779</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>PERRICHONT</description>
+	<Point>
+		<coordinates>2.27149225103894,48.8494656413294</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>CHARLES DE GAULLE-ETOILE-FRIEDLAND</description>
+	<Point>
+		<coordinates>2.29670772195079,48.8739136271735</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>D'AGUESSEAU</description>
+	<Point>
+		<coordinates>2.31968044222717,48.8693087328729</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>MOZART-LA FONTAINE</description>
+	<Point>
+		<coordinates>2.26578689725512,48.8489680423833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>CONCORDE</description>
+	<Point>
+		<coordinates>2.3209617570429,48.867044103144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>PLACE JEAN MONNET</description>
+	<Point>
+		<coordinates>2.28156349724916,48.8679668861969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>MATIGNON-SAINT HONORE</description>
+	<Point>
+		<coordinates>2.31446148419091,48.8719950606387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>LYCEE JANSON DE SAILLY</description>
+	<Point>
+		<coordinates>2.27889631647983,48.8653502873105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>LA MUETTE-BOULAINVILLIERS-RER</description>
+	<Point>
+		<coordinates>2.27393343782616,48.8577354253229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>GEORGE SAND-LA FONTAINE</description>
+	<Point>
+		<coordinates>2.26796495150101,48.8495984537511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>MADELEINE-VIGNON</description>
+	<Point>
+		<coordinates>2.32557907752396,48.8707024937907</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>LA BOETIE-PERCIER</description>
+	<Point>
+		<coordinates>2.3140111662895,48.8736037029966</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>OPERA-RUE DE LA PAIX</description>
+	<Point>
+		<coordinates>2.33146459338463,48.8704153305112</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>GARE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26013644547039,48.8482545054802</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>GARE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.26060026429179,48.8477065674189</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>BALZAC</description>
+	<Point>
+		<coordinates>2.30188460361274,48.8746252733507</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>LA TOURELLE</description>
+	<Point>
+		<coordinates>2.25090988146366,48.8444194929964</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>VICTOR HUGO-PAUL VALERY</description>
+	<Point>
+		<coordinates>2.28905306038714,48.8713404038212</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>SAINT PHILIPPE DU ROULE</description>
+	<Point>
+		<coordinates>2.31044195743127,48.8727761206177</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>MADELEINE</description>
+	<Point>
+		<coordinates>2.32574286245434,48.8693544094998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>VICTOR HUGO-POINCARE</description>
+	<Point>
+		<coordinates>2.2843814960249,48.8699094365533</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>RODIN</description>
+	<Point>
+		<coordinates>2.27045203462043,48.8535274003647</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>LA MUETTE-BOULAINVILLIERS-RER</description>
+	<Point>
+		<coordinates>2.27481787626048,48.8584728610228</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>RANELAGH</description>
+	<Point>
+		<coordinates>2.27062636078058,48.8556485363998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>ASSOMPTION-RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.27546421148983,48.8532964320858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>PORTE D'AUTEUIL</description>
+	<Point>
+		<coordinates>2.25810929776787,48.8469949251861</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>MADELEINE</description>
+	<Point>
+		<coordinates>2.32380802251834,48.8705495224783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>LYCEE JANSON DE SAILLY</description>
+	<Point>
+		<coordinates>2.27959064888072,48.8657191075736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>MICHEL ANGE-AUTEUIL</description>
+	<Point>
+		<coordinates>2.26467187378966,48.8477810185037</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>BALZAC</description>
+	<Point>
+		<coordinates>2.30185757483154,48.8743017224136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>VICTOR HUGO-POINCARE</description>
+	<Point>
+		<coordinates>2.2860572424173,48.8698652317124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>NICOLO-JEAN RICHEPIN</description>
+	<Point>
+		<coordinates>2.27560384271693,48.8618615238265</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>CHARLES DE GAULLE-ETOILE-FRIEDLAND</description>
+	<Point>
+		<coordinates>2.29673513981184,48.8736979411034</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>LA FONTAINE-RADIO FRANCE</description>
+	<Point>
+		<coordinates>2.27395403461004,48.8520194190982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>CHARLES DE GAULLE-ETOILE-VICTOR HUGO</description>
+	<Point>
+		<coordinates>2.29337048224593,48.872968777185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>PLACE JEAN MONNET</description>
+	<Point>
+		<coordinates>2.28047437888876,48.8673013078901</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>OPERA.</description>
+	<Point>
+		<coordinates>2.33337188322772,48.8708467997668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>POMPE-MAIRIE DU 16E</description>
+	<Point>
+		<coordinates>2.27662359377603,48.8634528154687</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>PORTE MOLITOR</description>
+	<Point>
+		<coordinates>2.2560957392037,48.8458162059479</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>CAPUCINES-CAUMARTIN</description>
+	<Point>
+		<coordinates>2.3294755544935,48.8702444579527</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>ROND POINT DES CHAMPS ELYSEES</description>
+	<Point>
+		<coordinates>2.31236440574713,48.8698286948213</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>BEAUVAU</description>
+	<Point>
+		<coordinates>2.31579697016683,48.8712223987965</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>HAUSSMANN-COURCELLES</description>
+	<Point>
+		<coordinates>2.30836973461796,48.875148285217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>HAUSSMANN-COURCELLES</description>
+	<Point>
+		<coordinates>2.30866964752316,48.8748517766767</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>52 (PARC DE SAINT CLOUD/OPERA)</name>
+	<description>FRIEDLAND-HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30387368480145,48.8748505296866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33256805862983,48.8710444920865</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PONT CARDINET</description>
+	<Point>
+		<coordinates>2.31331002546855,48.8872192613133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>GLUCK - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.33184581317791,48.8727610398122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PONT DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28022379334454,48.8969591066695</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>ROME - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32631409744291,48.873857112271</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PORTE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.30308662404053,48.8906948140143</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.32222523548062,48.8789344845369</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>VAILLANT COUTURIER</description>
+	<Point>
+		<coordinates>2.28768037353498,48.8963513151576</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>JULIETTE LAMBER</description>
+	<Point>
+		<coordinates>2.30406939510483,48.8883853833511</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>ALSACE</description>
+	<Point>
+		<coordinates>2.29900920784023,48.8938480728559</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>ROME - BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.31982587170795,48.8824841241059</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>EUROPE</description>
+	<Point>
+		<coordinates>2.3218981909503,48.8790063409982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32357505050883,48.8757351750015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>VAILLANT COUTURIER</description>
+	<Point>
+		<coordinates>2.28735408850616,48.8954704387369</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PONT CARDINET</description>
+	<Point>
+		<coordinates>2.31354177383797,48.8870665250873</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>ARISTIDE BRIAND</description>
+	<Point>
+		<coordinates>2.28991836054984,48.8935302588536</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>JOUFFROY - TOCQUEVILLE</description>
+	<Point>
+		<coordinates>2.309058572081,48.8862477124655</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33290859951983,48.871718554354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>ALSACE</description>
+	<Point>
+		<coordinates>2.29952764077836,48.8931652136867</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>LEGENDRE</description>
+	<Point>
+		<coordinates>2.31641781351722,48.8857998653402</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>TREZEL</description>
+	<Point>
+		<coordinates>2.29592825846194,48.8945929786513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PEREIRE - TOCQUEVILLE</description>
+	<Point>
+		<coordinates>2.30648196188688,48.8878288240834</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>MARJOLIN</description>
+	<Point>
+		<coordinates>2.29246648142816,48.8942861649477</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>JOUFFROY - TOCQUEVILLE</description>
+	<Point>
+		<coordinates>2.3093856897594,48.8861579172384</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>POMPIDOU</description>
+	<Point>
+		<coordinates>2.27767488275254,48.8969308986031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>MARJOLIN</description>
+	<Point>
+		<coordinates>2.29233151350829,48.8927493092604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>ROUQUIER - RIVAY</description>
+	<Point>
+		<coordinates>2.29073708446311,48.8924880697848</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PLACE MARIE-JEANNE BASSOT</description>
+	<Point>
+		<coordinates>2.2830311918538,48.8974636963146</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PEREIRE - TOCQUEVILLE</description>
+	<Point>
+		<coordinates>2.30710910437396,48.8874155728742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>ROME - BATIGNOLLES</description>
+	<Point>
+		<coordinates>2.32086183448197,48.8814776994234</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>HAVRE - CAUMARTIN</description>
+	<Point>
+		<coordinates>2.32793546925194,48.8736325674048</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>LEGENDRE</description>
+	<Point>
+		<coordinates>2.31696302644655,48.8855393300279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>TREZEL</description>
+	<Point>
+		<coordinates>2.29519154101644,48.8954465003984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>BAUDIN</description>
+	<Point>
+		<coordinates>2.28578468349174,48.8974020069859</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PONT DE LEVALLOIS</description>
+	<Point>
+		<coordinates>2.28022379334454,48.8969591066695</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>HAVRE - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.32766306586281,48.8731562183553</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>VICTOR HUGO - JEAN JAURES</description>
+	<Point>
+		<coordinates>2.2971000974847,48.8950427368045</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>GARE SAINT-LAZARE</description>
+	<Point>
+		<coordinates>2.32300232084046,48.8774606669194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>ARISTIDE BRIAND</description>
+	<Point>
+		<coordinates>2.28986415361428,48.8931887250647</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>AUBER</description>
+	<Point>
+		<coordinates>2.32989763499652,48.8720329627605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>JULIETTE LAMBER</description>
+	<Point>
+		<coordinates>2.30454646463984,48.8882686816091</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PARC MATHILDE GIRAULT</description>
+	<Point>
+		<coordinates>2.2813416565306,48.8968248291296</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PORTE D'ASNIERES</description>
+	<Point>
+		<coordinates>2.30256870777657,48.890712638796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>VICTOR HUGO - JEAN JAURES</description>
+	<Point>
+		<coordinates>2.29724991177111,48.8951955687416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>ANATOLE FRANCE - PAUL VAILLANT-COUTURIER</description>
+	<Point>
+		<coordinates>2.28229730919492,48.8954053046684</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>53 (PONT DE LEVALLOIS/OPERA)</name>
+	<description>PARC DE LA PLANCHETTE</description>
+	<Point>
+		<coordinates>2.28570397135631,48.8963235154488</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>537 (DEBAIN./PAYRET)</name>
+	<description>MICHELET-DOCTEUR BAUER</description>
+	<Point>
+		<coordinates>2.34362128027342,48.9055912110779</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>537 (DEBAIN./PAYRET)</name>
+	<description>BOURDARIAS</description>
+	<Point>
+		<coordinates>2.35188189083659,48.9021394430391</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>537 (DEBAIN./PAYRET)</name>
+	<description>PAYRET</description>
+	<Point>
+		<coordinates>2.3264717132913,48.9021308658349</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>537 (DEBAIN./PAYRET)</name>
+	<description>DEBAIN</description>
+	<Point>
+		<coordinates>2.34781971348288,48.9030206075316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>537 (DEBAIN./PAYRET)</name>
+	<description>MICHELET-DOCTEUR BAUER</description>
+	<Point>
+		<coordinates>2.34469820422506,48.9050249630163</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>537 (DEBAIN./PAYRET)</name>
+	<description>PASTEUR</description>
+	<Point>
+		<coordinates>2.32883015602559,48.9015468942882</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>537 (DEBAIN./PAYRET)</name>
+	<description>FARCOT</description>
+	<Point>
+		<coordinates>2.33086077352734,48.9059057572118</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>537 (DEBAIN./PAYRET)</name>
+	<description>DEBAIN.</description>
+	<Point>
+		<coordinates>2.34914197049194,48.9026879605882</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>537 (DEBAIN./PAYRET)</name>
+	<description>GARIBALDI OTTINO</description>
+	<Point>
+		<coordinates>2.3314742993773,48.9055642798257</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PORTE D'AUBERVILLIERS T3B</description>
+	<Point>
+		<coordinates>2.37014647340109,48.8983702027604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.35830703331918,48.8795087574334</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>MAIRIE DE CLICHY-METRO</description>
+	<Point>
+		<coordinates>2.30607743784693,48.9032955993771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>CRIMEE</description>
+	<Point>
+		<coordinates>2.37628798302193,48.8902619344276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PORTE D'AUBERVILLIERS - CITE CH. HERMITE</description>
+	<Point>
+		<coordinates>2.37010610433962,48.8991970292582</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>QUAI DE LA SEINE - STALINGRAD</description>
+	<Point>
+		<coordinates>2.36951083420235,48.8845391098844</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>CRIMEE - CURIAL</description>
+	<Point>
+		<coordinates>2.37300596765859,48.8939746665327</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PORTE D'AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37009296853803,48.8999789121068</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>ROCHECHOUART - MARTYRS</description>
+	<Point>
+		<coordinates>2.34015716907374,48.8817753705681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>CRIMEE - CURIAL</description>
+	<Point>
+		<coordinates>2.37393265601255,48.8937676803049</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PORTE DE CLICHY</description>
+	<Point>
+		<coordinates>2.31237972758315,48.8946874183053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>CHAUDRON - SAINT MARTIN</description>
+	<Point>
+		<coordinates>2.36663425218831,48.882436840421</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LA FOURCHE</description>
+	<Point>
+		<coordinates>2.32478480995816,48.8876973360729</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LOUIS BLANC</description>
+	<Point>
+		<coordinates>2.36652499856179,48.8820144667554</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LA FOURCHE</description>
+	<Point>
+		<coordinates>2.32515274182534,48.8878321820611</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>ROCHECHOUART - MARTYRS</description>
+	<Point>
+		<coordinates>2.340238959386,48.8822966288448</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>MAROC - FLANDRE</description>
+	<Point>
+		<coordinates>2.3711060723203,48.8858058660564</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>BLANCHE</description>
+	<Point>
+		<coordinates>2.33356170198766,48.8836986184134</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LA FAYETTE - SAINT QUENTIN - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35506372675517,48.8786644830669</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LEGENDRE</description>
+	<Point>
+		<coordinates>2.32189512103072,48.8893686177065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LEON BLUM</description>
+	<Point>
+		<coordinates>2.30069044359578,48.9064215723683</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>GANNERON</description>
+	<Point>
+		<coordinates>2.32605259465121,48.8860528023631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>BOULAY</description>
+	<Point>
+		<coordinates>2.31618324069135,48.8929356551162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>ANVERS - SACRE COEUR</description>
+	<Point>
+		<coordinates>2.34413627846742,48.8825930465188</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>GARE DU NORD - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.35539118221145,48.8799046765241</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>CRIMEE - ARCHEREAU</description>
+	<Point>
+		<coordinates>2.37538958361431,48.8917720717194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>QUAI DE LA SEINE - STALINGRAD</description>
+	<Point>
+		<coordinates>2.36917012605271,48.8845032526985</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>CRIMEE</description>
+	<Point>
+		<coordinates>2.37756957919175,48.8908726363933</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LOUIS BLANC</description>
+	<Point>
+		<coordinates>2.36513479659546,48.8815115141609</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>RIQUET</description>
+	<Point>
+		<coordinates>2.37354699176007,48.8880160017829</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>RIQUET</description>
+	<Point>
+		<coordinates>2.37467850856401,48.8885189351466</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>MAGENTA - MAUBEUGE - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35158985615748,48.8813161938439</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LEGENDRE</description>
+	<Point>
+		<coordinates>2.32256293552161,48.8893417403088</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>MAGENTA - MAUBEUGE - GARE DU NORD</description>
+	<Point>
+		<coordinates>2.35119468009102,48.8812982662247</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>ANVERS - SACRE COEUR</description>
+	<Point>
+		<coordinates>2.34405457230729,48.8830154515311</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>BARBES - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34988698964506,48.8831947207417</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PIGALLE</description>
+	<Point>
+		<coordinates>2.33792239173687,48.8820809704755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>RUE DES MOINES</description>
+	<Point>
+		<coordinates>2.32061367594885,48.8904469083312</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>MAIRIE DE CLICHY-METRO</description>
+	<Point>
+		<coordinates>2.30399213471394,48.9025940426263</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>FLANDRE</description>
+	<Point>
+		<coordinates>2.37872944837695,48.8926157506106</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PLACE DE CLICHY</description>
+	<Point>
+		<coordinates>2.32697985775,48.8831769730803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>VICTOR HUGO - JEAN JAURES</description>
+	<Point>
+		<coordinates>2.30890277636114,48.8970143126366</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>BLANCHE</description>
+	<Point>
+		<coordinates>2.33154486343192,48.8837884112127</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>BARBES - ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34881048374798,48.8833476130351</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>CHATEAU LANDON</description>
+	<Point>
+		<coordinates>2.36215017715752,48.8807123094784</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PORTE D'AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37089710455363,48.8997899584638</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>BROCHANT - CARDINET</description>
+	<Point>
+		<coordinates>2.31810540637971,48.8918934676523</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>BOULAY</description>
+	<Point>
+		<coordinates>2.31584252174488,48.8928816714029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LANDY - MARTRE</description>
+	<Point>
+		<coordinates>2.30486342067585,48.9044725839563</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>BROCHANT - CARDINET</description>
+	<Point>
+		<coordinates>2.31813277786135,48.8915879080918</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>CAMBRAI</description>
+	<Point>
+		<coordinates>2.37724439458816,48.8933532057765</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>LA FAYETTE - DUNKERQUE</description>
+	<Point>
+		<coordinates>2.3578028954209,48.8795807435559</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PIGALLE</description>
+	<Point>
+		<coordinates>2.33743182883292,48.8825842579015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>CHATEAU LANDON</description>
+	<Point>
+		<coordinates>2.36280423717778,48.8806941965251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>ROCHECHOUART - CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34612594715257,48.8833927793145</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PORTE DE CLICHY</description>
+	<Point>
+		<coordinates>2.31329298647206,48.894597733835</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PLACE DE CLICHY - CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.33015478482803,48.8845163022278</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>GANNERON</description>
+	<Point>
+		<coordinates>2.32657054331257,48.8856124762037</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>DANIELLE CASANOVA</description>
+	<Point>
+		<coordinates>2.30204124767809,48.90477734459</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>BARBUSSE - MARTRE</description>
+	<Point>
+		<coordinates>2.30798716810252,48.9011751283994</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>VICTOR HUGO - 8 MAI 1945</description>
+	<Point>
+		<coordinates>2.31019693944035,48.8984615414831</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>JAURES - BARBUSSE</description>
+	<Point>
+		<coordinates>2.30545190964302,48.9007520850359</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>ROCHECHOUART - CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34607136367888,48.8829524086942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>EVANGILE - AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37139837114358,48.8950895450934</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>EVANGILE - AUBERVILLIERS</description>
+	<Point>
+		<coordinates>2.37051326658134,48.8964288800854</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>PORTE D'AUBERVILLIERS T3B</description>
+	<Point>
+		<coordinates>2.37048728492462,48.8984240309959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>54 (GABRIEL PERI-METRO/PORTE D'AUBERVILLIERS)</name>
+	<description>MAROC - FLANDRE</description>
+	<Point>
+		<coordinates>2.37101080081935,48.8859946246756</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>541 (/CONSERVATOIRE-PRESSENSE)</name>
+	<description>BELLINI</description>
+	<Point>
+		<coordinates>2.25040437128376,48.8860935828966</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>541 (/CONSERVATOIRE)</name>
+	<description>BELLINI</description>
+	<Point>
+		<coordinates>2.25040437128376,48.8860935828966</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>541 (CIMETIERE NOUVEAU/CONSERVATOIRE-PRESSENSE)</name>
+	<description>BELLINI</description>
+	<Point>
+		<coordinates>2.25040437128376,48.8860935828966</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>BOULETS - MONTREUIL</description>
+	<Point>
+		<coordinates>2.38964684104183,48.8522763647181</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>CHARONNE</description>
+	<Point>
+		<coordinates>2.38610785775634,48.8543449844656</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>REPUBLIQUE - VOLTAIRE</description>
+	<Point>
+		<coordinates>2.36584868991427,48.866430644832</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>SAINT-AMBROISE</description>
+	<Point>
+		<coordinates>2.37446816410142,48.8612964696217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.36361547476228,48.8682106562407</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>56 (/PORTE DE CLIGNANCOURT)</name>
+	<description>JEAN-PIERRE TIMBAUD</description>
+	<Point>
+		<coordinates>2.36779606109361,48.8652887660184</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

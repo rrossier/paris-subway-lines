@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>FLEURUS</description>
+	<Point>
+		<coordinates>2.3296696313982,48.8473714946375</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>INVALIDES</description>
+	<Point>
+		<coordinates>2.31443834484032,48.8626571944597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32156336486674,48.8597644033169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>PORTE D'IVRY</description>
+	<Point>
+		<coordinates>2.36919977860088,48.8220583902243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36492844895846,48.8268139356788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>OBSERVATOIRE - PORT ROYAL</description>
+	<Point>
+		<coordinates>2.33729552435537,48.8395346111172</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>PASCAL</description>
+	<Point>
+		<coordinates>2.34870455328907,48.8356334545109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>PONT DES INVALIDES - PLACE DE FINLANDE</description>
+	<Point>
+		<coordinates>2.31114180972938,48.8628272778904</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36431577439684,48.8265803976316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>FRIEDLAND - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30640786160418,48.874941085642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37084736535523,48.8230645568309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>LYCEE CLAUDE MONET</description>
+	<Point>
+		<coordinates>2.36250568575393,48.8272728443272</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32133158554197,48.8604923525608</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY - CLAUDE REGAUD/FRIEDLAND - HAUSSMANN)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35507502984851,48.8322713098167</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>VARENNE - RASPAIL</description>
+	<Point>
+		<coordinates>2.32582800732823,48.8539050834588</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>OLYMPIADES</description>
+	<Point>
+		<coordinates>2.36736515695904,48.8270020848632</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32499663608933,48.8563945226982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.31991465227557,48.861498743671</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>INVALIDES</description>
+	<Point>
+		<coordinates>2.31443834484032,48.8626571944597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>MICHELET</description>
+	<Point>
+		<coordinates>2.33483097789568,48.8420870500678</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>PORTE D'IVRY</description>
+	<Point>
+		<coordinates>2.36919977860088,48.8220583902243</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>PONSCARME</description>
+	<Point>
+		<coordinates>2.36861732847872,48.8267321320518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>GUYNEMER - VAVIN</description>
+	<Point>
+		<coordinates>2.33190316592646,48.8450887887647</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>HAUSSMANN - COURCELLES</description>
+	<Point>
+		<coordinates>2.30847890398947,48.8748427434678</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>MARCEL DUCHAMP</description>
+	<Point>
+		<coordinates>2.36969152288906,48.8248534238356</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>GLACIERE - ARAGO</description>
+	<Point>
+		<coordinates>2.34539607651638,48.8348068686338</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>PORT ROYAL - BERTHOLLET</description>
+	<Point>
+		<coordinates>2.34527393473245,48.8373144123737</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES - FRANKLIN D. ROOSEVELT</description>
+	<Point>
+		<coordinates>2.30985744009604,48.8702595368377</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>RENNES - D'ASSAS</description>
+	<Point>
+		<coordinates>2.32836202782737,48.8491599154437</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>INSTITUT DENTAIRE</description>
+	<Point>
+		<coordinates>2.35895405881969,48.83016756343</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>BANQUIER</description>
+	<Point>
+		<coordinates>2.35327864687729,48.8343027633353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>LYCEE CLAUDE MONET</description>
+	<Point>
+		<coordinates>2.36250568575393,48.8272728443272</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36431577439684,48.8265803976316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37084736535523,48.8230645568309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.3264276470239,48.8520537228249</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>OBSERVATOIRE - PORT ROYAL</description>
+	<Point>
+		<coordinates>2.33711852175452,48.8393548598952</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35688514037341,48.8309138952506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>FLEURUS</description>
+	<Point>
+		<coordinates>2.3296696313982,48.8473714946375</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>OBSERVATOIRE - ASSAS</description>
+	<Point>
+		<coordinates>2.33632879753179,48.8405322259696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>PORT ROYAL - SAINT-JACQUES</description>
+	<Point>
+		<coordinates>2.34071297316912,48.8384560535363</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>SAINT-PHILIPPE-DU-ROULE</description>
+	<Point>
+		<coordinates>2.30985584447243,48.8732792768328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>CHATEAU DES RENTIERS</description>
+	<Point>
+		<coordinates>2.3722352573631,48.8223810933995</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>CHAMPS-ELYSEES - CLEMENCEAU</description>
+	<Point>
+		<coordinates>2.31311465630567,48.8677797347218</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>PORTE D'IVRY - CLAUDE REGAUD</description>
+	<Point>
+		<coordinates>2.37254803193889,48.8219675676313</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32156336486674,48.8597644033169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32313021496388,48.8581378771023</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35116900739556,48.8364240992355</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>PASCAL</description>
+	<Point>
+		<coordinates>2.34870455328907,48.8356334545109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35485698783124,48.831615246566</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>GRAND PALAIS</description>
+	<Point>
+		<coordinates>2.31337464456936,48.8652813008168</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/)</name>
+	<description>FRIEDLAND - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30653059770448,48.8747523840497</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>OLYMPIADES</description>
+	<Point>
+		<coordinates>2.36736515695904,48.8270020848632</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>GUYNEMER - VAVIN</description>
+	<Point>
+		<coordinates>2.33190316592646,48.8450887887647</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>LYCEE CLAUDE MONET</description>
+	<Point>
+		<coordinates>2.36302292581328,48.8272098199544</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PORT ROYAL - BERTHOLLET</description>
+	<Point>
+		<coordinates>2.34513784718408,48.8377278497609</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>OBSERVATOIRE - PORT ROYAL</description>
+	<Point>
+		<coordinates>2.33729552435537,48.8395346111172</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES - FRANKLIN D. ROOSEVELT</description>
+	<Point>
+		<coordinates>2.30985744009604,48.8702595368377</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PASCAL</description>
+	<Point>
+		<coordinates>2.34801020326936,48.835606556514</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35485698783124,48.831615246566</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES</description>
+	<Point>
+		<coordinates>2.31017179414877,48.8683273304638</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32683624310107,48.851909959795</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>OBSERVATOIRE - PORT ROYAL</description>
+	<Point>
+		<coordinates>2.33711852175452,48.8393548598952</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>VARENNE - RASPAIL</description>
+	<Point>
+		<coordinates>2.32637283771051,48.8536444983189</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32313021496388,48.8581378771023</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>HAUSSMANN - COURCELLES</description>
+	<Point>
+		<coordinates>2.30847890398947,48.8748427434678</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>MARCEL DUCHAMP</description>
+	<Point>
+		<coordinates>2.36969152288906,48.8248534238356</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.32017338758452,48.8617144785673</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36492844895846,48.8268139356788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>OBSERVATOIRE - ASSAS</description>
+	<Point>
+		<coordinates>2.33638325548689,48.8408647656782</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>RENNES - D'ASSAS</description>
+	<Point>
+		<coordinates>2.32836202782737,48.8491599154437</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PASCAL</description>
+	<Point>
+		<coordinates>2.34870455328907,48.8356334545109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>INSTITUT DENTAIRE</description>
+	<Point>
+		<coordinates>2.35921278116731,48.8303382808533</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PONSCARME</description>
+	<Point>
+		<coordinates>2.36737788756083,48.8254831681502</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PORT ROYAL - BERTHOLLET</description>
+	<Point>
+		<coordinates>2.34527393473245,48.8373144123737</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32156336486674,48.8597644033169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.3264276470239,48.8520537228249</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>LA BOETIE - PERCIER</description>
+	<Point>
+		<coordinates>2.3137931935551,48.873558723734</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>BANQUIER</description>
+	<Point>
+		<coordinates>2.35401363042885,48.8337274559133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>FLEURUS</description>
+	<Point>
+		<coordinates>2.3296696313982,48.8473714946375</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>GLACIERE - ARAGO</description>
+	<Point>
+		<coordinates>2.34539607651638,48.8348068686338</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>FRIEDLAND - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30640786160418,48.874941085642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>FLEURUS</description>
+	<Point>
+		<coordinates>2.33055485586198,48.8467873600655</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32359332630885,48.8580840065779</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>MICHELET</description>
+	<Point>
+		<coordinates>2.33442244701506,48.8428599691313</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>GUYNEMER - VAVIN</description>
+	<Point>
+		<coordinates>2.33273385310795,48.8445675471033</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>ROND-POINT DES CHAMPS-ELYSEES - MATIGNON</description>
+	<Point>
+		<coordinates>2.31078440141903,48.8691812658736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>TOLBIAC - BAUDRICOURT</description>
+	<Point>
+		<coordinates>2.36431577439684,48.8265803976316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PONSCARME</description>
+	<Point>
+		<coordinates>2.36861732847872,48.8267321320518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35651775655058,48.8313902990204</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>HAUSSMANN - COURCELLES</description>
+	<Point>
+		<coordinates>2.30845156433616,48.8750045082518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32133158554197,48.8604923525608</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>CHATEAU DES RENTIERS</description>
+	<Point>
+		<coordinates>2.3722352573631,48.8223810933995</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PORT ROYAL - SAINT-JACQUES</description>
+	<Point>
+		<coordinates>2.3405223731705,48.838689735587</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>CLAUDE REGAUD</description>
+	<Point>
+		<coordinates>2.37245262076081,48.8217698668029</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PLACE D'ITALIE</description>
+	<Point>
+		<coordinates>2.35688514037341,48.8309138952506</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>GLACIERE - ARAGO</description>
+	<Point>
+		<coordinates>2.34519196670745,48.8354989267582</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.37084736535523,48.8230645568309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PLACE D'ITALIE - MAIRIE DU 13E</description>
+	<Point>
+		<coordinates>2.35507502984851,48.8322713098167</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>VARENNE - RASPAIL</description>
+	<Point>
+		<coordinates>2.32582800732823,48.8539050834588</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>FRIEDLAND - HAUSSMANN</description>
+	<Point>
+		<coordinates>2.30653059770448,48.8747523840497</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35116900739556,48.8364240992355</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>INVALIDES</description>
+	<Point>
+		<coordinates>2.31424752953183,48.8629088046315</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PONT DES INVALIDES - PLACE DE FINLANDE</description>
+	<Point>
+		<coordinates>2.31114180972938,48.8628272778904</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>REGNAULT</description>
+	<Point>
+		<coordinates>2.368628783461,48.8231640267489</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32499663608933,48.8563945226982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PORT ROYAL - SAINT-JACQUES</description>
+	<Point>
+		<coordinates>2.34071297316912,48.8384560535363</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.31991465227557,48.861498743671</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>MATIGNON - SAINT-HONORE</description>
+	<Point>
+		<coordinates>2.31436617072371,48.8718692198722</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32569129251567,48.8562418057548</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>RENNES - D'ASSAS</description>
+	<Point>
+		<coordinates>2.32849818350915,48.8493127128037</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>OBSERVATOIRE - ASSAS</description>
+	<Point>
+		<coordinates>2.33632879753179,48.8405322259696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>MICHELET</description>
+	<Point>
+		<coordinates>2.33483097789568,48.8420870500678</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>PALAIS DE LA DECOUVERTE</description>
+	<Point>
+		<coordinates>2.31030960909461,48.8652806470472</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>INVALIDES</description>
+	<Point>
+		<coordinates>2.31443834484032,48.8626571944597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>CHAMPS-ELYSEES - CLEMENCEAU</description>
+	<Point>
+		<coordinates>2.31311465630567,48.8677797347218</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>BANQUIER</description>
+	<Point>
+		<coordinates>2.35327864687729,48.8343027633353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>SAINT-PHILIPPE-DU-ROULE</description>
+	<Point>
+		<coordinates>2.31011475665935,48.8731894629672</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>LYCEE CLAUDE MONET</description>
+	<Point>
+		<coordinates>2.36250568575393,48.8272728443272</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>LES GOBELINS</description>
+	<Point>
+		<coordinates>2.35119629738577,48.8366487855155</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>GRAND PALAIS</description>
+	<Point>
+		<coordinates>2.31337464456936,48.8652813008168</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>INSTITUT DENTAIRE</description>
+	<Point>
+		<coordinates>2.35895405881969,48.83016756343</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>NATIONALE</description>
+	<Point>
+		<coordinates>2.36911820068458,48.8222022150274</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>83 (PORTE D'IVRY/FRIEDLAND - HAUSSMANN)</name>
+	<description>SAINT-PHILIPPE-DU-ROULE</description>
+	<Point>
+		<coordinates>2.30985584447243,48.8732792768328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>SAINT-SULPICE</description>
+	<Point>
+		<coordinates>2.33282865277573,48.8506520871072</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MURILLO</description>
+	<Point>
+		<coordinates>2.30562939935526,48.8779606104522</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.31991465227557,48.861498743671</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>PEREIRE</description>
+	<Point>
+		<coordinates>2.29804811452684,48.8850852476861</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>SENAT</description>
+	<Point>
+		<coordinates>2.33563411382856,48.8493040361026</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MURILLO</description>
+	<Point>
+		<coordinates>2.3047572580693,48.8781131595136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MAIRIE DU VE - PANTHEON</description>
+	<Point>
+		<coordinates>2.34389999958136,48.8465536877897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>COURCELLES</description>
+	<Point>
+		<coordinates>2.30366664482821,48.8789666480505</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.34029142984916,48.8475424598104</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>LILLE - UNIVERSITE</description>
+	<Point>
+		<coordinates>2.32156336486674,48.8597644033169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.33997822034651,48.8475065173935</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32325283346741,48.8580120676646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>SENAT</description>
+	<Point>
+		<coordinates>2.33621969953497,48.8491153054001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.3315620359878,48.8514968558042</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.33104444025582,48.8521888649571</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>WAGRAM - COURCELLES</description>
+	<Point>
+		<coordinates>2.30018992645348,48.8818954639577</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>CONCORDE</description>
+	<Point>
+		<coordinates>2.3211797420404,48.8669812212537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>WAGRAM - COURCELLES</description>
+	<Point>
+		<coordinates>2.30042151087914,48.881994395486</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>ANJOU - CHAUVEAU LAGARDE</description>
+	<Point>
+		<coordinates>2.32140972092439,48.8722478321016</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>HAUSSMANN - MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31512753314951,48.8755901091713</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>PEREIRE - MARECHAL JUIN</description>
+	<Point>
+		<coordinates>2.29822594301462,48.8841955704416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>CONCORDE</description>
+	<Point>
+		<coordinates>2.322324085387,48.8668914965716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>PORTE DE CHAMPERRET</description>
+	<Point>
+		<coordinates>2.29274629794143,48.8858832484944</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32748998264017,48.8517302658206</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>PORTE DE COURCELLES</description>
+	<Point>
+		<coordinates>2.29478932568035,48.8872770121354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MUSEE DU LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.33281517187597,48.8490433272973</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>SEVRES - BABYLONE</description>
+	<Point>
+		<coordinates>2.32637313746421,48.8522154922386</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.31875223016937,48.8744044036858</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32499663608933,48.8563945226982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>PEREIRE - MARECHAL JUIN</description>
+	<Point>
+		<coordinates>2.29795346416087,48.8841056085814</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>ANJOU - CHAUVEAU LAGARDE</description>
+	<Point>
+		<coordinates>2.32160038390391,48.8724995021978</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>HAUSSMANN - MIROMESNIL</description>
+	<Point>
+		<coordinates>2.31379253473592,48.8750146668336</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>SOLFERINO - BELLECHASSE</description>
+	<Point>
+		<coordinates>2.32344346262885,48.8582277880457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MADELEINE</description>
+	<Point>
+		<coordinates>2.32326359085961,48.8686261694403</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MADELEINE</description>
+	<Point>
+		<coordinates>2.32534764412475,48.8699565222805</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>RUYSDAEL - PARC MONCEAU</description>
+	<Point>
+		<coordinates>2.31088929424278,48.8772339205965</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>COURCELLES</description>
+	<Point>
+		<coordinates>2.30267166085162,48.8793977523439</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>VARENNE - RASPAIL</description>
+	<Point>
+		<coordinates>2.32637283771051,48.8536444983189</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>SAINT-AUGUSTIN</description>
+	<Point>
+		<coordinates>2.3199103572957,48.8743416667568</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>RUE DU BAC - RENE CHAR</description>
+	<Point>
+		<coordinates>2.32547333158954,48.8564215330989</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MUSEE D'ORSAY</description>
+	<Point>
+		<coordinates>2.32340171051508,48.8615621119528</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MAIRIE DU VE - PANTHEON</description>
+	<Point>
+		<coordinates>2.34414511868712,48.84658962388</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>MUSEE DU LUXEMBOURG</description>
+	<Point>
+		<coordinates>2.33321012737035,48.8486568793144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>PANTHEON</description>
+	<Point>
+		<coordinates>2.34607883031429,48.846769246374</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>SAINT-SULPICE</description>
+	<Point>
+		<coordinates>2.33271968247269,48.8509037323205</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>VARENNE - RASPAIL</description>
+	<Point>
+		<coordinates>2.32582800732823,48.8539050834588</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.32024122356324,48.8625413284113</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>RUYSDAEL - PARC MONCEAU</description>
+	<Point>
+		<coordinates>2.30955380115513,48.8775931088837</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>84 (PORTE DE CHAMPERRET/PANTHEON)</name>
+	<description>PEREIRE - LE CHATELIER</description>
+	<Point>
+		<coordinates>2.29639887943534,48.8854621571488</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>BARBES-ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34924675563134,48.8842283188329</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>MAUBEUGE-ROCHECHOUART</description>
+	<Point>
+		<coordinates>2.34545749327646,48.8788183152194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>MULLER</description>
+	<Point>
+		<coordinates>2.34742115304675,48.8865921278772</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>MAIRIE DU XVIII-JULES JOFFRIN</description>
+	<Point>
+		<coordinates>2.34498265031782,48.8926676517566</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>LABAT</description>
+	<Point>
+		<coordinates>2.348266660754,48.8892882136644</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>PORTE DE CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34522862995695,48.8968736229286</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>CONDORCET-TRUDAINE</description>
+	<Point>
+		<coordinates>2.34635706715576,48.8803101358437</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>REAUMUR-MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34339877916549,48.8687167057222</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>GRANDS BOULEVARDS</description>
+	<Point>
+		<coordinates>2.34282681283582,48.8706849606959</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>RICHELIEU-4 SEPTEMBRE</description>
+	<Point>
+		<coordinates>2.33884864126677,48.8699750811066</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>PROVENCE-FAUBOURG MONTMARTRE</description>
+	<Point>
+		<coordinates>2.34301783480953,48.8732822872148</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>MULLER</description>
+	<Point>
+		<coordinates>2.34770734609219,48.886619064757</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>ROCHECHOUART-CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34713442748001,48.8837701638458</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>MAIRIE DU XVIII-JULES JOFFRIN</description>
+	<Point>
+		<coordinates>2.34454651896741,48.8927755252505</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>CUSTINE-RAMEY</description>
+	<Point>
+		<coordinates>2.34688992743925,48.8880211380388</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>PONT NEUF-QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.3407279386904,48.8586149969114</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>RIVOLI-PONT NEUF</description>
+	<Point>
+		<coordinates>2.34450101387798,48.8597652160947</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>LOUVRE-ETIENNE MARCEL</description>
+	<Point>
+		<coordinates>2.34348017240757,48.8658317605493</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>CADET</description>
+	<Point>
+		<coordinates>2.34412180010684,48.8761671520965</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>LA TOUR D'AUVERGNE</description>
+	<Point>
+		<coordinates>2.34314114815306,48.8793846500717</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>EUGENE SUE</description>
+	<Point>
+		<coordinates>2.34873049194773,48.8913462353851</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>ALBERT KAHN</description>
+	<Point>
+		<coordinates>2.34596442560963,48.8953187957447</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>MICHELET-ROSIERS</description>
+	<Point>
+		<coordinates>2.34374326792968,48.8999293357486</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>PROVENCE-DROUOT</description>
+	<Point>
+		<coordinates>2.34059275500012,48.8744956662297</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>CITE-PALAIS DE JUSTICE</description>
+	<Point>
+		<coordinates>2.3458215508095,48.8555680008374</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>ROCHECHOUART-CLIGNANCOURT</description>
+	<Point>
+		<coordinates>2.34616672039771,48.8827636695497</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>ALBERT KAHN</description>
+	<Point>
+		<coordinates>2.34619606896833,48.8949053696925</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>85 (MAIRIE DE SAINT OUEN/LUXEMBOURG)</name>
+	<description>PAUL BERT</description>
+	<Point>
+		<coordinates>2.34043100898041,48.9030749559421</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

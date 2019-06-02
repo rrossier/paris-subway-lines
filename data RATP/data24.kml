@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Test</name><Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>ARMORIQUE - MUSEE POSTAL</description>
+	<Point>
+		<coordinates>2.31601373610494,48.8409347750409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>BARTHOLOME</description>
+	<Point>
+		<coordinates>2.30069195239904,48.8270002790587</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>JACOB</description>
+	<Point>
+		<coordinates>2.33447620294811,48.85612549785</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33262256945984,48.8708737349866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>OPERA</description>
+	<Point>
+		<coordinates>2.33151901872723,48.8710444462172</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PORTE DE VANVES</description>
+	<Point>
+		<coordinates>2.30470799576228,48.8263543338928</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>MORILLONS</description>
+	<Point>
+		<coordinates>2.30569865060422,48.8313427380383</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>LABROUSTE - VOUILLE</description>
+	<Point>
+		<coordinates>2.30831090794173,48.8340846218736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>INSTITUT PASTEUR</description>
+	<Point>
+		<coordinates>2.31139922424638,48.8383094959408</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PASTEUR - FALGUIERE</description>
+	<Point>
+		<coordinates>2.31387603014561,48.8409253870072</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>ARMORIQUE - MUSEE POSTAL</description>
+	<Point>
+		<coordinates>2.3164903963758,48.8406832077608</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.33101730825852,48.8513080916416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.33444869668747,48.861050602522</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PYRAMIDES</description>
+	<Point>
+		<coordinates>2.3336310238009,48.8667306044441</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>SAINT-GERMAIN-DES-PRES</description>
+	<Point>
+		<coordinates>2.3335093442476,48.8539145600392</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>BUCAREST</description>
+	<Point>
+		<coordinates>2.32451407790122,48.8802379045771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PLACE JACQUES FROMENT</description>
+	<Point>
+		<coordinates>2.33109433678229,48.8907534749165</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>DAMREMONT - LAMARCK</description>
+	<Point>
+		<coordinates>2.33369750995386,48.8904659911406</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DE L'ARRIVEE</description>
+	<Point>
+		<coordinates>2.32238519415108,48.843811752755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PASTEUR - DOCTEUR ROUX</description>
+	<Point>
+		<coordinates>2.31224177401508,48.8416260834535</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>POTEAU - BELLIARD</description>
+	<Point>
+		<coordinates>2.33815430198709,48.89673907923</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>JACOB</description>
+	<Point>
+		<coordinates>2.33128914202698,48.8560085442319</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>GARE SAINT-LAZARE - BUDAPEST</description>
+	<Point>
+		<coordinates>2.32670851174227,48.8772992814638</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>PROCESSION</description>
+	<Point>
+		<coordinates>2.30792749597285,48.8380031142056</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>95 (PORTE DE MONTMARTRE/PORTE DE VANVES)</name>
+	<description>BRANCION</description>
+	<Point>
+		<coordinates>2.30143923501063,48.8290227255052</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>MENILMONTANT - PELLEPORT</description>
+	<Point>
+		<coordinates>2.39970627501034,48.8707585963611</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-CLAUDE</description>
+	<Point>
+		<coordinates>2.3645918588954,48.8597083749361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>PYRENEES - MENILMONTANT</description>
+	<Point>
+		<coordinates>2.39409209029324,48.869691913929</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>PYRENEES - MENILMONTANT</description>
+	<Point>
+		<coordinates>2.39362903664244,48.86982694402</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>PLACE DES VOSGES</description>
+	<Point>
+		<coordinates>2.36422253313021,48.8567066602481</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>PLACE DU 18 JUIN 1940 - RUE DE L'ARRIVEE</description>
+	<Point>
+		<coordinates>2.32238519415108,48.843811752755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>HENRI CHEVREAU</description>
+	<Point>
+		<coordinates>2.389349835369,48.8684358537552</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>EGLISE SAINT-SULPICE</description>
+	<Point>
+		<coordinates>2.33786752179733,48.8514700277748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>RENNES - D'ASSAS</description>
+	<Point>
+		<coordinates>2.32902931987459,48.8491419884162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>HENRI CHEVREAU</description>
+	<Point>
+		<coordinates>2.38903663624947,48.8685708005147</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>CITE - PALAIS DE JUSTICE</description>
+	<Point>
+		<coordinates>2.34576705378764,48.8554601554539</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>PISCINE DES TOURELLES</description>
+	<Point>
+		<coordinates>2.4057060335086,48.8747546570136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>BELLEVILLE - MENILMONTANT</description>
+	<Point>
+		<coordinates>2.38302765166351,48.8672880694251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>MAISON DES METALLOS</description>
+	<Point>
+		<coordinates>2.3774562383992,48.8677484348346</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>PARMENTIER - REPUBLIQUE</description>
+	<Point>
+		<coordinates>2.37407560869567,48.8647657229989</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>BRETAGNE</description>
+	<Point>
+		<coordinates>2.36573720053511,48.8618650832918</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>BELLEVILLE - MENILMONTANT</description>
+	<Point>
+		<coordinates>2.38246865015265,48.8667580287491</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>OBERKAMPF - RICHARD LENOIR</description>
+	<Point>
+		<coordinates>2.36989279908343,48.8635266841758</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>JULIEN LACROIX</description>
+	<Point>
+		<coordinates>2.38680189204892,48.8680145352053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-PAUL</description>
+	<Point>
+		<coordinates>2.36148401823829,48.8548468488603</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>RENNES - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32587057748846,48.8461039539438</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>JEAN-PIERRE TIMBAUD - RICHARD LENOIR</description>
+	<Point>
+		<coordinates>2.36996233155611,48.8657824962114</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-FARGEAU</description>
+	<Point>
+		<coordinates>2.4045991273043,48.8722208655776</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-MICHEL</description>
+	<Point>
+		<coordinates>2.34396900728127,48.8536627808328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>MENILMONTANT - PELLEPORT</description>
+	<Point>
+		<coordinates>2.39849359618603,48.8706244158495</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.3524685258237,48.8572659623211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>RENNES - LITTRE</description>
+	<Point>
+		<coordinates>2.32499936040638,48.8448635905567</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.3483278354662,48.8566732488708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>GARE MONTPARNASSE</description>
+	<Point>
+		<coordinates>2.31996215085178,48.841600492154</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-MICHEL - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.34383264753499,48.8523506194006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>BONAPARTE - SAINT-GERMAIN</description>
+	<Point>
+		<coordinates>2.33337325449843,48.8525214997513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>PLACE DU 18 JUIN 1940</description>
+	<Point>
+		<coordinates>2.32337927165827,48.8436051596005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-GERMAIN - ODEON</description>
+	<Point>
+		<coordinates>2.33933837282757,48.8521081213341</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>PISCINE DES TOURELLES</description>
+	<Point>
+		<coordinates>2.40536522297514,48.8746110554504</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>CITE - PALAIS DE JUSTICE</description>
+	<Point>
+		<coordinates>2.34610752886951,48.855343293887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>RENNES - D'ASSAS</description>
+	<Point>
+		<coordinates>2.32836208174357,48.8488453533553</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-GERMAIN - ODEON</description>
+	<Point>
+		<coordinates>2.34019633272195,48.851541892752</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.3305679000652,48.8512361674895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-PAUL</description>
+	<Point>
+		<coordinates>2.36133436911715,48.8552063770058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>RENNES - SAINT-PLACIDE</description>
+	<Point>
+		<coordinates>2.32645605970566,48.8464095837486</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>CHATELET - HOTEL DE VILLE</description>
+	<Point>
+		<coordinates>2.35028930211428,48.8573471076079</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>EGLISE SAINT-GERVAIS</description>
+	<Point>
+		<coordinates>2.35517846666798,48.8558365833933</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>BRETAGNE</description>
+	<Point>
+		<coordinates>2.36502910487452,48.8622786706056</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>RENNES - LITTRE</description>
+	<Point>
+		<coordinates>2.32463170745461,48.8448365896025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>OBERKAMPF - FILLES DU CALVAIRE</description>
+	<Point>
+		<coordinates>2.36748115365598,48.8625566827664</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-MAUR - JEAN AICARD</description>
+	<Point>
+		<coordinates>2.3763917767627,48.8652772648192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>COURONNES</description>
+	<Point>
+		<coordinates>2.37990916693745,48.8687002408842</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-CLAUDE</description>
+	<Point>
+		<coordinates>2.36436033150745,48.8597623523118</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>JULIEN LACROIX</description>
+	<Point>
+		<coordinates>2.3867608425608,48.8678258178774</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>PLACE DES VOSGES</description>
+	<Point>
+		<coordinates>2.3644949687302,48.8567695102796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>OBERKAMPF - FILLES DU CALVAIRE</description>
+	<Point>
+		<coordinates>2.36616036323908,48.863473724038</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>PARMENTIER</description>
+	<Point>
+		<coordinates>2.37301436903922,48.8666444060744</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>RUE VIEILLE DU TEMPLE - MAIRIE DU 4E</description>
+	<Point>
+		<coordinates>2.35622739293317,48.8563666796943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SEINE - BUCI</description>
+	<Point>
+		<coordinates>2.33672353366025,48.852728273391</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>HOTEL DE VILLE DE PARIS_4E__ARRONDISSEMENT</description>
+	<Point>
+		<coordinates>2.34990765750363,48.856214732361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>SAINT-FARGEAU</description>
+	<Point>
+		<coordinates>2.40442208257399,48.8722748894461</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>RUE DE JOUY</description>
+	<Point>
+		<coordinates>2.35758903737318,48.8554497362942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>96 (PORTE DES LILAS/GARE MONTPARNASSE)</name>
+	<description>MICHEL DEBRE</description>
+	<Point>
+		<coordinates>2.33101730825852,48.8513080916416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25822802765542,48.8852632153808</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>ROND-POINT DES CHAMPS ELYSEES</description>
+	<Point>
+		<coordinates>2.30842730264424,48.8696300858979</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT DE SOLFERINO-QUAI DES TUILERIES</description>
+	<Point>
+		<coordinates>2.32588071333891,48.8619847819873</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT DE NEUILLY-RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.2516277296609,48.887999757621</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT DES INVALIDES-PLACE DE FINLANDE</description>
+	<Point>
+		<coordinates>2.3107331622675,48.8628182002308</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>CHARLES DE GAULLE-ETOILE-GRANDE ARMEE</description>
+	<Point>
+		<coordinates>2.29339646146911,48.8744696673586</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>SAINT PAUL</description>
+	<Point>
+		<coordinates>2.36149778911972,48.8551703940788</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>GARE DE LYON</description>
+	<Point>
+		<coordinates>2.372889766548,48.8439151988239</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>ROND POINT DES CHAMPS ELYSEES</description>
+	<Point>
+		<coordinates>2.30820950248414,48.8693154761241</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>CONCORDE-COURS LA REINE</description>
+	<Point>
+		<coordinates>2.31758356121136,48.8663335918983</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>LYON-LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.3709591225815,48.8484364783252</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>RUE DE L'HOTEL DE VILLE</description>
+	<Point>
+		<coordinates>2.26818037481486,48.8821328529965</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>ARGENTINE</description>
+	<Point>
+		<coordinates>2.28888534724192,48.8758699401804</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>MUSEE DU LOUVRE</description>
+	<Point>
+		<coordinates>2.3345576593685,48.8611944034366</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>GARE DE LYON-DIDEROT</description>
+	<Point>
+		<coordinates>2.37302712419482,48.8456407614732</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>RUE DE JOUY</description>
+	<Point>
+		<coordinates>2.35758903737318,48.8554497362942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>ALMA-MARCEAU</description>
+	<Point>
+		<coordinates>2.30322591291078,48.8653687080781</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>GEORGE V</description>
+	<Point>
+		<coordinates>2.30136900596423,48.8715244961005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>MUSEE D'ORSAY</description>
+	<Point>
+		<coordinates>2.32571748906891,48.8609332407767</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>LES SABLONS</description>
+	<Point>
+		<coordinates>2.27231032113666,48.8813173352353</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>JEAN NICOT-EGLISE AMERICAINE</description>
+	<Point>
+		<coordinates>2.30558421871074,48.8627001066534</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>LA BOETIE-CHAMPS ELYSEES</description>
+	<Point>
+		<coordinates>2.30586557996409,48.87045627342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PALAIS ROYAL-COMEDIE FRANCAISE</description>
+	<Point>
+		<coordinates>2.33623304691508,48.8628840594956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>MARCHE DE NEUILLY-SUR-SEINE</description>
+	<Point>
+		<coordinates>2.2747367646488,48.8805637032133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>MARCHE DE NEUILLY-SUR-SEINE</description>
+	<Point>
+		<coordinates>2.27436937535825,48.8801321213503</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>GEORGE V</description>
+	<Point>
+		<coordinates>2.30031946351164,48.872216199194</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PASTEUR-WAGNER</description>
+	<Point>
+		<coordinates>2.3682533388027,48.8554474381429</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>ANDRE MAUROIS</description>
+	<Point>
+		<coordinates>2.2796038155841,48.878382251022</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>GARE DE LYON</description>
+	<Point>
+		<coordinates>2.37389714715153,48.8435464044594</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>ILE SAINT LOUIS</description>
+	<Point>
+		<coordinates>2.35615752703234,48.8515224538504</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT NEUF-QUAI DU LOUVRE</description>
+	<Point>
+		<coordinates>2.34132723863083,48.8585161163163</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.2816354993719,48.877044111793</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT DES ARTS-QUAI DE CONTI</description>
+	<Point>
+		<coordinates>2.33769052977369,48.8576084555341</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>LES SABLONS</description>
+	<Point>
+		<coordinates>2.27156120036551,48.8810473069688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>VAN GOGH</description>
+	<Point>
+		<coordinates>2.37287615595069,48.8439241904224</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>INVALIDES</description>
+	<Point>
+		<coordinates>2.31424752953183,48.8629088046315</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>CHARLES DE GAULLE-ETOILE-GRANDE ARMEE</description>
+	<Point>
+		<coordinates>2.29357397750288,48.8740023926919</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>BIRAGUE</description>
+	<Point>
+		<coordinates>2.36533784570965,48.8538663704642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>LA BOETIE-CHAMPS ELYSEES</description>
+	<Point>
+		<coordinates>2.30589307748817,48.870042863305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PLACE DES VOSGES</description>
+	<Point>
+		<coordinates>2.36464449602761,48.8562122550592</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>LES GRAVIERS</description>
+	<Point>
+		<coordinates>2.26556217660865,48.8834704061674</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>HOTEL DE VILLE DE PARIS-IV</description>
+	<Point>
+		<coordinates>2.35023450824061,48.8560978605151</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>MUSEE D'ART MODERNE-PALAIS DE TOKYO</description>
+	<Point>
+		<coordinates>2.29587170222222,48.8630026999417</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT DE L'ARCHEVECHE</description>
+	<Point>
+		<coordinates>2.35098231704188,48.8512265763104</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>MONTROSIER</description>
+	<Point>
+		<coordinates>2.27912603520832,48.8791639116687</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>LOUVRE-RIVOLI</description>
+	<Point>
+		<coordinates>2.34031942819942,48.8604484400898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.36954531695001,48.8523913607558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT NEUF-QUAI DES GRANDS AUGUSTINS</description>
+	<Point>
+		<coordinates>2.34097290245689,48.8557210374282</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>CITE-PARVIS NOTRE DAME</description>
+	<Point>
+		<coordinates>2.34933503969242,48.8537342570174</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT DE NEUILLY-RIVE GAUCHE</description>
+	<Point>
+		<coordinates>2.2514110306508,48.8871817655604</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT SAINT MICHEL-QUAI DES ORFEVRES</description>
+	<Point>
+		<coordinates>2.3440508351572,48.8545165840652</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>BASTILLE-RUE SAINT ANTOINE</description>
+	<Point>
+		<coordinates>2.36833387270887,48.8534701783069</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>CONCORDE-QUAI DES TUILERIES</description>
+	<Point>
+		<coordinates>2.32085385155373,48.8636378753839</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>BASTILLE-BEAUMARCHAIS</description>
+	<Point>
+		<coordinates>2.36860661682938,48.8540632788096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>CHAMPS ELYSEES-CLEMENCEAU</description>
+	<Point>
+		<coordinates>2.31333265805671,48.867707879876</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>NOTRE DAME-QUAI DE MONTEBELLO</description>
+	<Point>
+		<coordinates>2.34809542728297,48.852530056894</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>ARGENTINE</description>
+	<Point>
+		<coordinates>2.28895385819218,48.875456552398</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>SAINT MICHEL</description>
+	<Point>
+		<coordinates>2.3438056207475,48.8540222880579</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PORTE MAILLOT</description>
+	<Point>
+		<coordinates>2.28408810210572,48.8770272567175</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT DU CARROUSEL-QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.33344091434556,48.8584442256332</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>ASSEMBLEE NATIONALE</description>
+	<Point>
+		<coordinates>2.32024122356324,48.8625413284113</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>BOSQUET-RAPP</description>
+	<Point>
+		<coordinates>2.29900521551756,48.862320705599</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>CHARLES DE GAULLE-ETOILE-CHAMPS ELYSEES</description>
+	<Point>
+		<coordinates>2.29674898908054,48.8734103518907</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PORTE MAILLOT-PALAIS DES CONGRES</description>
+	<Point>
+		<coordinates>2.2832281712979,48.8784917965964</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>RUE DE L'HOTEL DE VILLE</description>
+	<Point>
+		<coordinates>2.26730720435571,48.8829142341464</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT DE NEUILLY-METRO</description>
+	<Point>
+		<coordinates>2.25892260193861,48.8855512651409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT ROYAL</description>
+	<Point>
+		<coordinates>2.33068929459629,48.8605112105473</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>CHATELET</description>
+	<Point>
+		<coordinates>2.3483278354662,48.8566732488708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT NEUF-QUAI DES ORFEVRES</description>
+	<Point>
+		<coordinates>2.3413815579261,48.8564669812088</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>DAUMESNIL-LEDRU ROLLIN</description>
+	<Point>
+		<coordinates>2.37313797062049,48.8483998917547</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>BASTILLE</description>
+	<Point>
+		<coordinates>2.3687282754583,48.8525533538262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>GARE DE LYON-DIDEROT</description>
+	<Point>
+		<coordinates>2.37203332007976,48.846018531386</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>LES GRAVIERS</description>
+	<Point>
+		<coordinates>2.26545381913518,48.8829940171425</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>SAINT PAUL</description>
+	<Point>
+		<coordinates>2.36136146237011,48.8548918109597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>SAINT HONORE-VALOIS</description>
+	<Point>
+		<coordinates>2.33771781382747,48.8624436809117</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>CHARLES DE GAULLE-ETOILE-CHAMPS ELYSEES</description>
+	<Point>
+		<coordinates>2.29643587995881,48.8730867017994</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT D'IENA</description>
+	<Point>
+		<coordinates>2.29272642923128,48.8614197846093</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>MONTAIGNE-FRANCOIS 1ER</description>
+	<Point>
+		<coordinates>2.3068483548387,48.8672750085192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>BALABUS (LA DEFENSE-METRO-RER-TRAMWAY/GARE DE LYON)</name>
+	<description>PONT ROYAL-QUAI VOLTAIRE</description>
+	<Point>
+		<coordinates>2.32879606777446,48.8598370356632</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>LAMARCK - MONT CENIS</description>
+	<Point>
+		<coordinates>2.34265162068946,48.8890998691621</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>CUSTINE - MONT-CENIS</description>
+	<Point>
+		<coordinates>2.34333311281618,48.8896121063235</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>FUNICULAIRE</description>
+	<Point>
+		<coordinates>2.34286933227903,48.8859004136834</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>PLACE DU TERTRE - NORVINS</description>
+	<Point>
+		<coordinates>2.33932614104789,48.8868172238638</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>LAMARCK - CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.34041654937739,48.8895223474963</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>ABREUVOIR - GIRARDON</description>
+	<Point>
+		<coordinates>2.33844035565718,48.8884439201262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>MOULIN DE LA GALLETE</description>
+	<Point>
+		<coordinates>2.33718653788298,48.8874283720793</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>UTRILLO</description>
+	<Point>
+		<coordinates>2.34385057616705,48.8862328904303</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>MAIRIE DU 18E - JULES JOFFRIN</description>
+	<Point>
+		<coordinates>2.34465558406472,48.8929732361915</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>DREVET</description>
+	<Point>
+		<coordinates>2.34053895861635,48.8855859480364</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>SAULES - CORTOT</description>
+	<Point>
+		<coordinates>2.3399258253406,48.8877968175591</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>MARTYRS</description>
+	<Point>
+		<coordinates>2.33977565428444,48.882458409943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>PIGALLE</description>
+	<Point>
+		<coordinates>2.33792239173687,48.8820809704755</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>ORSEL</description>
+	<Point>
+		<coordinates>2.33984383501654,48.8833840941992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>LAMARCK - CAULAINCOURT</description>
+	<Point>
+		<coordinates>2.33880835503702,48.8894684561759</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>PLACE DU TERTRE - NORVINS</description>
+	<Point>
+		<coordinates>2.34143846411982,48.8865295776164</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>N0 88 RUE LEPIC</description>
+	<Point>
+		<coordinates>2.33638247627191,48.8872935608071</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>MAIRIE DU 18E - JULES JOFFRIN</description>
+	<Point>
+		<coordinates>2.34510533967497,48.8928204255857</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>DURANTIN - BURQ</description>
+	<Point>
+		<coordinates>2.3365732850995,48.8861881349958</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>GABRIELLE</description>
+	<Point>
+		<coordinates>2.33857659124357,48.8865206565345</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>YVONNE LE TAC</description>
+	<Point>
+		<coordinates>2.34087954780049,48.8841030459011</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>PIGALLE</description>
+	<Point>
+		<coordinates>2.33743182883292,48.8825842579015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>MOULIN DE LA GALETTE</description>
+	<Point>
+		<coordinates>2.33766352201311,48.8870598958606</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>TOURLAQUE</description>
+	<Point>
+		<coordinates>2.33403843620747,48.8872216229635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>CHAPPE</description>
+	<Point>
+		<coordinates>2.34157457818892,48.8845433969809</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>ABBESSES</description>
+	<Point>
+		<coordinates>2.33894447557191,48.8843547315178</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>MONT CENIS - CORTOT</description>
+	<Point>
+		<coordinates>2.34119324682249,48.8876619743348</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>CHEVALIER DE LA BARRE</description>
+	<Point>
+		<coordinates>2.34440944732885,48.8871585410405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>LAMARCK - BECQUEREL</description>
+	<Point>
+		<coordinates>2.34400076018788,48.888362850257</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>LES VIGNES</description>
+	<Point>
+		<coordinates>2.33974867087655,48.8880754246925</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>CUSTINE - RAMEY</description>
+	<Point>
+		<coordinates>2.34575893602747,48.8890098159794</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>THOLOZE</description>
+	<Point>
+		<coordinates>2.33470627812137,48.8859454548647</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>ABBESSES</description>
+	<Point>
+		<coordinates>2.33771801477576,48.8848670145787</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>MARCADET</description>
+	<Point>
+		<coordinates>2.34555468237779,48.8901062676903</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>MONTMAR (PIGALLE/MAIRIE DU 18E - JULES JOFFRIN)</name>
+	<description>CUSTINE - MONT-CENIS</description>
+	<Point>
+		<coordinates>2.34315597865097,48.8899626156115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>PONT DE NEUILLY</description>
+	<Point>
+		<coordinates>2.25875897426034,48.8856140680597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>HOTEL DE VILLE.</description>
+	<Point>
+		<coordinates>2.26899503634507,48.8843711453655</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>NAVETTE (HOTEL DE VILLE./)</name>
+	<description>PONT DE LA GRANDE JATTE</description>
+	<Point>
+		<coordinates>2.26704824920051,48.8930067145776</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>
